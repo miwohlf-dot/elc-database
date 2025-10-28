@@ -1,531 +1,531 @@
 admin_id,admin_province,admin_district,admin_llg,admin_ward,admin_village,admin_tribe,admin_clan
-1,Eastern Highlands,Okapat,East Okapa Rural,15,Sinkuara,Anonkafa,Tondamu
-2,Morobe,Finschafent,Yabim Mape Rural,17,Tirimala,Zaquing,Manewoke
+1,Eastern Highlands,Okapat,East Okapa Rural,,,,
+2,Morobe,Finschafent,Yabim Mape Rural,,,,
 3,,,,,,,
-4,Madang,Kalcar,Karkar Rural,25,Lilio,Takia,Malelinr
-5,Madang,Sumkart,Karkar Rural,20,Patilo,Takia ,Gubardan
+4,Madang,Kalcar,Karkar Rural,,,,
+5,Madang,Sumkart,Karkar Rural,,,,
 6,,,,,,,
-7,Madang,Sumkart,Karkar Rural,20,Daup,Takia,
-8,Madang,Sumkart,Karkar Rural,20,Patilo,Takia,Gubardan
-9,Madang,Sumkart,Karkar Rural,20,Daup,Takia,
-10,Chimbu (Simbu),Chuavet,Chuave Rural,7,KASUO,GOMIA KIBI,MAIMAGU
-11,Madang,Sumkart,Karkar Rural,29,Kilden,Kilden,Sabonen
-12,Madang,Karkar,Karkar Rural,29,Kilden,Kilden,Sabonen
-13,Chimbu (Simbu),Chuavet,Chuave Rural,7,Kasuo,Gomia kivi,Kivogu
-14,Madang,Sumkart,Karkar Rural,30,Muban,Muban,salebloi
-15,Madang,Usino Bundit,Usino Station ,30,Tutere,Kamasop,
-16,Chimbu (Simbu),kamtai,Tabare Rural,1,ninal dumanil,bulage,gola dagma
-17,Morobe,Finschafent,Kotte Rural,7,Moruruo,Kote ,Saang 
-18,Chimbu (Simbu),Sina Sina-Yonggomuglt,Tabare Rural,7,sula,mile ku,mile yaun
-19,Morobe,Laet,Lae Urban ,4,4 mile ,,
-20,Madang,Sumkart,Karkar Rural,27,kubasob,malol,kubasob malool
-21,Madang,Sumkart,Karkar Rural,23,boroman,takia,bidakan
-22,Eastern Highlands,Gorokat,Ward 5 ,5,Lapeigu,Lapegu,Ezagave 
-23,Madang,Sumkart,Karkar Rural,25,liloi,takia,liloi
-24,Madang,Sumkart,Karkar Rural,25,liloi,takia,liloi
-25,Madang,Rai Coastt,Naho Rawa Rural,14,Munabe Village ,Nahu,Mungo 
-26,Eastern Highlands,Henganofit,Dunantina Rural,1,akeyampo,lihona, lanofi
-27,Eastern Highlands,Henganofit,Dunantina Rural,8,kemenave,ikanofi,kenkao
-28,Chimbu (Simbu),Kerowagit,Upper/Lower Koronigl Rural,5,Miunde ,Dagle ,Mugluaku 
-29,Eastern Highlands,Henganofit,Dunantina Rural,8,kemenave,kanofi,kenkao
-30,Eastern Highlands,Kainantut,Kamano No. 1 Rural,6,Onenifi,Ramafi ,Onenofi 
-31,Eastern Highlands,Henganofit,Dunantina Rural,4,konange,tinteo,muno
-32,Eastern Highlands,Henganofit,Dunantina Rural,4,konange,tinteo,muno
-33,Eastern Highlands,Kainantut,Kamano No. 1 Rural,1,Bobonave ,Onompi,Janofi 
-34,Morobe,Huont,Wampar Rural,19,zifasing,wampar,owang rompon
-35,Western Highlands,Mul/Baiyert,Mul Rural,2,Kelngha ,Kumdi ,Kupemb 
-36,Eastern Highlands,Henganofit,Dunantina Rural,4,Bafo,Kafe,Hangoa
-37,Madang,Madangt,Ambenob Rural,9,Belan ,Mabonob,Wakai Alag 
-38,Eastern Highlands,Henganofit,Dunantina Rural,4,BANKA,Yagafonave,yohonofi
-39,Morobe,Tawae/Siassit,Siassi Rural,18,Yaga ,Tuam,Patnau 
+7,Madang,Sumkart,Karkar Rural,,,,
+8,Madang,Sumkart,Karkar Rural,,,,
+9,Madang,Sumkart,Karkar Rural,,,,
+10,Chimbu (Simbu),Chuavet,Chuave Rural,,,,
+11,Madang,Sumkart,Karkar Rural,,,,
+12,Madang,Karkar,Karkar Rural,,,,
+13,Chimbu (Simbu),Chuavet,Chuave Rural,,,,
+14,Madang,Sumkart,Karkar Rural,,,,
+15,Madang,Usino Bundit,Usino Station ,,,,
+16,Chimbu (Simbu),kamtai,Tabare Rural,,,,
+17,Morobe,Finschafent,Kotte Rural,,,,
+18,Chimbu (Simbu),Sina Sina-Yonggomuglt,Tabare Rural,,,,
+19,Morobe,Laet,Lae Urban ,,,,
+20,Madang,Sumkart,Karkar Rural,,,,
+21,Madang,Sumkart,Karkar Rural,,,,
+22,Eastern Highlands,Gorokat,Ward 5 ,,,,
+23,Madang,Sumkart,Karkar Rural,,,,
+24,Madang,Sumkart,Karkar Rural,,,,
+25,Madang,Rai Coastt,Naho Rawa Rural,,,,
+26,Eastern Highlands,Henganofit,Dunantina Rural,,,,
+27,Eastern Highlands,Henganofit,Dunantina Rural,,,,
+28,Chimbu (Simbu),Kerowagit,Upper/Lower Koronigl Rural,,,,
+29,Eastern Highlands,Henganofit,Dunantina Rural,,,,
+30,Eastern Highlands,Kainantut,Kamano No. 1 Rural,,,,
+31,Eastern Highlands,Henganofit,Dunantina Rural,,,,
+32,Eastern Highlands,Henganofit,Dunantina Rural,,,,
+33,Eastern Highlands,Kainantut,Kamano No. 1 Rural,,,,
+34,Morobe,Huont,Wampar Rural,,,,
+35,Western Highlands,Mul/Baiyert,Mul Rural,,,,
+36,Eastern Highlands,Henganofit,Dunantina Rural,,,,
+37,Madang,Madangt,Ambenob Rural,,,,
+38,Eastern Highlands,Henganofit,Dunantina Rural,,,,
+39,Morobe,Tawae/Siassit,Siassi Rural,,,,
 40,Madang,Sumkart,Karkar Rural,,,,
-41,Eastern Highlands,Henganofit,Kafentina Rural,6,Konamempi ,Kosegnafamo ,Kekave 
-42,Madang,Sumkart,Karkar Rural,20,patilo,gugoi,fafane
-43,Madang,Madangt,South Ambenob ,17,soo,soo,soo Maboh 
-44,Eastern Highlands,Kainantut,Agarabi Rural,1,atara,anona,bane
-45,Morobe,Finschafent,Kotte Rural,3,Merikeo,Rumingo ,Kofoc 
-46,Madang,Sumkart,Karkar Rural,25,liloi,tagub,clanei
-47,Eastern Highlands,Henganofit,Dunantina Rural,5,Titegave,Hegimpare,munonofi
-48,Madang,Madangt,Ileg ,1,Kul ,Biguk Sinam ,Lubefadol
-49,Madang,Madangt,Transgogol Rural,14,Doggia ,Doggia ,Doggia 
-50,Eastern Highlands,Henganofit,Dunantina Rural,4,Banka,Bazamunte,Etuo
-51,Jiwaka ,Banz ,Banz ,1,Pak ,BamBilge ,Takip Kangem
-52,Morobe,Madangt,Umi/Atzera Rural,10,biyo,kuping,kuping 2
-53,Madang,Karkar,South Karkar ,2,Mathew two ,,Kidau
-54,Eastern Highlands,Henganofit,Dunantina Rural,4,semembare,Bazamofi,Yafu
-55,Eastern Highlands,Henganofit,Duna ,4,Homya,Homya,Jagufonave 
-56,Madang,KARKAR,Karkar Rural,2,kuluk,kuluk,kilamud
-57,Eastern Highlands,Henganofit,Dunantina Rural,4,HOBA,Homza,Krigo
-58,Madang,Karkar,Karkar Rural,27,Kevasob ,,
-59,Chimbu (Simbu),Kundiawa/Gemboglt,Waiye Rural,1,Kupau,Kamanku,simbaiku
-60,Chimbu (Simbu),Kainantut,Yonggomugl Rural,6,,Mikruma ,Mitand 
-61,Madang,Karkar,Karkar Rural,29,Bafor ,Bafor ,Sabona 
-62,Eastern Highlands,Kainantut,Kkomano,4,biteve,,ranofi
-63,Madang,Karkar,Karkar Rural,30,Kuduk,Takia,Fidiak
-64,Madang,Sumkart,Karkar Rural,29,Bafor ,Takia ,Sabone 
-65,Madang,Madangt,Usino Rural,20,Mariyai,Tau,Kina
-66,Madang,Bogiat,Almami Rural,11,Wagadav ,Wagedav ,Kabukoko
-67,Madang,Karkar,South Karkar ,2,Mathew 2,Matyu,Kidau
-68,Madang,Sumkart,Karkar Rural,30,Muban ,Muban ,Salebloi
-69,Madang,Sumkart,Karkar Rural,27,Kubasob,Malol,Kubasob Malol
-70,Eastern Highlands,Henganofit,Dunantina Rural,5,Titegave,Hengimpare,Munonofi
-71,Madang,Usino Bundit,Usino Rural,30,Gamoudo,Sob,Saisob
-72,Madang,Saidor,Saidor,17,Mowererong,yoke,yoke
-73,Eastern Highlands,Henganofit,,6,Numuyanave ,Tirebe,Kegeribi Gona
-74,Eastern Highlands,Henganofit,Kafentina Rural,5,henaru,henaru,Kinome
-75,Madang,Sumkart,Karkar Rural,26,Marup,Marup,Babu
-76,Madang,Karkar,Karkar Rural,10,Deldign,,Deldign
-77,Morobe,Huont,Wampar Rural,17,Gabsongkeg ,Wampar ,Montar
-78,Morobe,Huont,Wampar Rural,3,Gabensis,wampar,Ngardminah
-79,Madang,Malimum,Usino Bundi,28,komas,Ninkos,Ninkos 
-80,Morobe,Menyamyat,Wapi Rural,12,Pinake ,Wataqawateqa,Quanataqa
-81,Madang,karkar,Karkar Rural,4,Dorokotam,Boagam,Boagam
-82,Morobe,Menyamyat,Wapi Rural,8,Kapo,Kameqa,Gotika 
-83,Eastern Highlands,Gorokat,Mimanaro,4,Hegu,Sehayuha,Sehayuha
-84,Southern Highlands,Kagua/Eravet,Aiya Rural,4,Apopa,Apopa,Apopa
+41,Eastern Highlands,Henganofit,Kafentina Rural,,,,
+42,Madang,Sumkart,Karkar Rural,,,,
+43,Madang,Madangt,South Ambenob ,,,,
+44,Eastern Highlands,Kainantut,Agarabi Rural,,,,
+45,Morobe,Finschafent,Kotte Rural,,,,
+46,Madang,Sumkart,Karkar Rural,,,,
+47,Eastern Highlands,Henganofit,Dunantina Rural,,,,
+48,Madang,Madangt,Ileg ,,,,
+49,Madang,Madangt,Transgogol Rural,,,,
+50,Eastern Highlands,Henganofit,Dunantina Rural,,,,
+51,Jiwaka ,Banz ,Banz ,,,,
+52,Morobe,Madangt,Umi/Atzera Rural,,,,
+53,Madang,Karkar,South Karkar ,,,,
+54,Eastern Highlands,Henganofit,Dunantina Rural,,,,
+55,Eastern Highlands,Henganofit,Duna ,,,,
+56,Madang,KARKAR,Karkar Rural,,,,
+57,Eastern Highlands,Henganofit,Dunantina Rural,,,,
+58,Madang,Karkar,Karkar Rural,,,,
+59,Chimbu (Simbu),Kundiawa/Gemboglt,Waiye Rural,,,,
+60,Chimbu (Simbu),Kainantut,Yonggomugl Rural,,,,
+61,Madang,Karkar,Karkar Rural,,,,
+62,Eastern Highlands,Kainantut,Kkomano,,,,
+63,Madang,Karkar,Karkar Rural,,,,
+64,Madang,Sumkart,Karkar Rural,,,,
+65,Madang,Madangt,Usino Rural,,,,
+66,Madang,Bogiat,Almami Rural,,,,
+67,Madang,Karkar,South Karkar ,,,,
+68,Madang,Sumkart,Karkar Rural,,,,
+69,Madang,Sumkart,Karkar Rural,,,,
+70,Eastern Highlands,Henganofit,Dunantina Rural,,,,
+71,Madang,Usino Bundit,Usino Rural,,,,
+72,Madang,Saidor,Saidor,,,,
+73,Eastern Highlands,Henganofit,,,,,
+74,Eastern Highlands,Henganofit,Kafentina Rural,,,,
+75,Madang,Sumkart,Karkar Rural,,,,
+76,Madang,Karkar,Karkar Rural,,,,
+77,Morobe,Huont,Wampar Rural,,,,
+78,Morobe,Huont,Wampar Rural,,,,
+79,Madang,Malimum,Usino Bundi,,,,
+80,Morobe,Menyamyat,Wapi Rural,,,,
+81,Madang,karkar,Karkar Rural,,,,
+82,Morobe,Menyamyat,Wapi Rural,,,,
+83,Eastern Highlands,Gorokat,Mimanaro,,,,
+84,Southern Highlands,Kagua/Eravet,Aiya Rural,,,,
 85,,,,,,,
-86,Southern Highlands,Pangia,South Wiru,Undiapu,Undiapu,Awari,Awari
-87,Southern Highlands,Pangia,South Wiru,Kerepali,Kerepali,Peri,Peri
-88,Southern Highlands,Imbonggut,Imbonggu Rural,3,Nagop,Antu,Antu
-89,Chimbu (Simbu),SNK,Salt Rural,16,Kilau,Golba,Kabini
-90,Eastern Highlands,Henganofit,Kafentina Rural,4,Ababe,Johotegabe,Johotegabe
-91,Eastern Highlands,Okapat,Kimi,15,Agibu,Agomo,Agomo
-92,Eastern Highlands,Kainantut,Kamano No. 2 Rural,4,Fiteve,Henganofi,Henganofi
-93,Eastern Highlands,Gorokat,Goroka Urban,07 - GEHAMO,OKESANA,GITUNUZUHA,OKESANA
-94,Eastern Highlands,Okapat,Kimi,15,Agibu,Agomo,Agomo
-95,Southern Highlands,Pangia,Eastern End,1,Kauwo,Muni,Kauwo
-96,Southern Highlands,Imbonggut,Ialibu Basin Rural,2,Yombi,Yombi,Wanep
-97,Chimbu (Simbu),SNK,Salt Rural,23,Dawa,Kerry ,Kumboi
-98,Eastern Highlands,Okapat,Okapa West,4,Tarabo,Mapega,Wayoepa
-99,Morobe,Mumeng ,Mumeng Rural,10,Pamalabus ,Leago,Omakutut
+86,Southern Highlands,Pangia,South Wiru,,,,
+87,Southern Highlands,Pangia,South Wiru,,,,
+88,Southern Highlands,Imbonggut,Imbonggu Rural,,,,
+89,Chimbu (Simbu),SNK,Salt Rural,,,,
+90,Eastern Highlands,Henganofit,Kafentina Rural,,,,
+91,Eastern Highlands,Okapat,Kimi,,,,
+92,Eastern Highlands,Kainantut,Kamano No. 2 Rural,,,,
+93,Eastern Highlands,Gorokat,Goroka Urban,,,,
+94,Eastern Highlands,Okapat,Kimi,,,,
+95,Southern Highlands,Pangia,Eastern End,,,,
+96,Southern Highlands,Imbonggut,Ialibu Basin Rural,,,,
+97,Chimbu (Simbu),SNK,Salt Rural,,,,
+98,Eastern Highlands,Okapat,Okapa West,,,,
+99,Morobe,Mumeng ,Mumeng Rural,,,,
 100,,,,,,,
-101,Chimbu (Simbu),Chuavet,Chuave Rural,04 - PIUKI,MAIMO,PIUKI,EMEREGAM
+101,Chimbu (Simbu),Chuavet,Chuave Rural,,,,
 102,,,,,,,
-103,Chimbu (Simbu),SSY,Tabare Rural,10,Oknel,Kimbaku,Atekue
-104,Western Highlands,Tambul/Nebilyert,Mount Giluwe Rural,2,Pulumong,Passing,Passing
-105,Southern Highlands,Kaugua Erawe,Aiya Rural,Mabata 1,Maruda ,Impi,Parama
-106,Jiwaka ,Jimit,Tabibuga,10 - Koronzu,Wanku,Koliga,Bangkani
-107,Madang,Madangt,Saido,31,Guhu,Dawadamo,Dawadamo
-108,Western Highlands,Tambul/Nebilyert,Mailke,Pokari,Kopex,Maike,Mailke
-109,Chimbu (Simbu),Kerowagit,Upper/Lower Koronigl Rural,12,Nombuna,Komkane ,Sugakau
-110,Western Highlands,Hagen,Baiyer Rural,3,SANAP,PANSIMBU,KIMBIN
-111,Southern Highlands,Pangia,South Wiru,2,Marapini,Kokono,Telori
-112,Madang,Karkar,Kafentina Rural,12,Kul 2,Suar,Suar
-113,Morobe,Nawaet,Wain-Erap Rural,16,Nambut,Zakwem,Zam
+103,Chimbu (Simbu),SSY,Tabare Rural,,,,
+104,Western Highlands,Tambul/Nebilyert,Mount Giluwe Rural,,,,
+105,Southern Highlands,Kaugua Erawe,Aiya Rural,,,,
+106,Jiwaka ,Jimit,Tabibuga,,,,
+107,Madang,Madangt,Saido,,,,
+108,Western Highlands,Tambul/Nebilyert,Mailke,,,,
+109,Chimbu (Simbu),Kerowagit,Upper/Lower Koronigl Rural,,,,
+110,Western Highlands,Hagen,Baiyer Rural,,,,
+111,Southern Highlands,Pangia,South Wiru,,,,
+112,Madang,Karkar,Kafentina Rural,,,,
+113,Morobe,Nawaet,Wain-Erap Rural,,,,
 114,,,,,,,
-115,Southern Highlands,Mendi/Munihut,Upper Mendi Rural,3,pirop,yakabu,kalome
-116,Southern Highlands,Pangia,East Pangia Rural,2,Leka ,Koliri,Kane
-117,Chimbu (Simbu),Kundiawa,Waiye Rural,2,Sikewake ,Kamaneku,Okd
-118,Morobe,Nawaet,Gain/Kusip,11,Kasin,Nima,Nima
-119,Southern Highlands,Kagua/Eravet,Kagua Erave ,1,Limba ,Munadrepa ,Atu
-120,Southern Highlands,Ialibu/Pangiat,Kewabi Rural,Kumbame 1,Yamala ,Namola ,Kupili
-121,Morobe,Tawae/Siassit,Siassi Rural,16,Yangla ,Kipili ,Kipili 
-122,Southern Highlands,Kagua/Eravet,Aiya Rural,Wasa,Wasa,Awerapa,Akuna
-123,Chimbu (Simbu),Karamui,Karamui ,14,Tua,Somodili,Sawale
-124,Jiwaka ,Tapi,Ongolmol,,,Kapka,Nimkagane
-125,Chimbu (Simbu),Sina Sina-Yonggomuglt,Yonggomugl Rural,1 B ,Kaulang ,Gulpu ,Gulpu
-126,Chimbu (Simbu),Kerowagit,Gena/Waugla Rural,11,Tauya,Simbuka,Nuks
-127,Chimbu (Simbu),Kerowagit,Apakoroniga,10,Dawagle,Paglau,Penganduku
-128,Southern Highlands,Kagua/Eravet,Kuare Rural,Ita ,Ita ,Kulumburepa ,Kanarepa 
-129,Southern Highlands,Ialibu/Pangiat,East Pangia Rural,Kauwo#1,Kauwo,Ebare,Muniri
-130,Southern Highlands,Pangia,South Wiru,Yoka Koya ,Yoka ,Wiliri ,Wipaiti
-131,Eastern Highlands ,Gorokat,Mimanalo Rural,3,Akameku,Hovero,Hoyufa
-132,Chimbu (Simbu),Simbu,Waiye Rural,2,Pari,Kamaneku,Awakane
-133,Southern Highlands,Mendi/Munihut,Kerenda ,1,Kerenda ,Kerenda ,Kerenda 
-134,Madang,Madangt,North Ambenob,6,Riwo,Muyu,Muyu
-135,Chimbu (Simbu),Kundiawa/Gemboglt,Waiye Rural,1,Kupau,Simbaiku,Kamaneku
-136,Southern Highlands,Mendi/Munihut,Mendi Urban,1,Birop,Birop,Birop
-137,Southern Highlands,Mendi/Munihut,Ialibu Basin Rural,1,Bimbim,,Wedari
-138,Southern Highlands,Kagua/Eravet,Aiya Rural,Sumi 2,Yaware,Rairipa,Wakepa
-139,Chimbu (Simbu),Kamtai,Tabare Rural,5,Las Wara,Golaku,Golasine
-140,Chimbu (Simbu),Sonomane Karamul,Nomane Rural,7,Gul Maine,Gola Gomla ,Gomla 
-141,Eastern Highlands ,Okapat,West Okapa Rural,8,Hagu,Kipox,Kipox
-142,Southern Highlands,Pangia,South Wiru,Timbare,Timbare,Waluapiri,Waluapiri
-143,Morobe,Kawbum,Dunantina Rural,11,Sombongan ,Timbe ,kepelam wasaki
-144,Eastern Highlands,Lufat,Mount Michael Rural,12,Kuruka,Nega,Nega
-145,Chimbu (Simbu),SNK ,Nomane Rural,1,Hoira,Ulwomareme,Sibaku
-146,Southern Highlands,Mendi/Munihut,Lower Mendi Rural,Pundia Ward 1,Yara,Yotoreba,Yotoreba
-147,Southern Highlands,Pangia,South Wiru,7,Wembu,Poluri,Wiliri
-148,Southern Highlands,Mendi/Munihut,Lower Mendi Rural,2,Akuti,Onarep,Kirape
-149,Western Highlands,Mul/Baiyert,Mul Rural,2,Packmong,Munzika,Munzika
-150,Chimbu (Simbu),SSY,Yonggomugl Rural,6,Mai,Gugbuku,Piuk
-151,Gulf,Keremat,Kotidanga Rural,1,Kiamdia,Naudia,Naudia
-152,Jiwaka ,Nondugl,Nondugl Rural,Bamne 1,Gun,Anfaka,Kumka
-153,Gulf,Keremat,Kotidanga Rural,1,Kiandia,Naodia,Naodia
-154,Chimbu (Simbu),Chuavet,Chuave Rural,7,Kuramagi ,Gomea ,Kuramagi
-155,Southern Highlands,Mendi/Munihut,Kagua Rural,2,Pokere ,Palisarepa,Soke 
-156,Eastern Highlands,Tambul/Nebilyert,Mount Giluwe Rural,27,Wenda ,Lapok,Kuma Gala
-157,Eastern Highlands,Henganofit,Fayantina Rural,9,Krafu,Folre ,Krampa 
-158,Eastern Highlands,Henganofit,Fayantina Rural,9,Karafu,Krampa,Fore
-159,Southern Highlands,Mendi/Munihut,Upper Mendi Rural,1,Semere,Kurilge,Komolam
-160,Western Highlands,Mul/Baiyert,Mul Rural,2,Rugli,Engapin,Kumdi
-161,Chimbu (Simbu),SSY ,Tabare Rural,1,Mu ,Tabare ,Bulagau
-162,Western Highlands,Hagen,Ogelbeng,Kelam,Kelam,Komapi,Gika
-163,Western Highlands,Nebilyer ,Telga ,2,Kumbia ,Kulga ,Muki
-164,Chimbu (Simbu),Kundiawa/Gemboglt,Waiye Rural,4,Gere,Kamaneku,Enduka
-165,Southern Highlands,Ialibu/Pangiat,South Wiru,1,Wala,Wanu,Wiliri
-166,Southern Highlands,Pangia,Last Wiru,Timbari 2,Timbari,Lenepiri,Wanu
-167,Morobe,Finschafent,Kate,3,Sosonigko,Wamoro,Lamocno
-168,Morobe,Siassie ,Gasam,Ward 8,Gasam,Alangai Laupon,Brengavon
-169,Morobe,Finschafent,Mape,13,Yombomng,Mape,zikac
-170,Madang,KARKAR,Sumkar,23,GAMOG,TAKIA,PANULUAN 2
-171,Madang,KARKAR,Kafentina Rural,13,KAUL NO. 3,,KASUGAM
-172,Madang,Sumkart,Karkar Rural,23,GAMOG,TAKIA,MAKAK
-173,Madang,KARKAR,Karkar Rural,14,MAPOR,KALUL,KALUL
-174,Madang,KARKAR,Karkar Rural,12,KAU NO. 2,SUAR,SUAR
-175,Madang,Sumkart,Karkar Rural,30,KUDUK,KUDUK,MATLOI
-176,Madang,Sumkart,Karkar Rural,30,KUDUK,KUDUK,MATLOI
-177,Madang,Sumkart,Karkar Rural,29,BAFOR,TAKIA,SABONE
-178,Madang,KARKAR,Karkar Rural,29,BAFOR,BAFOR,SABONA
+115,Southern Highlands,Mendi/Munihut,Upper Mendi Rural,,,,
+116,Southern Highlands,Pangia,East Pangia Rural,,,,
+117,Chimbu (Simbu),Kundiawa,Waiye Rural,,,,
+118,Morobe,Nawaet,Gain/Kusip,,,,
+119,Southern Highlands,Kagua/Eravet,Kagua Erave ,,,,
+120,Southern Highlands,Ialibu/Pangiat,Kewabi Rural,,,,
+121,Morobe,Tawae/Siassit,Siassi Rural,,,,
+122,Southern Highlands,Kagua/Eravet,Aiya Rural,,,,
+123,Chimbu (Simbu),Karamui,Karamui ,,,,
+124,Jiwaka ,Tapi,Ongolmol,,,,
+125,Chimbu (Simbu),Sina Sina-Yonggomuglt,Yonggomugl Rural,,,,
+126,Chimbu (Simbu),Kerowagit,Gena/Waugla Rural,,,,
+127,Chimbu (Simbu),Kerowagit,Apakoroniga,,,,
+128,Southern Highlands,Kagua/Eravet,Kuare Rural,,,,
+129,Southern Highlands,Ialibu/Pangiat,East Pangia Rural,,,,
+130,Southern Highlands,Pangia,South Wiru,,,,
+131,Eastern Highlands ,Gorokat,Mimanalo Rural,,,,
+132,Chimbu (Simbu),Simbu,Waiye Rural,,,,
+133,Southern Highlands,Mendi/Munihut,Kerenda ,,,,
+134,Madang,Madangt,North Ambenob,,,,
+135,Chimbu (Simbu),Kundiawa/Gemboglt,Waiye Rural,,,,
+136,Southern Highlands,Mendi/Munihut,Mendi Urban,,,,
+137,Southern Highlands,Mendi/Munihut,Ialibu Basin Rural,,,,
+138,Southern Highlands,Kagua/Eravet,Aiya Rural,,,,
+139,Chimbu (Simbu),Kamtai,Tabare Rural,,,,
+140,Chimbu (Simbu),Sonomane Karamul,Nomane Rural,,,,
+141,Eastern Highlands ,Okapat,West Okapa Rural,,,,
+142,Southern Highlands,Pangia,South Wiru,,,,
+143,Morobe,Kawbum,Dunantina Rural,,,,
+144,Eastern Highlands,Lufat,Mount Michael Rural,,,,
+145,Chimbu (Simbu),SNK ,Nomane Rural,,,,
+146,Southern Highlands,Mendi/Munihut,Lower Mendi Rural,,,,
+147,Southern Highlands,Pangia,South Wiru,,,,
+148,Southern Highlands,Mendi/Munihut,Lower Mendi Rural,,,,
+149,Western Highlands,Mul/Baiyert,Mul Rural,,,,
+150,Chimbu (Simbu),SSY,Yonggomugl Rural,,,,
+151,Gulf,Keremat,Kotidanga Rural,,,,
+152,Jiwaka ,Nondugl,Nondugl Rural,,,,
+153,Gulf,Keremat,Kotidanga Rural,,,,
+154,Chimbu (Simbu),Chuavet,Chuave Rural,,,,
+155,Southern Highlands,Mendi/Munihut,Kagua Rural,,,,
+156,Eastern Highlands,Tambul/Nebilyert,Mount Giluwe Rural,,,,
+157,Eastern Highlands,Henganofit,Fayantina Rural,,,,
+158,Eastern Highlands,Henganofit,Fayantina Rural,,,,
+159,Southern Highlands,Mendi/Munihut,Upper Mendi Rural,,,,
+160,Western Highlands,Mul/Baiyert,Mul Rural,,,,
+161,Chimbu (Simbu),SSY ,Tabare Rural,,,,
+162,Western Highlands,Hagen,Ogelbeng,,,,
+163,Western Highlands,Nebilyer ,Telga ,,,,
+164,Chimbu (Simbu),Kundiawa/Gemboglt,Waiye Rural,,,,
+165,Southern Highlands,Ialibu/Pangiat,South Wiru,,,,
+166,Southern Highlands,Pangia,Last Wiru,,,,
+167,Morobe,Finschafent,Kate,,,,
+168,Morobe,Siassie ,Gasam,,,,
+169,Morobe,Finschafent,Mape,,,,
+170,Madang,KARKAR,Sumkar,,,,
+171,Madang,KARKAR,Kafentina Rural,,,,
+172,Madang,Sumkart,Karkar Rural,,,,
+173,Madang,KARKAR,Karkar Rural,,,,
+174,Madang,KARKAR,Karkar Rural,,,,
+175,Madang,Sumkart,Karkar Rural,,,,
+176,Madang,Sumkart,Karkar Rural,,,,
+177,Madang,Sumkart,Karkar Rural,,,,
+178,Madang,KARKAR,Karkar Rural,,,,
 179,,,,,,,
-180,Madang,KARKAR,Karkar Rural,30,KUDUK,TAKIA,FIDIAK
-181,Madang,KARKAR,Karkar Rural,MATIU 2,KULUK,KULUK,KILAMUD
-182,Madang,KARKAR,South Karkar ,2,KULUK,MATYU,KIDAU
-183,Morobe,Finschafent,Kate,,BORING BONGENG,,
-184,Southern Highlands,Mendi/Munihut,Upper Mendi Rural,Ward 3,Birop,Yana,Mambu Haus
-185,Eastern Highlands,Kainantut,Dunantina Rural,4,HOBA,HOMZA,KRIGO
-186,Eastern Highlands,Henganofit,Dunantina Rural,4,Somembare,Bazanofi,Yafu
-187,Morobe,Finschafent,Kate,THREE,SOSOINGKO,WAMORO,HARINGUNG
-188,Morobe,Finschafent,Kate,TEN (10),TAREKO,KOTE,SANAMONDO
-189,Morobe,Tawae/Siassit,Sialum Rural,FIVE 9,,,
-190,Morobe,Tawae/Siassit,Sialum Rural,FIVE 5,KALASA,QIRIK,KAKON
-191,Morobe,Laet,Labuta Rural,(8) Eight,Bukawa,Ulikim,Buduhu
-192,Morobe,Menyamyat,Wapi Rural,12,Pispon,Hapawansuga,Konataga
-193,Eastern Highlands,Kainantut,Agarabi Rural,1,Ataru,Anora,Bane
-194,Morobe,Menyamyat,Kome Rural,(8) Eight,Namba Wan Bridge,Tipadeka,Tauye
-195,Eastern Highlands,Henganofit,Dunantina Rural,4,Banka,Yagafonave,Yohonofi
-196,Eastern Highlands,Henganofit,Dunantina Rural,4,Konange,Tinteo,Muno
-197,Eastern Highlands,Kainantut,Kamano No. 1 Rural,6,Innonka,Kremento,Kremento
-198,Southern Highlands,Ialibu/Pangiat,South Wiru,Koyabu,Koyabu,Take,Kima
-199,Morobe,Wau Waria,Waria Rural,10,Griex,Torangati,Gorothy
-200,Eastern Highlands,Henganofit,Kafentina Rural,7,Kumuina,Benega,Benega
-201,Morobe,Finschafent,Yabim Mape Rural,19,Mawaneng,Mape,Zine
-202,Morobe,Finschafent,MAPE YABIM,19,TEMBANG,MAPE,BOMIO
-203,Morobe,Finschafent,Yabim Mape Rural,17,RIRIMALA,ZAQUING,MANEWOKE
-204,Morobe,Finschafent,Yabim Mape Rural,17,RIRIMALA,ZAQUING,MANEWOKE
-205,Morobe,Tawae/Siassit,Sialum Rural,12,SANKOA,ONOKA,SIRA
-206,Southern Highlands,Pangia,1,3,Yaro,Tande,Yali
-207,Eastern Highlands,Okapat,East Okapa Rural,Is,Amaira,Avia,Kufanumana
-208,Eastern Highlands,Kainantut,Kamano No. 1 Rural,5,Kumafoni,Imune,Kumanofi
-209,Eastern Highlands,Kainantut,Hagarape,3,Punano,Panehorota,Panehorota
-210,Morobe,Finschafent,Yabim Mape Rural,16,HAPOHONDONG,MAPE,RUMENG
-211,Eastern Highlands,Kainantut,Kamano,5,Kumanofi,Imune,Hamagonto
-212,Morobe,Finschafent,Kotte Rural,8,MAICWANENG,NIGO,GONZANG
-213,Morobe,Finschafent,Yabim Mape Rural,18,ZAZANGUO,UPPER MAPE,WONO
-214,Eastern Highlands,Kainantut,Kafentina Rural,1,Zuinofi,,
-215,Morobe,Tawae/Siassit,Sialum Rural,,ZUMZUMAU,DEDUA,MEREMANG
-216,Southern Highlands,Kagua/Eravet,Kagua Urban,Yame Ward 24,Yame,Mirupa,Kilimirupa
-217,Morobe,Finschafent,Kotte Rural,5,URUO,RUAM,MOGENG
-218,Eastern Highlands,Kainantut,Kamano,6,Onenifi,Ranofi,Onenofi
-219,Southern Highlands,Imbonggut,Lower Mendi Rural,Yam Tutam,Yame,Reicipu,Peia
-220,Morobe,Finschafent,Kotte Rural,FIVE,BAWEHOCKO,BABATUCNE,BAZICBAWAEHOCKO
-221,Eastern Highlands,Kainantut,Kafentina Rural,5,Johotegave,Johotegave,Henganofi
-222,Morobe,Huont,Wampar Rural,17,Gabsongkec,Wampar,Orogacheon
-223,Eastern Highlands,Kainantut,Kafentina Rural,5,Vitiks,Hapanofi,Hapanofi
-224,Morobe,Huont,Salamaua Rural,Mubo,Wapali,Iwal,Gwaitumbu
-225,Eastern Highlands,Kainantut,Kamano No. 1 Rural,6,Onenofi,Onenofi,Ranofi
-226,Eastern Highlands,Kainantut,Arufa,7,Isonteni,Agarabi,Awiva
-227,Morobe,Finschafent,Hube Rural,SEVEN,KULUNTUFU,DUAKI,SERIN KIWI
-228,Morobe,Tawae/Siassit,Sialum Rural,3,QAMBU,,ZARO
-229,Eastern Highlands,Kainantut,Gadsup Tairora Rural,3,Binumarien,Yagie,Sasida
-230,Southern Highlands,Mendi/Munihut,Upper Mendi Rural,Kuma,Kuma,Owayano,Mondika
-231,Southern Highlands,Mendi/Munihut,Upper Mendi Rural,Kuma,Kuma,Owayano,Mondika
-232,Eastern Highlands,Kainantut,Agarabi Rural,3,Mako,Kuman,Ranofi
-233,Eastern Highlands,Kainantut,Kamano,6,Kanake,Kumian,Izao
-234,Eastern Highlands,Kianantu,Kamano No. 1 Rural,6,Onenog,Onti,Namonto
-235,Southern Highlands,Mendi/Munihut,Upper Mendi Rural,Semera C.W,Semera,Kekuton,Kurilke
-236,Eastern Highlands,Kainantut,Agarabi Rural,3,Maiko,Kumian,Ranofi
-237,Morobe,Tawae/Siassit,Sialum Rural,16,SIWEA,DEDUA NUAM,WONOM
-238,Eastern Highlands,Kainantut,Agarabi Rural,3,Mako,Kumian,Zofu
-239,Eastern Highlands,Kianantu,Kamano No. 1 Rural,2,Timuza,Onempi,Taranofi
-240,Morobe,Finschafent,Burum Kwat Rural,18,MINDIK,TITIKNAN,GOU
-241,Eastern Highlands,Kianantu,Kamano No. 1 Rural,6,Onenofi,Onenofi,Izao
-242,Eastern Highlands,Kainantut,Kamano No. 1 Rural,6,Onenofi,Tanra,Izao
-243,Morobe,Finschafent,Burum Kwat Rural,17,MAMUS,,
-244,Eastern Highlands,Kainantut,Kamano No. 1 Rural,2,Tanara,Onempi,Tanaranofi
-245,Eastern Highlands,Obura/Wonenarat,Gadsup Tairora Rural,3,Binumarien,,Wisiboni
-246,Eastern Highlands,Kainantut,Duna,4,Homya,Homya,Jagufonave
-247,Morobe,Finschafent,Burum Kwat Rural,,OGERNANG,HARIGEN,SIAM
-248,Eastern Highlands,Henganofit,Dunantina Rural,5,Titegave,Hegimpare,Munonofi
-249,Morobe,Finschafent,Kotte Rural,10,TARECKO,KOTE,KITAMA
-250,Eastern Highlands,Kainantut,Kamano No. 2 Rural,4,Biteve,,Ranofi
-251,Morobe,Huont,Morobe Rural,7,BOSADI,SUENA,YEWA
-252,Eastern Highlands,Kainantut,Dunantina Rural,1,Akeyampo,Lihona,Lanofi
-253,Morobe,Finschafent,Kotte Rural,3,NANDUO,WAMORA,HONGU
-254,Eastern Highlands,Henganofit,,six,Numuyangave,Tirebe,Kereribi Gona
-255,Morobe,Finschafent,Kuwe Hube,3,TIRENG,MASINEWEC,KURUMBA
-256,Western Highlands,Deit,Kotna Rural,Eight Kembuki,Kembuki,Wali,Katembo
-257,Western Highlands,Deit,Kotna Rural,Eight,Kembuki,Wali,Rapamboes
-258,Western Highlands,Mul/Baiyert,Mul Rural,Two,Rugli,Kundi,Enga Pin
-259,Western Highlands,Hagen,Mount Giluwe Rural,Two,Bonga,Dunke,Dauke Kurub
-260,Western Highlands,Tambul/Nebilyert,Mount Giluwe Rural,Two,Bonga,Dauke,Dauke
-261,Morobe,Nawaet,Labuta Rural,One,Taemigidu,Walu,Laubu
-262,Morobe,Finschafent,Yabim Mape Rural,One,Kolem,Yabem,Lausaung
-263,Southern Highlands,Pangia,South Wiru,One,Kerapali,Tuei,Peri
-264,Southern Highlands,Pangia,South Wiru,One,Kerapali,Tuei,Peri
-265,Western Highlands,Tambul/Nebilyert,Mount Giluwe Rural,Two,Pombol,Aika,Pombol
-266,Western Highlands,Tambul/Nebilyert,Lower Kagul,Two,Puksa,Enguel,Taembu
-267,Western Highlands,Tambul/Nebilyert,,,Pombol,Aiyiaka,Ailam
-268,Morobe,Ukaka,Selepet Rural,,Indum,Selepet,Senwagap
-269,Western Highlands,Tambul/Nebilyert,Lower Kagul,Palnel,Opule,Kakumbu,Opule
-270,Western Highlands,Hagen,Hagen Rural,Six Kik,Kombrom,Jiga,Jiga Delemb
-271,Eastern Highlands,Kainantut,Kamano,5,Iwoowka,Amigi,Afuto
-272,Western Highlands,Hagen,Hagen Rural,Six Kik,Kombrom,Jiga,Jiga Delemb
-273,Eastern Highlands,Kainantut,Gadsup Tairora Rural,7,Akuna,Iomungka,oimunka
-274,Western Highlands,Hagen,Hagen Rural,Ten,Kelam,Jika,Komapi
-275,Southern Highlands,Mendi/Munihut,Upper Mendi Rural,Biron 2,Birop,Yap,Yap
-276,Eastern Highlands,Kainantut,Gadsup Tairora Rural,7,Akuna,Kevengu,Anogeh
-277,Western Highlands,Mul/Baiyert,Mul Rural,"One, Tondmong",Tondmong,Nenska,Nengka Engamb
-278,Eastern Highlands,Kainantut,Gadsup Tairora Rural,10,Arau 1,Gadsup,Inamupi
-279,Southern Highlands,Pangia,Kauwo,Two,Kauwo,Pupu,Peweri
-280,Eastern Highlands,Kainantut,Gadsup Tairora Rural,10,Arau 2,Muiosara,Pontipo
-281,Morobe,Finschafent,Mape,17,SINCKO,BULEROUG,ZABIN
-282,Morobe,Finschafent,Yabim Mape Rural,9,KETA,MAPE,ZEONG SHUNG
-283,Western Highlands,Tambul/Nebilyert,Lower Kaugul,Tamal,Wakeli,Panimbea,Maka
-284,Eastern Highlands,Kianantu,Gadsup Tairora Rural,10,Arau two,Muiosala,Pontipo
-285,Western Highlands,Tambul/Nebilyert,Lower Kagul,Palnol,Takopka,Takopoka,Palnol
-286,Morobe,Finschafent,Kotte Rural,6,KOTE,KOTE,GAFANG
-287,Eastern Highlands,Obura/Wonenarat,Gadsup Tairora Rural,10,Arau 2,,Pontipo
-288,Southern Highlands,Mendi/Munihut,Mendi Urban,Karel 1,Karel,Perakam,Yanolome
-289,Western Highlands,Hagen,Kik,Apalgum,Kombrom,Jika,Delimp
-290,Morobe,Tawae/Siassit,Sialum Rural,12,ZANKOA,SUARU,SIRA
+180,Madang,KARKAR,Karkar Rural,,,,
+181,Madang,KARKAR,Karkar Rural,,,,
+182,Madang,KARKAR,South Karkar ,,,,
+183,Morobe,Finschafent,Kate,,,,
+184,Southern Highlands,Mendi/Munihut,Upper Mendi Rural,,,,
+185,Eastern Highlands,Kainantut,Dunantina Rural,,,,
+186,Eastern Highlands,Henganofit,Dunantina Rural,,,,
+187,Morobe,Finschafent,Kate,,,,
+188,Morobe,Finschafent,Kate,,,,
+189,Morobe,Tawae/Siassit,Sialum Rural,,,,
+190,Morobe,Tawae/Siassit,Sialum Rural,,,,
+191,Morobe,Laet,Labuta Rural,,,,
+192,Morobe,Menyamyat,Wapi Rural,,,,
+193,Eastern Highlands,Kainantut,Agarabi Rural,,,,
+194,Morobe,Menyamyat,Kome Rural,,,,
+195,Eastern Highlands,Henganofit,Dunantina Rural,,,,
+196,Eastern Highlands,Henganofit,Dunantina Rural,,,,
+197,Eastern Highlands,Kainantut,Kamano No. 1 Rural,,,,
+198,Southern Highlands,Ialibu/Pangiat,South Wiru,,,,
+199,Morobe,Wau Waria,Waria Rural,,,,
+200,Eastern Highlands,Henganofit,Kafentina Rural,,,,
+201,Morobe,Finschafent,Yabim Mape Rural,,,,
+202,Morobe,Finschafent,MAPE YABIM,,,,
+203,Morobe,Finschafent,Yabim Mape Rural,,,,
+204,Morobe,Finschafent,Yabim Mape Rural,,,,
+205,Morobe,Tawae/Siassit,Sialum Rural,,,,
+206,Southern Highlands,Pangia,1,,,,
+207,Eastern Highlands,Okapat,East Okapa Rural,,,,
+208,Eastern Highlands,Kainantut,Kamano No. 1 Rural,,,,
+209,Eastern Highlands,Kainantut,Hagarape,,,,
+210,Morobe,Finschafent,Yabim Mape Rural,,,,
+211,Eastern Highlands,Kainantut,Kamano,,,,
+212,Morobe,Finschafent,Kotte Rural,,,,
+213,Morobe,Finschafent,Yabim Mape Rural,,,,
+214,Eastern Highlands,Kainantut,Kafentina Rural,,,,
+215,Morobe,Tawae/Siassit,Sialum Rural,,,,
+216,Southern Highlands,Kagua/Eravet,Kagua Urban,,,,
+217,Morobe,Finschafent,Kotte Rural,,,,
+218,Eastern Highlands,Kainantut,Kamano,,,,
+219,Southern Highlands,Imbonggut,Lower Mendi Rural,,,,
+220,Morobe,Finschafent,Kotte Rural,,,,
+221,Eastern Highlands,Kainantut,Kafentina Rural,,,,
+222,Morobe,Huont,Wampar Rural,,,,
+223,Eastern Highlands,Kainantut,Kafentina Rural,,,,
+224,Morobe,Huont,Salamaua Rural,,,,
+225,Eastern Highlands,Kainantut,Kamano No. 1 Rural,,,,
+226,Eastern Highlands,Kainantut,Arufa,,,,
+227,Morobe,Finschafent,Hube Rural,,,,
+228,Morobe,Tawae/Siassit,Sialum Rural,,,,
+229,Eastern Highlands,Kainantut,Gadsup Tairora Rural,,,,
+230,Southern Highlands,Mendi/Munihut,Upper Mendi Rural,,,,
+231,Southern Highlands,Mendi/Munihut,Upper Mendi Rural,,,,
+232,Eastern Highlands,Kainantut,Agarabi Rural,,,,
+233,Eastern Highlands,Kainantut,Kamano,,,,
+234,Eastern Highlands,Kianantu,Kamano No. 1 Rural,,,,
+235,Southern Highlands,Mendi/Munihut,Upper Mendi Rural,,,,
+236,Eastern Highlands,Kainantut,Agarabi Rural,,,,
+237,Morobe,Tawae/Siassit,Sialum Rural,,,,
+238,Eastern Highlands,Kainantut,Agarabi Rural,,,,
+239,Eastern Highlands,Kianantu,Kamano No. 1 Rural,,,,
+240,Morobe,Finschafent,Burum Kwat Rural,,,,
+241,Eastern Highlands,Kianantu,Kamano No. 1 Rural,,,,
+242,Eastern Highlands,Kainantut,Kamano No. 1 Rural,,,,
+243,Morobe,Finschafent,Burum Kwat Rural,,,,
+244,Eastern Highlands,Kainantut,Kamano No. 1 Rural,,,,
+245,Eastern Highlands,Obura/Wonenarat,Gadsup Tairora Rural,,,,
+246,Eastern Highlands,Kainantut,Duna,,,,
+247,Morobe,Finschafent,Burum Kwat Rural,,,,
+248,Eastern Highlands,Henganofit,Dunantina Rural,,,,
+249,Morobe,Finschafent,Kotte Rural,,,,
+250,Eastern Highlands,Kainantut,Kamano No. 2 Rural,,,,
+251,Morobe,Huont,Morobe Rural,,,,
+252,Eastern Highlands,Kainantut,Dunantina Rural,,,,
+253,Morobe,Finschafent,Kotte Rural,,,,
+254,Eastern Highlands,Henganofit,,,,,
+255,Morobe,Finschafent,Kuwe Hube,,,,
+256,Western Highlands,Deit,Kotna Rural,,,,
+257,Western Highlands,Deit,Kotna Rural,,,,
+258,Western Highlands,Mul/Baiyert,Mul Rural,,,,
+259,Western Highlands,Hagen,Mount Giluwe Rural,,,,
+260,Western Highlands,Tambul/Nebilyert,Mount Giluwe Rural,,,,
+261,Morobe,Nawaet,Labuta Rural,,,,
+262,Morobe,Finschafent,Yabim Mape Rural,,,,
+263,Southern Highlands,Pangia,South Wiru,,,,
+264,Southern Highlands,Pangia,South Wiru,,,,
+265,Western Highlands,Tambul/Nebilyert,Mount Giluwe Rural,,,,
+266,Western Highlands,Tambul/Nebilyert,Lower Kagul,,,,
+267,Western Highlands,Tambul/Nebilyert,,,,,
+268,Morobe,Ukaka,Selepet Rural,,,,
+269,Western Highlands,Tambul/Nebilyert,Lower Kagul,,,,
+270,Western Highlands,Hagen,Hagen Rural,,,,
+271,Eastern Highlands,Kainantut,Kamano,,,,
+272,Western Highlands,Hagen,Hagen Rural,,,,
+273,Eastern Highlands,Kainantut,Gadsup Tairora Rural,,,,
+274,Western Highlands,Hagen,Hagen Rural,,,,
+275,Southern Highlands,Mendi/Munihut,Upper Mendi Rural,,,,
+276,Eastern Highlands,Kainantut,Gadsup Tairora Rural,,,,
+277,Western Highlands,Mul/Baiyert,Mul Rural,,,,
+278,Eastern Highlands,Kainantut,Gadsup Tairora Rural,,,,
+279,Southern Highlands,Pangia,Kauwo,,,,
+280,Eastern Highlands,Kainantut,Gadsup Tairora Rural,,,,
+281,Morobe,Finschafent,Mape,,,,
+282,Morobe,Finschafent,Yabim Mape Rural,,,,
+283,Western Highlands,Tambul/Nebilyert,Lower Kaugul,,,,
+284,Eastern Highlands,Kianantu,Gadsup Tairora Rural,,,,
+285,Western Highlands,Tambul/Nebilyert,Lower Kagul,,,,
+286,Morobe,Finschafent,Kotte Rural,,,,
+287,Eastern Highlands,Obura/Wonenarat,Gadsup Tairora Rural,,,,
+288,Southern Highlands,Mendi/Munihut,Mendi Urban,,,,
+289,Western Highlands,Hagen,Kik,,,,
+290,Morobe,Tawae/Siassit,Sialum Rural,,,,
 291,,,,,,,
-292,Southern Highlands,Pangia,South Wiru,Waia -Wanu,Wanu,Lenepiri,Lukiri
-293,Western Highlands,Hagen,Lower Kagul,Marapul,Marapul,Kame,Kame
-294,Eastern Highlands,Henganofit,Kafentina Rural,6,Namuzaga,,Tebega Tussinefi
-295,Western Highlands,Hagen,Hagen Rural,Kik 1,Aplgium,Jiga Delimb,Delimb
-296,Western Highlands,"Hagen, Tambul",Mount Giluwe Rural,One Aika,Sagem,Aika,Aika
-297,Southern Highlands,Kagua/Eravet,Aiya Rural,Mabuanda 2,Mabuanda,Kulumbu,Yandapia
-298,Morobe,Kabwumt,Deyamos Rural,8,TAKOP,KIUM,KIUMSEN
-299,Morobe,Finschafent,Kotte Rural,Yunzaing,Yunzaing,,
-300,Eastern Highlands,Obura/Wonenarat,Gadsup Tairora Rural,10,Arau 1,Inamumpy,
-301,Western Highlands,Deit,Kotna Rural,Four,Kumkuiya,Kataumb,Kumkuiya
-302,Southern Highlands,Imbonggut,Lower Mendi Rural,Omi,ILO,EMBI,Att
-303,Western Highlands,Tambul/Nebilyert,Gilewa,Two,Pombol,Ayaika,Aleam
-304,Western Highlands,Mul/Baiyert,Mul Rural,,Meit,Kumdi,Enga Pin
-305,Eastern Highlands,Obura/Wonenarat,Gadsup Tairora Rural,10,Arau one,Pontipo,
-306,Western Highlands,Mul/Baiyert,Gumanch,18,Rapi,Kombulga,Mand
-307,Western Highlands,Deit,Kotna Rural,Two,Rulna,Kentilg,Woumbo
-308,Morobe,Menyamyat,Kome Rural,six,Menya,Tipateria,Kiwata
-309,Morobe,Menyamyat,Sikong,Jorden,Pinake,Wagaquawateqa,Quanataqua
-310,Morobe,Huont,Wampar Rural,17,Gabsongkec,Wampar,Montar
-311,Southern Highlands,Imbonggut,Lower Mendi Rural,Omai,Karita,Merepa,Palita Merepa
-312,Morobe,Finschafent,Kotte Rural,6,QALANGKO,TOGI,NANAGE
-313,Southern Highlands,Mendi/Munihut,Imbonggu Rural,1,Waributi,Waitane,Churuf
-314,Southern Highlands,Imbonggut,,,Omai,Umita,Mealipe
-315,Western Highlands,Deit,Dei Rural,Ruti,Kurunga,Neba,Komb
-316,Southern Highlands,Mendi/Munihut,Upper Mendi Rural,Vot wan,Emera,Kurigla,Komiom
-317,Western Highlands,Mul/Baiyert,Kumcei,26,Pulik,Kuntumbo,Kumcli
-318,Morobe,Finschafent,Kotte Rural,10,TAREKO,YAUNAPO,KAITAMA
-319,Morobe,Tawae/Siassit,Sialum Rural,Koyoza,Zunzumau,Dedua,Meremang
-320,Western Highlands,Tambul/Nebilyert,Mount Giluwe Rural,Maltak,Uka,Takop,Kungai
-321,Eastern Highlands,Okapat,East Okapa Rural,15,Singura 2,Ofoimpina,Singura
-322,Morobe,Nawaet,Nabak Rural,Three,Baindong,Nabak,Ayutaka
-323,Eastern Highlands,Okapat,East Okapa Rural,15,Anaira,Avia,Avia
-324,,Morobe,Kotte Rural,4,YUNZAING,KOTE,BATAC
-325,Morobe,Nawaet,Nabak Rural,Three,Baindong,Nabak,Ayutaka
-326,Eastern Highlands,Okapat,East Okapa Rural,15,Sinkura,Anonkafa,Tondamu
-327,Morobe,Markhamt,Umi/Atzera Rural,27,Sangang,,
-328,Eastern Highlands,Henganofit,Kafentina Rural,5,Hapanofi,Hapanofi,Fayo-o
-329,Morobe,Bulolot,Buang Rural,Five,Ayeyok,Rizu,Ingupape
-330,Eastern Highlands,Kianantu,Kamano No. 2 Rural,9,Babigka,,Kutanofi
-331,Morobe,Markhamt,Leron Wantoat,13,KIKIAPA,PAEAM,BUNAM
-332,Morobe,Nawaet,Nabak Rural,10,GOBADIK,MUSOM,MUSOM
-333,Morobe,Finschafent,Yabim Mape Rural,6,KWALANSAM,YABEM,LOUM
-334,Western Highlands,Tambul/Nebilyert,Mount Giluwe Rural,16 Ayaka 2,Pombile,Ayaka,Ayaka
-335,Morobe,Finschafent,Kotte Rural,6,Masangko,Kote,Tucbang
-336,Eastern Highlands,Kainantut,Iyevinonta,4,Baviga,,Benega
-337,Morobe,Finschafent,Yabim Mape Rural,17,Sinko,Zaqing,Bulium
-338,Southern Highlands,Kagua/Eravet,Aiya Rural,Pawayamo,Pawayamo,Palisarepa,Yaita
-339,Western Highlands,Tambul/Nebilyert,Giluwe,Tamal,Kapo,Komola,Palinol
-340,Morobe,Huont,Morobe Rural,16,ZARE,,WAPO
-341,Morobe,Finschafent,Yabim Mape Rural,12,SIARANG,SUUNG,
-342,Morobe,Finschafent,Yabim Mape Rural,16,BAMATA,NAGA,FAKINE
-343,Western Highlands,Mul/Baiyert,Mul Rural,Kelngha 2,Kelngha,Kumdi,Kupemb
-344,Morobe,Finschafent,Yabim Mape Rural,15,SUQANG,MAPE,BORONE
-345,Morobe,Finschafent,Yabim Mape Rural,12,ZINKO,MIMIPE,SEKEN
-346,Morobe,Finschafent,Kotte Rural,4,SANGMONZANG,MEHENG,ZOZORA
-347,Morobe,Wau Waria,Waria Rural,13,ARAMUTA,BARIZA,SAKIZA
-348,Morobe,Finschafent,Yabim Mape Rural,13,BEREMUNG,MAPE,LONGANG
-349,Morobe,Finschafent,Kotte Rural,8,ZIWEWANENG,KOTE,MAROROC
-350,Southern Highlands,Pangia,South Wiru,,Koyabu,Kima,Kawirene
-351,Western Highlands,Mul/Baiyert,Mul Rural,Kelngha 2,Kelngha,Kumdi,Kupemb
-352,Western Highlands,Mul/Baiyert,Mul Rural,Kelngha 2,Kelngha,Kumdi,Kupemb
-353,Western Highlands,Hagen Central,Hagen Rural,Rolga,Balg,Kuklika,Nem
-354,Morobe,Huont,Morobe Rural,,BAU,ZIA,SAKIA
-355,Morobe,Finschafent,Kotte Rural,10,KIWESAWA,KOTE,TEMBANG
-356,Southern Highlands,Imbonggut,Iabu Rural,Lepora,Lepora,Mokoi Kanbia,Mox
-357,Southern Highlands,Pangia,South Wiru,Kalane,Kalane,Kawirene,Kowa
-358,Southern Highlands,Imbonggut,Ialibu Basin Rural,5,Ponegama,Ipulumai,Lapeya
-359,Morobe,Finschafent,Burum Kwat Rural,5,KOIRE,JILOMSEN,JILOMSEN
-360,Morobe,Finschafent,Kotte Rural,4,YUNZAING,WAMOROC,GONDE
-361,Morobe,Finschafent,Kotte Rural,6,QALANGKO,,
-362,Southern Highlands,Kagua/Eravet,Aiya Rural,Yanguri 2,Kelemapi,Regerepa,Kera
-363,Morobe,Huont,Morobe Rural,,ZARE,,WAAPO
-364,Southern Highlands,Imbonggut,Lower Mendi Rural,Yebi one,Kalape,Mutup,Awaro
-365,Morobe,Huont,Morobe Rural,,ZARE,,WAAPO
-366,Morobe,Finschafent,Kotte Rural,3,SIRIRIO,ATEZINC,RAMONE
-367,Morobe,Finschafent,Kotte Rural,10,HELDSBACH,KOA,ESIANDA
-368,Morobe,Finschafent,Kotte Rural,1,AIMORAO,WAMORA,MASAWENG HOTTENE
-369,Morobe,Huont,Morobe Rural,7,BOSADI,SUENA,YEWA
-370,Morobe,Huont,Morobe Rural,,AINGSE,ZIA,YEWA
-371,Eastern Highlands,Kainantut,Kianantu Urban,2,Tandranofi,Onempinka,Marumunofi
-372,Morobe,Tawae/Siassit,Sialum Rural,1,GITUA,SIMOAT,ROTO
-373,Morobe,Tawae/Siassit,Sialum Rural,5,KUKUYTA,MEZENGKIO,REZEK
-374,Morobe,Finschafent,Burum Kwat Rural,4,JEVIZANG,,KAIWONG
-375,Morobe,Finschafent,Hube Rural,14,SAFIFI,MAPE,SILIPA
-376,Morobe,Finschafent,Yabim Mape Rural,19,TEMBANG,MAPE,ZINE
-377,Morobe,Huont,Morobe Rural,,ZARE,SAIGAR,DZIA
-378,Morobe,Tawae/Siassit,Sialum Rural,,TREE,SIALUM,
-379,Morobe,Finschafent,Kotte Rural,6,FIOO,MASANGKO,TUCBANG
-380,Southern Highlands,Imbonggut,Lower Mendi Rural,Yebi 1,Mumi,Kononarep,Ronge
-381,Southern Highlands,Kagua/Eravet,Aiya Rural,Pawayamo,Pakina,Parisarepa,Yaita
-382,Southern Highlands,Kagua/Eravet,Kagua,Yame,Yame,Ipiri,Mirupa
-383,Southern Highlands,Ialibu/Pangiat,Ialibu Urban,4,Kendagl,Tangilci,Kawala
-384,Southern Highlands,Pangia,South Wiru,,Yora,Wiliri,Poilom
-385,Southern Highlands,Pangia,South Wiru,,Kotabu,Kawirene,
-386,Southern Highlands,Pangia,South Wiru,Yoga - Yoya,Yoka,Wipai -Tee,Wiliri
-387,Southern Highlands,Kagua/Eravet,Kagua Urban,Yame Ward 24,Yame,Oropa,Kole oropa
-388,Southern Highlands,Pangia,South Wiru,Iaro ward 1,Iaro,Tanderi,Kairi
-389,Southern Highlands,Ialibu/Pangiat,South Wiru,Epapini,Kuruyap,Yumbiri,Mokoru
-390,Southern Highlands,Pangia,South Wiru,Kaluwe 1,Milaike,Kaimari,Nowei
-391,Southern Highlands,Pangia,South Wiru,,Akoyabu,Kauirene,Take
-392,Southern Highlands,Kagua/Eravet,Kagua Central,Mabuanda,Mabuanda,Sualo,Kaladi
-393,Eastern Highlands,Kainantut,Kamano,2,Taranofi,,
-394,Jiwaka ,JIWAKA,North Waghi Rural,,KAPALKU,DANGE,JEKA
-395,Eastern Highlands,Kainantut,Kamano No. 1 Rural,1,Krufinave,Krufinave,Nonje
-396,Eastern Highlands,Kainantut,Kamano,1,Bobonave,Bobonave,Janofi
-397,Eastern Highlands,Kainantut,Kamano,1,Bobonave,Bobonave,Upanofi
-398,Eastern Highlands,Obura/Wonenarat,Gadsup Tairora Rural,12,Erandora,"Suwaira No,2",Kau-una
-399,Morobe,Kainantut,Kainantu Urban,6,Avina,,
-400,Eastern Highlands,Henganofit,Apafiantina,,Kerevave,,Sirente
-401,Jiwaka ,JIWAKA,North Waghi Rural,,KAPALKU,DANGE,JEKA
-402,Eastern Highlands,Kainantut,,1,Bobonave,,
-403,Jiwaka ,JIWAKA,Nondgel,1,KOROP,WALKAN,WIKA
-404,Eastern Highlands,Kainantut,Kamano No. 2 Rural,4,Benaga,,
-405,Eastern Highlands,Kainantut,Agarabi Rural,Ramu Ward 1,Dawerumpa,Anona,Tawan
-406,Eastern Highlands,Kainantut,East Okapa Rural,15,Amaira,Afia,Afia
-407,Eastern Highlands,Kainantut,Kamano No. 2 Rural,5,Sisimega,Anumsaga,Kelfa
-408,Eastern Highlands,Kainantut,K 1,1,Tanaranofi,,Maramu
-409,Eastern Highlands,Kainantut,Kamano No. 1 Rural,5,Kumanofi,,Kreme
-410,Eastern Highlands,Henganofit,Kafentina Rural,5,Vitix,Habangi,Habangi
-411,Jiwaka ,Banz ,Nondgel,,KONDWIL,OKAN,KOMUNKA
-412,Eastern Highlands,Kainantut,Kamano No. 2 Rural,5,Onaimuga,Megusa,Tiranofi
-413,Jiwaka ,NONDUGL,Munumul,3,BONONG,KOMUNKA,OKAN
-414,Eastern Highlands,Kainantut,Iyevinonta,18,Yoginofi,Mabganabe,Yoginofi
-415,Eastern Highlands,Henganofit,Kafentina Rural,6,Henganofi,,Abigusa
-416,Eastern Highlands,Henganofit,Kafentina Rural,6,Henganofi,,Abigusa
-417,Eastern Highlands,Kainantut,Agarabi Rural,6,Kanimpa,Anonanan,Kainan
-418,Eastern Highlands,Kainantut,Kamano,6,Kuma,Kuma,Kuma
-419,Chimbu (Simbu),Kerowagit,Kup Rural,6,GURUMUK,NANGINKU,MISAP
-420,Jiwaka ,NONDUGL,Munumul,3,BONONG,KOMUNKA,OKAN
-421,Eastern Highlands,Okapat,East,15,,Singura,Ofompina
-422,Eastern Highlands,Kainantut,K 1,7,Tapo,Bane,Baneritu
-423,Eastern Highlands,Kainantut,Kamano No. 1 Rural,2,Panafi,,
-424,Eastern Highlands,Henganofit,Tevega,9,Aseu,Sia,Ako
-425,Eastern Highlands,Henganofit,Dunantina Rural,8,Kemenave,Ikanofi,Kenkao
-426,Jiwaka ,JIWAKA,Nondgel,1,BANINE,OKAN,BANGKAN
-427,Eastern Highlands,Henganofit,Kafentina Rural,6,Konamempi,Kesegenafamo,Kekave
-428,Eastern Highlands,Henganofit,Punatina,2,Timereo,Kafe,Kunumpa
-429,Eastern Highlands,Henganofit,Kafentina Rural,5,Sky,Johotegave,Ufaga
-430,Eastern Highlands,Henganofit,Kafentina Rural,5,Johotegave,Johotegave,Ufaga
-431,Eastern Highlands,Henganofit,Kafentina Rural,5,Johotegave,Johotegave,Ufaga
-432,Eastern Highlands,Henganofit,Kafentina Rural,5,Johotegave,Johotegave,Ireija
-433,Jiwaka ,North Waghit,North Waghi Rural,KAKINJEP,KILIP,ANDAPANG,KARIM
-434,Chimbu (Simbu),Kerowagit,Kup Rural,3,Dombo,Yuri,Ermain
-435,Jiwaka ,Mins,South Wiru,Djeck 1,Djeck,Yumkup,Endukanem
-436,Eastern Highlands,Henganofit,Kafentina Rural,6,Henganofi,Fumegena,Fogaonta
-437,Eastern Highlands,Henganofit,Dunantina Rural,4,Tinteo,Tintegawe,Yalgunofi
-438,Eastern Highlands,Kainantut,Kamano No. 2 Rural,Onamuga,Sisimega,Anumaga,Kelfa
-439,Eastern Highlands,Henganofit,Kafentina Rural,7,Kamuina,Wildman,Finoi
-440,Chimbu (Simbu),Kerowagit,Lower Koronigle,1,DEMAG,DAGLE,WAUGLAKU
-441,Eastern Highlands,Henganofit,Kafentina Rural,2,Kinkio,Henganofi,
-442,Eastern Highlands,Kainantut,Tairora,9,Onanika,Ireno,Tape
-443,Chimbu (Simbu),Kerowagit,Upper/Lower Koronigl Rural,2,KEWAMUGL,DAGLE,KORUKANE
-444,Jiwaka ,JIWAKA,Kudjip,1,PIANG,BREKARE,KOPEKANEM
-445,Jiwaka ,North Waghit,Nondugl Rural,1,BAMNE,ANDPAKAN,BOMAKAN
-446,Chimbu (Simbu),Kerowagit,Upper/Lower Koronigl Rural,4,MOROMA,DUKANE,WURUMANGAKANE
-447,Eastern Highlands,Obura/Wonenarat,Gadsup Tairora Rural,3,Binumarie,Fafase,Fafase
-448,Eastern Highlands,Jiwaka,North Waghi Rural,,Onil,Owelka,Konskan
-449,Chimbu (Simbu),Kerowagit,Lower Upper,5,GONDAMANDA,MULWAUKU,GENDUAKANE
-450,Chimbu (Simbu),Kerowagit,Kup Rural,3,MONIGUL,YURI,
-451,Jiwaka ,JIWAKA,Kudjip,,TOMBIL,BREKAPE,KOPEKANEM
-452,Eastern Highlands,Kainantut,Kasup,4,Kamanda,Bassum,Bassum
-453,Chimbu (Simbu),Kerowagit,Upper Lower,9,DAWAGIE,PAGLAU,BENGADIKU
-454,Eastern Highlands,Okapat,Gadsup Tairora Rural,12,Ean Dora,Kaibena,Kainbena
-455,Eastern Highlands,Kainantut,Kamano No. 1 Rural,1,Tanranofi,Seyako,Marumu
-456,Jiwaka ,KOL JIMI,Kol Rural,16,MULU,OLKANE,KOMUNAK
-457,Chimbu (Simbu),Kerowagit,Lower Upper,3,DENGE,DAGLE,TEKAKANE
-458,Eastern Highlands,Henganofit,Kafentina Rural,11,Henanofi,,Fu Megenannofi
-459,Chimbu (Simbu),Kerowagit,Lower Upper,4,MOROMA,DAGLE,BUKANE
-460,Chimbu (Simbu),Kerowagit,Upper Lower,,KEWAMUGL,UPPER DAGLE,TEKA WAIKANE
-461,Jiwaka ,Jimit,Kol Rural,,KILAMEL,PALA,AIMBEKA
-462,Eastern Highlands,Henganofit,Kafentina Rural,6,Henganofi,Fumegena,Fomurena
-463,Eastern Highlands,Kainantut,Agarabi Rural,7,Moimo,,Auri
-464,Jiwaka ,Jimit,Kol Rural,,KULAMEL,PALA,AIMBEKA
-465,Eastern Highlands,Okapat,East Okapa Rural,15,Amaira,Awiyepi,Singura
-466,Eastern Highlands,Okapat,East Okapa Rural,15,Amaira,Avia,Kafanumana
-467,Jiwaka ,Jimit,Kol Rural,,KULAMEL,PALA,AIMBEKA
-468,Eastern Highlands,Kainantut,Kamano No. 1 Rural,3,Onenofi,Bane,Onti
-469,Chimbu (Simbu),Kerowagit,Kup Rural,5,DOMINA,KUMAI,KUNDNAGILGAPAM
-470,Jiwaka ,Jimit,Waramans,5,JINSAMP,KUDULKAN,WIKA
-471,Southern Highlands,Imbonggut,Lower Mendi Rural,Pundit Council Ward,Pundia,Mox,Pergpe
-472,Southern Highlands,Imbonggut,Lower Mendi Rural,Omai,Omai,Onarop,Ropa
-473,Southern Highlands,Kagua/Eravet,Aiya Rural,Pati Sare,Imuya,Yamola,Paruma
-474,Southern Highlands,Kagua/Eravet,Aiya Rural,Lakira,Lakira,Nemola,Kemborepa
-475,Southern Highlands,Pangia,South Wiru,Timbari 2,Timbari,Lenepiri,Were
-476,Southern Highlands,Pangia,South Wiru,6,Kangren,,Umbri
-477,Southern Highlands,Pangia,Maipini,Werigo,Maipini,Peri,Peri
-478,Southern Highlands,Ialibu/Pangiat,South Wiru,Poloko Ward 1,Ponodia,Kawipene,Yukuma
-479,Southern Highlands,Pangia,South Wiru,Kaluwe 2,Kaluwe,,Tawindi
-480,Southern Highlands,Pangia,Tans,1,Wariko,Wariko,Kainari
-481,Southern Highlands,Imbonggut,Lower Mendi Rural,Pundia /Limbaile,Yara,Yaterepa,Kawili
-482,Southern Highlands,Kagua/Eravet,Aiya Rural,Uma 2,Uma,Buna,Asa
-483,Southern Highlands,Pangia,South Wiru,Poloko Word One,Poloka,Tole,Tarowa
-484,Southern Highlands,Pangia,East Pangia Rural,Molo 2,Laiyo,Kambiri,Karipuri
-485,Southern Highlands,Imbonggut,Lower Mendi Rural,Asesa,Papera,Makai,Loi
-486,Southern Highlands,Ialibu/Pangiat,South Wiru,Kalane,Kalane,Yaro,Kawirene
-487,Southern Highlands,Kagua/Eravet,Aiya Rural,Sumi ward 2,Yaware,Raipipa,Anarepa
-488,Southern Highlands,Mendi/Munihut,Upper Mendi Rural,Semera CW,Semera,Kekuton,Kurilke
-489,Southern Highlands,Imbonggut,Lower Mendi Rural,Omai,Omai,Ambia,Anabia
-490,Southern Highlands,Ialibu/Pangiat,South Wiru,Kegereni moroa,Moroa,Yumbiri,Kewa
-491,Southern Highlands,Ialibu/Pangiat,South Wiru,Kegereni moroa,Moroa,Yumbiri,Kewa
-492,Southern Highlands,Mendi/Munihut,Imbonggu Rural,3,Nakop,Papuai,Algu
-493,Southern Highlands,Pangia,East Pangia Rural,1,Yungili,Yoarene,Karepa
-494,Southern Highlands,Kagua/Eravet,Aiya Rural,,Uma,ASA,Ambitia
-495,Southern Highlands,Imbonggut,Lower Mendi Rural,Omai,Kana,Anditarepa,Yamu
-496,Southern Highlands,Imbonggut,Lower Mendi Rural,Omai,Kana,Makai,Makai
-497,Southern Highlands,Pangia,South Wiru,Keredali,Tarini,Epea,
-498,Southern Highlands,Mendi/Munihut,Upper Mendi Rural,Semera,Semera,Mundika,Kurilka
-499,,,South Wiru,Ward 3,Bolona,,Aluwe
-500,Southern Highlands,Mendi/Munihut,Last wiru,15,Kelepini,Kaurie,Kaugerene
-501,Southern Highlands,Mendi/Munihut,Upper Mendi Rural,Kuna 2,Kuma,Kurlka,Kumbi Popo
-502,Southern Highlands,Kagua/Eravet,Aiya Rural,Umai,Umai,Yako,Yako
-503,Jiwaka ,North Waghit,Nondugl Rural,,BAMNE,ANDPAKAKAN,BOMAKAN
-504,Eastern Highlands,Kainantut,Kamano,one,Krufinave,Onompi,Tirae
-505,Eastern Highlands,Obura/Wonenarat,Gadsup Tairora Rural,3,Binumarian,Ivilling,Bayan
-506,Eastern Highlands,Obura/Wonenarat,Gadsup Tairora Rural,3,Binumarian,Ivilling,Bayan
-507,Chimbu (Simbu),Kerowagit,Gena/Waugla Rural,12,KONBI,SIAMBUGLA,OKONDIE
-508,Jiwaka ,North Waghit,Nondugl Rural,3,KONMAGL,KOLKA,MUNOKAN
-509,Chimbu (Simbu),Kerowagit,Kondan,,KONDAN,PAGAU,SIMBAIKU
-510,Jiwaka ,JIWAKA,North Waghi Rural,,KAMING,WIKA,KORILKANE OLKANE
-511,Jiwaka ,Jimit,Tabibuga,,KAUIL,KONSKA,MONIKA
-512,Southern Highlands,Pangia,Pangia,,Mamuane,Kawi,Kawi
-513,Jiwaka ,JIWAKA,Nondugl Rural,3,KONDUWIL,OKAN,KOMUNKA
-514,Eastern Highlands,Henganofit,Dunantina Rural,4,Banka,Bazamunte,Etuo
-515,Jiwaka ,Banz ,North Waghi Rural,,DUMBOLA,KAPANGAP,WONGUP
-516,Eastern Highlands,Henganofit,Dunantina Rural,4,Bafo,Kate,Hengao
-517,Southern Highlands,Pangia,South Wiru,Powe Ward 3,Yaro,Iand,Tepi
-518,Southern Highlands,Imbonggut,Lower Mendi Rural,Tutam Ward,Lumbi,Kipu,Sembia
-519,Southern Highlands,Kagua/Eravet,Aiya Rural,Mapaita 1,Mapaita,Ramirepa,Yambarea
-520,Eastern Highlands,Unggai/Bennat,Lower Benna Rural,7,Lampo,Numuyanofi,Osapato
-521,Jiwaka ,MINJ,Kudjip,2,TOMBIL,BEREKPA,KOPUNKANEM
-522,Jiwaka ,SOUTH WAGHI,Kudjip,1,KUDJIP,MIAMGA,KUMA
-523,Southern Highlands,Pangia,South Wiru,Yaro Pow,Paria,Tande,Tepiri
-524,Jiwaka ,JIWAKA,Minj,2,ALNALKOL,KODIKA,MANDEPKANAM
-525,Southern Highlands,Mendi/Munihut,Upper Mendi Rural,Kuma,Kuma,Komolom,Komolom
-526,Jiwaka ,JIWAKA,Banz ,1,DUMBOLA,KNK,KAPANGUP
-527,Southern Highlands,Mendi/Munihut,Upper Mendi Rural,Birop 1,Birop,Ilegomhulga,Underpipe
-528,,,Upper Mendi Rural,,SEMERA,SEMERA,KURILKA
-529,Chimbu (Simbu),Kerowagit,Upper/Lower Koronigl Rural,5,MIUNDE,DAGLE,MUGULUAKU
-530,Southern Highlands,Pangia,Laibu/pangia,One,Maupini,Pondere,Yoraene
+292,Southern Highlands,Pangia,South Wiru,,,,
+293,Western Highlands,Hagen,Lower Kagul,,,,
+294,Eastern Highlands,Henganofit,Kafentina Rural,,,,
+295,Western Highlands,Hagen,Hagen Rural,,,,
+296,Western Highlands,"Hagen, Tambul",Mount Giluwe Rural,,,,
+297,Southern Highlands,Kagua/Eravet,Aiya Rural,,,,
+298,Morobe,Kabwumt,Deyamos Rural,,,,
+299,Morobe,Finschafent,Kotte Rural,,,,
+300,Eastern Highlands,Obura/Wonenarat,Gadsup Tairora Rural,,,,
+301,Western Highlands,Deit,Kotna Rural,,,,
+302,Southern Highlands,Imbonggut,Lower Mendi Rural,,,,
+303,Western Highlands,Tambul/Nebilyert,Gilewa,,,,
+304,Western Highlands,Mul/Baiyert,Mul Rural,,,,
+305,Eastern Highlands,Obura/Wonenarat,Gadsup Tairora Rural,,,,
+306,Western Highlands,Mul/Baiyert,Gumanch,,,,
+307,Western Highlands,Deit,Kotna Rural,,,,
+308,Morobe,Menyamyat,Kome Rural,,,,
+309,Morobe,Menyamyat,Sikong,,,,
+310,Morobe,Huont,Wampar Rural,,,,
+311,Southern Highlands,Imbonggut,Lower Mendi Rural,,,,
+312,Morobe,Finschafent,Kotte Rural,,,,
+313,Southern Highlands,Mendi/Munihut,Imbonggu Rural,,,,
+314,Southern Highlands,Imbonggut,,,,,
+315,Western Highlands,Deit,Dei Rural,,,,
+316,Southern Highlands,Mendi/Munihut,Upper Mendi Rural,,,,
+317,Western Highlands,Mul/Baiyert,Kumcei,,,,
+318,Morobe,Finschafent,Kotte Rural,,,,
+319,Morobe,Tawae/Siassit,Sialum Rural,,,,
+320,Western Highlands,Tambul/Nebilyert,Mount Giluwe Rural,,,,
+321,Eastern Highlands,Okapat,East Okapa Rural,,,,
+322,Morobe,Nawaet,Nabak Rural,,,,
+323,Eastern Highlands,Okapat,East Okapa Rural,,,,
+324,,Morobe,Kotte Rural,,,,
+325,Morobe,Nawaet,Nabak Rural,,,,
+326,Eastern Highlands,Okapat,East Okapa Rural,,,,
+327,Morobe,Markhamt,Umi/Atzera Rural,,,,
+328,Eastern Highlands,Henganofit,Kafentina Rural,,,,
+329,Morobe,Bulolot,Buang Rural,,,,
+330,Eastern Highlands,Kianantu,Kamano No. 2 Rural,,,,
+331,Morobe,Markhamt,Leron Wantoat,,,,
+332,Morobe,Nawaet,Nabak Rural,,,,
+333,Morobe,Finschafent,Yabim Mape Rural,,,,
+334,Western Highlands,Tambul/Nebilyert,Mount Giluwe Rural,,,,
+335,Morobe,Finschafent,Kotte Rural,,,,
+336,Eastern Highlands,Kainantut,Iyevinonta,,,,
+337,Morobe,Finschafent,Yabim Mape Rural,,,,
+338,Southern Highlands,Kagua/Eravet,Aiya Rural,,,,
+339,Western Highlands,Tambul/Nebilyert,Giluwe,,,,
+340,Morobe,Huont,Morobe Rural,,,,
+341,Morobe,Finschafent,Yabim Mape Rural,,,,
+342,Morobe,Finschafent,Yabim Mape Rural,,,,
+343,Western Highlands,Mul/Baiyert,Mul Rural,,,,
+344,Morobe,Finschafent,Yabim Mape Rural,,,,
+345,Morobe,Finschafent,Yabim Mape Rural,,,,
+346,Morobe,Finschafent,Kotte Rural,,,,
+347,Morobe,Wau Waria,Waria Rural,,,,
+348,Morobe,Finschafent,Yabim Mape Rural,,,,
+349,Morobe,Finschafent,Kotte Rural,,,,
+350,Southern Highlands,Pangia,South Wiru,,,,
+351,Western Highlands,Mul/Baiyert,Mul Rural,,,,
+352,Western Highlands,Mul/Baiyert,Mul Rural,,,,
+353,Western Highlands,Hagen Central,Hagen Rural,,,,
+354,Morobe,Huont,Morobe Rural,,,,
+355,Morobe,Finschafent,Kotte Rural,,,,
+356,Southern Highlands,Imbonggut,Iabu Rural,,,,
+357,Southern Highlands,Pangia,South Wiru,,,,
+358,Southern Highlands,Imbonggut,Ialibu Basin Rural,,,,
+359,Morobe,Finschafent,Burum Kwat Rural,,,,
+360,Morobe,Finschafent,Kotte Rural,,,,
+361,Morobe,Finschafent,Kotte Rural,,,,
+362,Southern Highlands,Kagua/Eravet,Aiya Rural,,,,
+363,Morobe,Huont,Morobe Rural,,,,
+364,Southern Highlands,Imbonggut,Lower Mendi Rural,,,,
+365,Morobe,Huont,Morobe Rural,,,,
+366,Morobe,Finschafent,Kotte Rural,,,,
+367,Morobe,Finschafent,Kotte Rural,,,,
+368,Morobe,Finschafent,Kotte Rural,,,,
+369,Morobe,Huont,Morobe Rural,,,,
+370,Morobe,Huont,Morobe Rural,,,,
+371,Eastern Highlands,Kainantut,Kianantu Urban,,,,
+372,Morobe,Tawae/Siassit,Sialum Rural,,,,
+373,Morobe,Tawae/Siassit,Sialum Rural,,,,
+374,Morobe,Finschafent,Burum Kwat Rural,,,,
+375,Morobe,Finschafent,Hube Rural,,,,
+376,Morobe,Finschafent,Yabim Mape Rural,,,,
+377,Morobe,Huont,Morobe Rural,,,,
+378,Morobe,Tawae/Siassit,Sialum Rural,,,,
+379,Morobe,Finschafent,Kotte Rural,,,,
+380,Southern Highlands,Imbonggut,Lower Mendi Rural,,,,
+381,Southern Highlands,Kagua/Eravet,Aiya Rural,,,,
+382,Southern Highlands,Kagua/Eravet,Kagua,,,,
+383,Southern Highlands,Ialibu/Pangiat,Ialibu Urban,,,,
+384,Southern Highlands,Pangia,South Wiru,,,,
+385,Southern Highlands,Pangia,South Wiru,,,,
+386,Southern Highlands,Pangia,South Wiru,,,,
+387,Southern Highlands,Kagua/Eravet,Kagua Urban,,,,
+388,Southern Highlands,Pangia,South Wiru,,,,
+389,Southern Highlands,Ialibu/Pangiat,South Wiru,,,,
+390,Southern Highlands,Pangia,South Wiru,,,,
+391,Southern Highlands,Pangia,South Wiru,,,,
+392,Southern Highlands,Kagua/Eravet,Kagua Central,,,,
+393,Eastern Highlands,Kainantut,Kamano,,,,
+394,Jiwaka ,JIWAKA,North Waghi Rural,,,,
+395,Eastern Highlands,Kainantut,Kamano No. 1 Rural,,,,
+396,Eastern Highlands,Kainantut,Kamano,,,,
+397,Eastern Highlands,Kainantut,Kamano,,,,
+398,Eastern Highlands,Obura/Wonenarat,Gadsup Tairora Rural,,,,
+399,Morobe,Kainantut,Kainantu Urban,,,,
+400,Eastern Highlands,Henganofit,Apafiantina,,,,
+401,Jiwaka ,JIWAKA,North Waghi Rural,,,,
+402,Eastern Highlands,Kainantut,,,,,
+403,Jiwaka ,JIWAKA,Nondgel,,,,
+404,Eastern Highlands,Kainantut,Kamano No. 2 Rural,,,,
+405,Eastern Highlands,Kainantut,Agarabi Rural,,,,
+406,Eastern Highlands,Kainantut,East Okapa Rural,,,,
+407,Eastern Highlands,Kainantut,Kamano No. 2 Rural,,,,
+408,Eastern Highlands,Kainantut,K 1,,,,
+409,Eastern Highlands,Kainantut,Kamano No. 1 Rural,,,,
+410,Eastern Highlands,Henganofit,Kafentina Rural,,,,
+411,Jiwaka ,Banz ,Nondgel,,,,
+412,Eastern Highlands,Kainantut,Kamano No. 2 Rural,,,,
+413,Jiwaka ,NONDUGL,Munumul,,,,
+414,Eastern Highlands,Kainantut,Iyevinonta,,,,
+415,Eastern Highlands,Henganofit,Kafentina Rural,,,,
+416,Eastern Highlands,Henganofit,Kafentina Rural,,,,
+417,Eastern Highlands,Kainantut,Agarabi Rural,,,,
+418,Eastern Highlands,Kainantut,Kamano,,,,
+419,Chimbu (Simbu),Kerowagit,Kup Rural,,,,
+420,Jiwaka ,NONDUGL,Munumul,,,,
+421,Eastern Highlands,Okapat,East,,,,
+422,Eastern Highlands,Kainantut,K 1,,,,
+423,Eastern Highlands,Kainantut,Kamano No. 1 Rural,,,,
+424,Eastern Highlands,Henganofit,Tevega,,,,
+425,Eastern Highlands,Henganofit,Dunantina Rural,,,,
+426,Jiwaka ,JIWAKA,Nondgel,,,,
+427,Eastern Highlands,Henganofit,Kafentina Rural,,,,
+428,Eastern Highlands,Henganofit,Punatina,,,,
+429,Eastern Highlands,Henganofit,Kafentina Rural,,,,
+430,Eastern Highlands,Henganofit,Kafentina Rural,,,,
+431,Eastern Highlands,Henganofit,Kafentina Rural,,,,
+432,Eastern Highlands,Henganofit,Kafentina Rural,,,,
+433,Jiwaka ,North Waghit,North Waghi Rural,,,,
+434,Chimbu (Simbu),Kerowagit,Kup Rural,,,,
+435,Jiwaka ,Mins,South Wiru,,,,
+436,Eastern Highlands,Henganofit,Kafentina Rural,,,,
+437,Eastern Highlands,Henganofit,Dunantina Rural,,,,
+438,Eastern Highlands,Kainantut,Kamano No. 2 Rural,,,,
+439,Eastern Highlands,Henganofit,Kafentina Rural,,,,
+440,Chimbu (Simbu),Kerowagit,Lower Koronigle,,,,
+441,Eastern Highlands,Henganofit,Kafentina Rural,,,,
+442,Eastern Highlands,Kainantut,Tairora,,,,
+443,Chimbu (Simbu),Kerowagit,Upper/Lower Koronigl Rural,,,,
+444,Jiwaka ,JIWAKA,Kudjip,,,,
+445,Jiwaka ,North Waghit,Nondugl Rural,,,,
+446,Chimbu (Simbu),Kerowagit,Upper/Lower Koronigl Rural,,,,
+447,Eastern Highlands,Obura/Wonenarat,Gadsup Tairora Rural,,,,
+448,Eastern Highlands,Jiwaka,North Waghi Rural,,,,
+449,Chimbu (Simbu),Kerowagit,Lower Upper,,,,
+450,Chimbu (Simbu),Kerowagit,Kup Rural,,,,
+451,Jiwaka ,JIWAKA,Kudjip,,,,
+452,Eastern Highlands,Kainantut,Kasup,,,,
+453,Chimbu (Simbu),Kerowagit,Upper Lower,,,,
+454,Eastern Highlands,Okapat,Gadsup Tairora Rural,,,,
+455,Eastern Highlands,Kainantut,Kamano No. 1 Rural,,,,
+456,Jiwaka ,KOL JIMI,Kol Rural,,,,
+457,Chimbu (Simbu),Kerowagit,Lower Upper,,,,
+458,Eastern Highlands,Henganofit,Kafentina Rural,,,,
+459,Chimbu (Simbu),Kerowagit,Lower Upper,,,,
+460,Chimbu (Simbu),Kerowagit,Upper Lower,,,,
+461,Jiwaka ,Jimit,Kol Rural,,,,
+462,Eastern Highlands,Henganofit,Kafentina Rural,,,,
+463,Eastern Highlands,Kainantut,Agarabi Rural,,,,
+464,Jiwaka ,Jimit,Kol Rural,,,,
+465,Eastern Highlands,Okapat,East Okapa Rural,,,,
+466,Eastern Highlands,Okapat,East Okapa Rural,,,,
+467,Jiwaka ,Jimit,Kol Rural,,,,
+468,Eastern Highlands,Kainantut,Kamano No. 1 Rural,,,,
+469,Chimbu (Simbu),Kerowagit,Kup Rural,,,,
+470,Jiwaka ,Jimit,Waramans,,,,
+471,Southern Highlands,Imbonggut,Lower Mendi Rural,,,,
+472,Southern Highlands,Imbonggut,Lower Mendi Rural,,,,
+473,Southern Highlands,Kagua/Eravet,Aiya Rural,,,,
+474,Southern Highlands,Kagua/Eravet,Aiya Rural,,,,
+475,Southern Highlands,Pangia,South Wiru,,,,
+476,Southern Highlands,Pangia,South Wiru,,,,
+477,Southern Highlands,Pangia,Maipini,,,,
+478,Southern Highlands,Ialibu/Pangiat,South Wiru,,,,
+479,Southern Highlands,Pangia,South Wiru,,,,
+480,Southern Highlands,Pangia,Tans,,,,
+481,Southern Highlands,Imbonggut,Lower Mendi Rural,,,,
+482,Southern Highlands,Kagua/Eravet,Aiya Rural,,,,
+483,Southern Highlands,Pangia,South Wiru,,,,
+484,Southern Highlands,Pangia,East Pangia Rural,,,,
+485,Southern Highlands,Imbonggut,Lower Mendi Rural,,,,
+486,Southern Highlands,Ialibu/Pangiat,South Wiru,,,,
+487,Southern Highlands,Kagua/Eravet,Aiya Rural,,,,
+488,Southern Highlands,Mendi/Munihut,Upper Mendi Rural,,,,
+489,Southern Highlands,Imbonggut,Lower Mendi Rural,,,,
+490,Southern Highlands,Ialibu/Pangiat,South Wiru,,,,
+491,Southern Highlands,Ialibu/Pangiat,South Wiru,,,,
+492,Southern Highlands,Mendi/Munihut,Imbonggu Rural,,,,
+493,Southern Highlands,Pangia,East Pangia Rural,,,,
+494,Southern Highlands,Kagua/Eravet,Aiya Rural,,,,
+495,Southern Highlands,Imbonggut,Lower Mendi Rural,,,,
+496,Southern Highlands,Imbonggut,Lower Mendi Rural,,,,
+497,Southern Highlands,Pangia,South Wiru,,,,
+498,Southern Highlands,Mendi/Munihut,Upper Mendi Rural,,,,
+499,,,South Wiru,,,,
+500,Southern Highlands,Mendi/Munihut,Last wiru,,,,
+501,Southern Highlands,Mendi/Munihut,Upper Mendi Rural,,,,
+502,Southern Highlands,Kagua/Eravet,Aiya Rural,,,,
+503,Jiwaka ,North Waghit,Nondugl Rural,,,,
+504,Eastern Highlands,Kainantut,Kamano,,,,
+505,Eastern Highlands,Obura/Wonenarat,Gadsup Tairora Rural,,,,
+506,Eastern Highlands,Obura/Wonenarat,Gadsup Tairora Rural,,,,
+507,Chimbu (Simbu),Kerowagit,Gena/Waugla Rural,,,,
+508,Jiwaka ,North Waghit,Nondugl Rural,,,,
+509,Chimbu (Simbu),Kerowagit,Kondan,,,,
+510,Jiwaka ,JIWAKA,North Waghi Rural,,,,
+511,Jiwaka ,Jimit,Tabibuga,,,,
+512,Southern Highlands,Pangia,Pangia,,,,
+513,Jiwaka ,JIWAKA,Nondugl Rural,,,,
+514,Eastern Highlands,Henganofit,Dunantina Rural,,,,
+515,Jiwaka ,Banz ,North Waghi Rural,,,,
+516,Eastern Highlands,Henganofit,Dunantina Rural,,,,
+517,Southern Highlands,Pangia,South Wiru,,,,
+518,Southern Highlands,Imbonggut,Lower Mendi Rural,,,,
+519,Southern Highlands,Kagua/Eravet,Aiya Rural,,,,
+520,Eastern Highlands,Unggai/Bennat,Lower Benna Rural,,,,
+521,Jiwaka ,MINJ,Kudjip,,,,
+522,Jiwaka ,SOUTH WAGHI,Kudjip,,,,
+523,Southern Highlands,Pangia,South Wiru,,,,
+524,Jiwaka ,JIWAKA,Minj,,,,
+525,Southern Highlands,Mendi/Munihut,Upper Mendi Rural,,,,
+526,Jiwaka ,JIWAKA,Banz ,,,,
+527,Southern Highlands,Mendi/Munihut,Upper Mendi Rural,,,,
+528,,,Upper Mendi Rural,,,,
+529,Chimbu (Simbu),Kerowagit,Upper/Lower Koronigl Rural,,,,
+530,Southern Highlands,Pangia,Laibu/pangia,,,,

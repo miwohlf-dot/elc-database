@@ -1,0 +1,327 @@
+admin_province,admin_district,admin_llg,admin_id
+Western,Middle Flyt,Balimo Urban,1
+Western,Middle Flyt,Bamu Rural,2
+Western,Middle Flyt,Gogodala Rural,3
+Western,Middle Flyt,Lake Murray Rural,4
+Western,Middle Flyt,Nomad Rural,5
+Western,North Flyt,Kiunga Rural,6
+Western,North Flyt,Kiunga Urban,7
+Western,North Flyt,Ningerum Rural,8
+Western,North Flyt,Olsobip Rural,9
+Western,North Flyt,Star Mountains Rural,10
+Western,South Flyt,Daru Urban,11
+Western,South Flyt,Kiwai Rural,12
+Western,South Flyt,Morehead Rural,13
+Western,South Flyt,Oriomo-Bituri Rural,14
+Gulf,Keremat,Central Kerema Rural,15
+Gulf,Keremat,East Kerema Rural,16
+Gulf,Keremat,Kaintiba Rural,17
+Gulf,Keremat,Kerema Urban,18
+Gulf,Keremat,Kotidanga Rural,19
+Gulf,Keremat,Lakekamu-Tauri Rural,20
+Gulf,Kikorit,Baimuru Rural,21
+Gulf,Kikorit,East Kikori Rural,22
+Gulf,Kikorit,Ihu Rural,23
+Gulf,Kikorit,West Kikori Rural,24
+Central,Abaut,Amazon Bay Rural,25
+Central,Abaut,Aroma Rural,26
+Central,Abaut,Cloudy Bay Rural,27
+Central,Goilalat,Guari Rural,28
+Central,Goilalat,Tapini Rural,29
+Central,Goilalat,Woitape Rural,30
+Central,Kairuku-Hirit,Hiri Rural,31
+Central,Kairuku-Hirit,Kairuku Rural,32
+Central,Kairuku-Hirit,Koiari Rural,33
+Central,Kairuku-Hirit,Mekeo Kuni Rural,34
+Central,Rigot,Rigo Central Rural,35
+Central,Rigot,Rigo Coastal Rural,36
+Central,Rigot,Rigo Inland Rural,37
+National Capital ,District National Capitalt,National Capitalt,38
+Milne Bay,Alotaut,Makamaka Rural,39
+Milne Bay,Alotaut,Daga Rural,40
+Milne Bay,Alotaut,Weraura Rural,41
+Milne Bay,Alotaut,Maramatana Rural,42
+Milne Bay,Alotaut,Huhu Rural,43
+Milne Bay,Alotaut,Suau Rural,44
+Milne Bay,Alotaut,Alotau Urban,45
+Milne Bay,Samarai-Muruat,Bwanabwana Rural,46
+Milne Bay,Samarai-Muruat,Louisiade Rural,47
+Milne Bay,Samarai-Muruat,Yaleyemba Rural,48
+Milne Bay,Samarai-Muruat,Murua Rural,49
+Milne Bay,Kiriwina-Goodenought,Kiriwina Rural,50
+Milne Bay,Kiriwina-Goodenought,Goodenough Island Rural,51
+Milne Bay,Esa'alat,West Ferguson Rural,52
+Milne Bay,Esa'alat,Dobu Rural,53
+Milne Bay,Esa'alat,Duau Rural,54
+Northern (Oro),Ijivitarit,Oro Bay Rural,55
+Northern (Oro),Ijivitarit,Tufi Rural,56
+Northern (Oro),Ijivitarit,Afore Rural,57
+Northern (Oro),Ijivitarit,Popondetta Urban,58
+Northern (Oro),Ijivitarit,Safia Rural,59
+Northern (Oro),Sohet,Kokoda Rural,60
+Northern (Oro),Sohet,Higaturu Rural,61
+Northern (Oro),Sohet,Tamata Rural,62
+Northern (Oro),Sohet,Kira Rural,63
+Southern Highlands,Ialibu/Pangiat,East Pangia Rural,64
+Southern Highlands,Ialibu/Pangiat,Ialibu Urban,65
+Southern Highlands,Ialibu/Pangiat,Kewabi Rural,66
+Southern Highlands,Ialibu/Pangiat,Wiru Rural,67
+Southern Highlands,Imbonggut,Ialibu Basin Rural,68
+Southern Highlands,Imbonggut,Imbonggu Rural,69
+Southern Highlands,Imbonggut,Lower Mendi Rural,70
+Southern Highlands,Kagua/Eravet,Erave Rural,71
+Southern Highlands,Kagua/Eravet,Kagua Rural,72
+Southern Highlands,Kagua/Eravet,Kuare Rural,73
+Southern Highlands,Kagua/Eravet,Aiya Rural,74
+Southern Highlands,Mendi/Munihut,Karints Rural,75
+Southern Highlands,Mendi/Munihut,Lai Valley Rural,76
+Southern Highlands,Mendi/Munihut,Mendi Urban,77
+Southern Highlands,Mendi/Munihut,Upper Mendi Rural,78
+Southern Highlands,Nipa/Kutubut,Lake Kutubu Rural,79
+Southern Highlands,Nipa/Kutubut,Mount Bosavi Rural,80
+Southern Highlands,Nipa/Kutubut,Nembi Plateau Rural,81
+Southern Highlands,Nipa/Kutubut,Nipa Rural,82
+Southern Highlands,Nipa/Kutubut,Poroma Rural,83
+Enga,Kandept,Kandep Rural,84
+Enga,Kandept,Wage Rural,85
+Enga,Kompiamt,Ambum Rural,86
+Enga,Kompiamt,Kompiam Rural,87
+Enga,Kompiamt,Wapi/Yengis Rural,88
+Enga,Lagaip/Pogerat,Lagaip Rural,89
+Enga,Lagaip/Pogerat,Maip Muritaka Rural,90
+Enga,Lagaip/Pogerat,Paiela/Hewa Rural,91
+Enga,Lagaip/Pogerat,Porgera Rural,92
+Enga,Lagaip/Pogerat,Pilikambi Rural,93
+Enga,Wabagt,Wabag Urban,94
+Enga,Wabagt,Wabag Rural,95
+Enga,Wabagt,Maramuni Rural,96
+Enga,Wapenamandat,Wapenamanda Rural,97
+Enga,Wapenamandat,Tsak Rural,98
+Western Highlands,Deit,Dei Rural,99
+Western Highlands,Deit,Kotna Rural,100
+Western Highlands,Mount Hagent,Mount Hagen Rural,101
+Western Highlands,Mount Hagent,Mount Hagen Urban,102
+Western Highlands,Mul/Baiyert,Mul Rural,103
+Western Highlands,Mul/Baiyert,Baiyer Rural,104
+Western Highlands,Mul/Baiyert,Lumusa Rural,105
+Western Highlands,Tambul/Nebilyert,Mount Giluwe Rural,106
+Western Highlands,Tambul/Nebilyert,Nebilyer Rural,107
+Chimbu (Simbu),Chuavet,Chuave Rural,108
+Chimbu (Simbu),Chuavet,Elimbari Rural,109
+Chimbu (Simbu),Chuavet,Siane Rural,110
+Chimbu (Simbu),Guminet,Bomai/Gumai Rural,111
+Chimbu (Simbu),Guminet,Gumine Rural,112
+Chimbu (Simbu),Guminet,Mount Digine Rural,113
+Chimbu (Simbu),Karimui/Nomanet,Karimui Rural,114
+Chimbu (Simbu),Karimui/Nomanet,Nomane Rural,115
+Chimbu (Simbu),Karimui/Nomanet,Salt Rural,116
+Chimbu (Simbu),Kerowagit,Gena/Waugla Rural,117
+Chimbu (Simbu),Kerowagit,Upper/Lower Koronigl Rural,118
+Chimbu (Simbu),Kerowagit,Kup Rural,119
+Chimbu (Simbu),Kerowagit,Kerowagi Urban,120
+Chimbu (Simbu),Kundiawa/Gemboglt,Kundiawa Urban,121
+Chimbu (Simbu),Kundiawa/Gemboglt,Mitnande Rural,122
+Chimbu (Simbu),Kundiawa/Gemboglt,Niglkande Rural,123
+Chimbu (Simbu),Kundiawa/Gemboglt,Waiye Rural,124
+Chimbu (Simbu),Sina Sina-Yonggomuglt,Tabare Rural,125
+Chimbu (Simbu),Sina Sina-Yonggomuglt,Suai Rural,126
+Chimbu (Simbu),Sina Sina-Yonggomuglt,Yonggomugl Rural,127
+Eastern Highlands,Daulot,Watabung Rural,128
+Eastern Highlands,Daulot,Lower Asaro Rural,129
+Eastern Highlands,Daulot,Upper Asaro Rural,130
+Eastern Highlands,Gorokat,Gahuku Rural,131
+Eastern Highlands,Gorokat,Goroka Urban,132
+Eastern Highlands,Gorokat,Mimanalo Rural,133
+Eastern Highlands,Henganofit,Kafentina Rural,134
+Eastern Highlands,Henganofit,Dunantina Rural,135
+Eastern Highlands,Henganofit,Fayantina Rural,136
+Eastern Highlands,Kainantut,Kamano No. 2 Rural,137
+Eastern Highlands,Kainantut,Kainantu Urban,138
+Eastern Highlands,Kainantut,Kamano No. 1 Rural,139
+Eastern Highlands,Kainantut,Agarabi Rural,140
+Eastern Highlands,Kainantut,Gadsup airora Rural,141
+Eastern Highlands,Lufat,Unavi Rural,142
+Eastern Highlands,Lufat,Mount Michael Rural,143
+Eastern Highlands,Lufat,Yagaria Rural,144
+Eastern Highlands,Obura/Wonenarat,Lamari Rural,145
+Eastern Highlands,Obura/Wonenarat,Yelia Rural,146
+Eastern Highlands,Okapat,East Okapa Rural,147
+Eastern Highlands,Okapat,West Okapa Rural,148
+Eastern Highlands,Unggai/Bennat,Lower Benna Rural,149
+Eastern Highlands,Unggai/Bennat,Upper Benna Rural,150
+Eastern Highlands,Unggai/Bennat,Unggai Rural,151
+Morobe,Bulolot,Mumeng Rural,152
+Morobe,Bulolot,Waria Rural,153
+Morobe,Bulolot,Watut Rural,154
+Morobe,Bulolot,Wau/Bulolo Urban,155
+Morobe,Bulolot,Wau Rural,156
+Morobe,Bulolot,Buang Rural,157
+Morobe,Finschafent,Burum Kwat Rural,158
+Morobe,Finschafent,Kotte Rural,159
+Morobe,Finschafent,Yabim Mape Rural,160
+Morobe,Finschafent,Hube Rural,161
+Morobe,Finschafent,Finschafen Urban,162
+Morobe,Huont,Morobe Rural,163
+Morobe,Huont,Salamaua Rural,164
+Morobe,Huont,Wampar Rural,165
+Morobe,Kabwumt,Deyamos Rural,166
+Morobe,Kabwumt,Yus Rural,167
+Morobe,Kabwumt,Komba Rural,168
+Morobe,Kabwumt,Selepet Rural,169
+Morobe,Laet,Ahi Rural,170
+Morobe,Laet,Lae Urban,171
+Morobe,Markhamt,Onga/Waffa Rural,172
+Morobe,Markhamt,Umi/Atzera Rural,173
+Morobe,Markhamt,Wantoat/Leron Rural,174
+Morobe,Menyamyat,Kome Rural,175
+Morobe,Menyamyat,Wapi Rural,176
+Morobe,Menyamyat,Kapao Rural,177
+Morobe,Menyamyat,Nanima Kariba Rural,178
+Morobe,Nawaet,Labuta Rural,179
+Morobe,Nawaet,Nabak Rural,180
+Morobe,Nawaet,Wain-Erap Rural,181
+Morobe,Tawae/Siassit,Sialum Rural,182
+Morobe,Tawae/Siassit,Siassi Rural,183
+Morobe,Tawae/Siassit,Wasu Rural,184
+Madang,Bogiat,Almami Rural,185
+Madang,Bogiat,Iabu Rural,186
+Madang,Bogiat,Yawar Rural,187
+Madang,Madangt,Ambenob Rural,188
+Madang,Madangt,Madang Urban,189
+Madang,Madangt,Transgogol Rural,190
+Madang,Middle Ramut,Arabaka Rural,191
+Madang,Middle Ramut,Josephstaal Rural,192
+Madang,Middle Ramut,Simbai Rural,193
+Madang,Middle Ramut,Kovon Rural,194
+Madang,Rai Coastt,Astrolabe Bay Rural,195
+Madang,Rai Coastt,Naho Rawa Rural,196
+Madang,Rai Coastt,Rai Coast Rural,197
+Madang,Rai Coastt,Nayudo Rural,198
+Madang,Sumkart,Karkar Rural,199
+Madang,Sumkart,Sumgilbar Rural,200
+Madang,Usino Bundit,Bundi Rural,201
+Madang,Usino Bundit,Usino Rural,202
+Madang,Usino Bundit,Gama Rural,203
+East Sepik,Ambunti/Drekikiert,Ambunti Rural,204
+East Sepik,Ambunti/Drekikiert,Dreikikier Rural,205
+East Sepik,Ambunti/Drekikiert,Gawanga Rural,206
+East Sepik,Ambunti/Drekikiert,Tunap/Hunstein Rural,207
+East Sepik,Angoramt,Angoram/Middle Sepik Rural,208
+East Sepik,Angoramt,Karawari Rural,209
+East Sepik,Angoramt,Keram Rural,210
+East Sepik,Angoramt,Marienberg Rural,211
+East Sepik,Angoramt,Yuat Rural,212
+East Sepik,Maprikt,Albiges/Mablep Rural,213
+East Sepik,Maprikt,Bumbita/Muhian Rural,214
+East Sepik,Maprikt,Maprik/Wora Rural,215
+East Sepik,Maprikt,Yamilamaui Rural,216
+East Sepik,Wewakt,Boikin/Dagua Rural,217
+East Sepik,Wewakt,Turubu Rural,218
+East Sepik,Wewakt,Wewak Islands Rural,219
+East Sepik,Wewakt,Wewak Rural,220
+East Sepik,Wewakt,Wewak Urban,221
+East Sepik,Wosera Gawit,Burui/Kunai Rural,222
+East Sepik,Wosera Gawit,Gawi Rural,223
+East Sepik,Wosera Gawit,North Wosera Rural,224
+East Sepik,Wosera Gawit,South Wosera Rural,225
+East Sepik,Yangoru Saussiat,East Yangoru Rural,226
+East Sepik,Yangoru Saussiat,Numbor Rural,227
+East Sepik,Yangoru Saussiat,Sausso Rural,228
+East Sepik,Yangoru Saussiat,West Yangoru Rural,229
+West Sepik (Sandaun),Aitape/Lumit,East Aitape Rural,230
+West Sepik (Sandaun),Aitape/Lumit,East Wapei Rural,231
+West Sepik (Sandaun),Aitape/Lumit,West Aitape Rural,232
+West Sepik (Sandaun),Aitape/Lumit,West Wapei Rural,233
+West Sepik (Sandaun),Nukut,Mawase Rural,234
+West Sepik (Sandaun),Nukut,Palmai Rural,235
+West Sepik (Sandaun),Nukut,Yangkok Rural,236
+West Sepik (Sandaun),Nukut,Maimai Wanwan Rural,237
+West Sepik (Sandaun),Telefomint,Namea Rural,238
+West Sepik (Sandaun),Telefomint,Oksapmin Rural,239
+West Sepik (Sandaun),Telefomint,Telefomin Rural,240
+West Sepik (Sandaun),Telefomint,Yapsie Rural,241
+West Sepik (Sandaun),Vanimo/Green Rivert,Amanab Rural,242
+West Sepik (Sandaun),Vanimo/Green Rivert,Bewani/Wutung Onei Rural,243
+West Sepik (Sandaun),Vanimo/Green Rivert,Green River Rural,244
+West Sepik (Sandaun),Vanimo/Green Rivert,Vanimo Urban,245
+West Sepik (Sandaun),Vanimo/Green Rivert,Walsa Rural,246
+Manus,Manust,Aua Wuvulu Rural,247
+Manus,Manust,Nigoherm Rural,248
+Manus,Manust,Bisikani/Soparibeu Kabin Rural,249
+Manus,Manust,Pomutu/Kurti/Andra Rural,250
+Manus,Manust,Lelemadih/Bupichupeu Rural,251
+Manus,Manust,Lorengau Urban,252
+Manus,Manust,Los Negros Rural,253
+Manus,Manust,Nali Sopat/Penabu Rural,254
+Manus,Manust,Tetidu Rural,255
+Manus,Manust,Pobuma Rural,256
+Manus,Manust,Balopa Rural,257
+Manus,Manust,Rapatona Rural,258
+New Ireland,Kaviengt,Murat Rural,259
+New Ireland,Kaviengt,Lovongai Rural,260
+New Ireland,Kaviengt,Tikana Rural,261
+New Ireland,Kaviengt,Kavieng Urban,262
+New Ireland,Namatanait,Namatanai Rural,263
+New Ireland,Namatanait,Sentral Niu Ailan Rural,264
+New Ireland,Namatanait,Konoagil Rural,265
+New Ireland,Namatanait,Tanir Rural,266
+New Ireland,Namatanait,Nimamar Rural,267
+East New Britain,Gazellet,Central Gazelle Rural,268
+East New Britain,Gazellet,Inland Baining Rural,269
+East New Britain,Gazellet,Lassul Baining Rural,270
+East New Britain,Gazellet,Livuan/Reimber Rural,271
+East New Britain,Gazellet,Vunadidiroma Rural,272
+East New Britain,Kokopot,Bitapaka Rural,273
+East New Britain,Kokopot,Duke of York Rural,274
+East New Britain,Kokopot,Kokopo/Vunamami Urban,275
+East New Britain,Kokopot,Raluana Rural,276
+East New Britain,Pomiot,Central/Inland Pomio Rural,277
+East New Britain,Pomiot,East Pomio Rural,278
+East New Britain,Pomiot,Melkoi Rural,279
+East New Britain,Pomiot,Sinivit Rural,280
+East New Britain,Pomiot,West Pomio/Mamusi Rural,281
+East New Britain,Rabault,Balanataman Rural,282
+East New Britain,Rabault,Kombiu Rural,283
+East New Britain,Rabault,Rabaul Urban,284
+East New Britain,Rabault,Watom Island Rural,285
+West New Britain,Kandrian/Gloucestert,Gasmata Rural,286
+West New Britain,Kandrian/Gloucestert,Gloucester Rural,287
+West New Britain,Kandrian/Gloucestert,Kandrian Coastal Rural,288
+West New Britain,Kandrian/Gloucestert,Kandrian Inland Rural,289
+West New Britain,Kandrian/Gloucestert,Kove/Kaliai Rural,290
+West New Britain,Talaseat,Bialla Rural,291
+West New Britain,Talaseat,Bali/Witu Rural,292
+West New Britain,Talaseat,Hoskins Rural,293
+West New Britain,Talaseat,Kimbe Urban,294
+West New Britain,Talaseat,Mosa Rural,295
+West New Britain,Talaseat,Talasea Rural,296
+Autonomous Region of Bougainville,North Bougainvillet,Tinputz Rural,297
+Autonomous Region of Bougainville,North Bougainvillet,Kunua Rural,298
+Autonomous Region of Bougainville,North Bougainvillet,Selau/Suir Rural,299
+Autonomous Region of Bougainville,North Bougainvillet,Buka Rural,300
+Autonomous Region of Bougainville,North Bougainvillet,Nissan Rural,301
+Autonomous Region of Bougainville,North Bougainvillet,Atolls Rural,302
+Autonomous Region of Bougainville,Central Bougainvillet,Wakunai Rural,303
+Autonomous Region of Bougainville,Central Bougainvillet,Arawa Rural,304
+Autonomous Region of Bougainville,South Bougainvillet,Buin Rural,305
+Autonomous Region of Bougainville,South Bougainvillet,Siwai Rural,306
+Autonomous Region of Bougainville,South Bougainvillet,Bana Rural,307
+Autonomous Region of Bougainville,South Bougainvillet,Torokina Rural,308
+Hela,Komo/Magarimat,Hulia Rural,309
+Hela,Komo/Magarimat,Komo Rural,310
+Hela,Komo/Magarimat,Lower Wage Rural,311
+Hela,Komo/Magarimat,Upper Wage Rural,312
+Hela,Koroba/Kopiagot,Awi/Pori Rural,313
+Hela,Koroba/Kopiagot,Lake Kopiago Rural,314
+Hela,Koroba/Kopiagot,North Koroba Rural,315
+Hela,Koroba/Kopiagot,South Koroba Rural,316
+Hela,Tari/Porit,Hayapuga Rural,317
+Hela,Tari/Porit,Tagali Rural,318
+Hela,Tari/Porit,Tari Urban,319
+Hela,Tari/Porit,Tebi Rural,320
+Jiwaka,Anglimp/South Waghit,Anglimp Rural,321
+Jiwaka,Anglimp/South Waghit,South Waghi Rural,322
+Jiwaka,Jimit,Jimi Rural,323
+Jiwaka,Jimit,Kol Rural,324
+Jiwaka,North Waghit,North Waghi Rural,325
+Jiwaka,North Waghit,Nondugl Rural,326

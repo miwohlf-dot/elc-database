@@ -1,0 +1,531 @@
+es_id,es_district,es_circuit,es_parish,es_congregation
+1,x,Ponampa,Division 2,Sinkuara
+3,x,x,x,x
+4,x,Tagub,x,kabong
+5,x,Bogiai,Yer,St Benjamin
+6,x,x,x,x
+7,x,Bagiai,yenr,Doup
+8,x,Bagiai,Yer,St Benjamin
+9,x,Bagiai,Yenr,Doup
+10,x,DUMAGOMIA,GOMIA,GOI
+11,x,Tagub,Makedui,Makudui
+12,x,Tagub,Makedui,Makudui
+13,x,Duma Gomia ,Gomia ,Kasuo
+15,x,Begesia ,Kein ,Yadus 
+17,x,Malaloc ,Bunanuwe ,Siboma 
+19,x,Lae City,Intum ,Intum 
+22,x,x,x,x
+25,x,Ranara ,Nahu 2 ,Munabe 
+27,x,lehona,herave,kemanave
+28,x,Trinity ,Hi-Way ,Miunde 
+29,x,Lihona,herave,kemanave
+30,x,Raipinka ,Bus Division ,Onenofi 
+31,x,x,x,x
+35,x,Calvary ,Kelngha ,kelngha 
+36,x,Lihona,Yagfonve,HOBA
+37,x,Amele,Nobonob,Belan 
+38,x,Lihona,Yagafonave,Banka
+39,x,x,Lablab,Yaga 
+40,x,x,x,x
+41,x,Lihona ,Kizimare,Betel
+43,x,Amele,Bonub,Yagaum 
+45,x,Lae City ,Benong ,Zenang
+46,x,Tugub,kabong,kabong
+47,x,Lihona,Yagafonave,Hegimpare
+48,x,Bongu ,Siroy ,Ayegu 
+49,x,Amela ,Banup,Doggia 
+50,x,Lihona,Yagafonnave,Banka
+51,x,Banz ,Mugang ,Efenang Memorial 
+52,x,Kaiapkit,St. Josiah,Numbugu
+53,x,Bagabag,x,Tubudhun 
+54,x,Lihona,Yagafonave,Bazanofi
+55,x,Rihona ,Jagafonave,Homya 
+57,x,Lihona,Yagafonave,Hoba
+58,x,x,x,x
+60,x,Kagai,Mai ,Migrima 
+61,x,Tagub ,Makadui,Tulgui
+62,x,Baipinka,Jomuna,Raipinka
+63,x,Tagub,Makadui,Makadui
+64,x,Tagub ,Tagub ,Tulgui
+66,x,Kabot ,Mala,Wagedav
+68,x,Tagub ,x,Makudui 
+69,x,Tagub,x,Kubasob
+70,x,Lihona,Yagafonave,Hegimpare
+71,x,Begesin ,x,Usino 
+73,x,Hagen City,Bethel ,Bethel Pidgin 
+74,x,Fayantina,Riwa,henaru
+75,x,Tagub ,x,Kalul
+77,x,Wampar ,Sampi,Gabsongkeg
+80,x,Menyamya ,Sikong,Jordan
+81,x,saumon,Kiti,Dorokotam
+82,x,Menyamya,Kapo,Emmanuel 
+83,x,Asaroka,Yaukave,Hegu
+85,x,x,x,x
+86,x,Tiripini,Uyagu,Yoka
+87,x,Tiripini,Kaluwe,Kumopini
+88,x,Imbongu,Paunda,Nagop
+89,x,Nomani,Mogarama ,Kilau
+91,x,Agotu,Kimi,Bilasa
+94,x,Agotu,Kimi,Bilasa
+95,x,Tiripini,Kauwo,Kauwo
+96,x,Imbongu,Giluwe,Yombi
+97,x,Omkoli,Kerry ,Dawa 
+98,x,Tarabo,Keyagana,Mapega
+99,x,x,St John,Pamalabus 
+100,x,x,x,x
+101,x,KOTE-YABEM,KAMARE,MAIMO
+102,x,x,x,x
+103,x,Mu,Bayose,Battle 
+104,x,Alta,Pisiga,Galili
+105,x,Wapi,Sumi,Marumba 
+107,x,Bilau ,Mebu,Guhu
+108,x,Alta,Kakul,Sanai
+109,x,Kerowagi,Noguna,Noguna
+110,x,BAIYER,MAPOWA,SANAP
+111,x,Tiripini,Wala,Marapini
+112,x,Bumsol,x,Heba
+113,x,Boana,Fahintes,Nambut
+114,x,x,x,x
+116,x,Tiripini,Tuka,Leka
+117,x,Kewade Kamane ,Kewade Kamane ,Urr
+118,x,x,Gain/Kusip ,Kasin
+120,x,Ialibu ,Siwi,Yamala 
+121,x,x,Gune ,Yangla 
+123,x,Karepa,Markclyde ,Tua 
+124,x,Tapi,Jeremiah,Las Dada
+126,x,Kerowagi,Zion,Gaglbuna
+127,x,Kerowagi,Town,Compound
+128,x,Wabi ,Kuare,Alomari 
+129,x,Tiripini,Kauwo,Kauwo
+130,x,Tiripini,Uyagu,Undiapu
+131,x,Asaroka ,Iufi-Iufa ,Mari Mari 
+133,x,Mendi ,Komia ,Komia
+134,x,Amele,Bel,St. Good Shepard
+135,x,Kamane,x,Urr
+136,x,Mendi,Birop,Birop 
+137,x,Imbongu ,Kombe ,Bimbim
+139,x,Kate-Jabem Memorial,Tabare,Yobaikua
+140,x,Nomane ,Maine ,Yowai 
+72,x,Bilau,Kama,Mowererong
+76,x,Bumsol,x,Yakon
+90,x,Finintugu,Naira,St. Paul
+106,x,Bumsol,Wanku,Mukumb
+34,x,Wampar,sampi,Ngasuapum
+2,x,Qembung,Guramuti,Musawe
+84,x,Wabi,Lamomi,Apopa
+119,x,Wabi,Puare ,Limba 
+44,x,Town,town,ataru
+14,x,Tagub,x,makudui
+20,x,Tagub,x,kubasob
+23,x,Tagub,x,kabong
+24,x,Tagub,x,kabong
+16,x,Mu,suyobo,yobakogi
+18,x,Mu,suyobo,du kere
+26,x,Lihona,st. Luzape,akeyampo
+32,x,Lihona,Yagafonave,Konange
+33,x,Lae City,Redeemer ,x
+93,x,Asaroka,GAHUKU,JOPAWOTEGA
+56,x,Bagabag,x,Tibudhun
+67,x,Bagabag,x,Tubudhun
+65,x,Begesin,Garia,Mopo
+79,x,Begesin,x,Garia
+92,x,Finintugu,Kafetina,Vitebe
+125,x,Kalvary,x,Faith 
+59,x,Kewade Kamane,x,KUGLO
+132,x,Kewade Kamane,x,Pari
+115,x,Mendi,pirop,ila
+141,x,Tarabo,Keayagana,Hagu
+142,x,Tiripini,Kaluwe,Kaluwe
+143,x,Timbe ,Desiam ,Sombongan
+144,x,Rongo,Kipa,Havevi
+145,x,Nomane  ,Kewomenba ,Digamni 
+146,x,Mendi,Pundia,Yara
+147,x,Tiripini,Wala,Wembu
+148,x,Mendi,Okaya,Aguti
+149,x,Tiria,Hetwara,Elgam
+150,x,Kagai,Mai,Kurumbayu
+151,x,Popondetta,x,St. Samuel Congregation
+152,x,Dawoo,Boda,Tabrato
+153,x,x,x,St. Samuel Cong.
+154,x,Duma Gomeo ,Gomea ,Mumuyo
+156,x,Alkena ,Kiripia ,Wenda
+157,x,Fayantina,Ishmael ,Manase
+158,x,Fayantina,Ishmael,Manaseh
+159,x,Mendi ,Karel,Semera
+160,x,Kalvary,Rugli,Kanbati
+161,x,Mu ,Tabare ,Temikelma 
+162,x,Ogelbeng,Ogelbeng,Station
+163,x,Tiria,Nebilyer ,Koltom 
+164,x,Ega,x,Bethel
+165,x,Tripini,Wala,Wala
+166,x,Tiripini,Mamuane,Timbari
+168,x,Kowai Zone,Samanai,Gasam
+169,x,Qembung,Babuso,Yombong
+179,x,x,x,x
+183,Kote,x,x,x
+184,Immanuel,Mendi,Komia P,Kirigla 
+185,Kainantu,Lihona,Yagafonave,Hoba
+186,Kainantu,Hihona,Yagafoneve,Bazanofi
+189,x,x,x,x
+191,Yabim,x,x,x
+192,Yabim,Menyamya,Sikong,Luis
+194,Yabim,Menyamya,Kwaplalim,Namba Wan Bridge
+195,Kainantu,Lihona,Yagafonave,Banka
+196,Kainantu,Lihona,Yagafonave,Konange
+197,Kainantu,Raipinka,Imune,Inonka
+198,Immanuel,Tiripuni,Kalavari,Koyabu
+199,Kote,Garaina,Gaore,Girex
+200,Kainantu,Finintuga,Kamanotina,ST Bamra
+201,Kote,Sattelberg,Bomaza,Mawaneng
+206,Immanuel,Immanuel,Kalavari,Yaro
+207,Kainantu,Ponampa,Division one,Amaira
+208,Kainantu,Raipinka,Imune,Kumanofi
+209,Kainantu,Ona,God news Highway,Punano
+211,Kainantu,Raipinka,Imune,Kumanofi
+214,Kainantu,Finintugu,Kafetina,St Murewong
+215,Kote,DEDUA,RABRAGE,WAPNAMBUG
+218,Kainantu,Raipinka,Bus Divison,Onenofi
+219,Immanuel,Mendi,Anga,Yame
+221,Kainantu,Finintugu,Naira,Skai
+222,Yabim,Wampar,Sampi,Gabsongkec
+223,Kainantu,Finintugu,Naila,Vitiks
+224,Yabim,Malalo,Mubo,WApali
+225,Kainantu,Raipinka,Bus Division,Onenofi
+226,Kainantu,Ona,Ese,Nonampa
+227,Kote,HUBE,KULUNTUFU,BANGTUMU
+230,Immanuel,Mendi,Karel,Ripinj
+231,Immanuel,Mendi,Karel,Ripinj
+232,Kainantu,Raipinka,Bush Division,Mako
+233,Kainantu,Raipinka,Bush Division,Mako
+234,Kainantu,Raipinka,Bus Division,Kenkae
+235,Immanuel,Mendi,Karel,Semera
+236,Kainantu,Raipinka,Bus Division,Onenofi
+237,Kote,DEDUA,YASINE,SIWEA
+238,Kainantu,Raipinka,Bush Division,Mako
+239,Kainantu,Raipinka,Zomuna,Afutagahu
+240,Kote,HUBE,SIRI,MINDIK
+241,Kainantu,Raipinka,Bus Division,Onenofi
+242,Kainantu,Raipinka,Bush Division,Onenofi
+243,Kote,HUBE,SIRI,MAMUS
+244,Kainantu,Raipinka,Zomuna,Tanara
+245,x,x,x,x
+246,Kainantu,Rihona,Jagafonave,Homya
+247,Kote,SOMBA,KEMAIP,OGERANANG
+248,Kainantu,Lihona,Yagafonave,Hegimpare
+250,Kainantu,Raipinka,Jomuna,Raipinka
+252,Kainantu,Lihona,Luzape,Akeyampo
+254,Hagen,Hagen City,Bethel,Bethel Pidigin
+255,Kote,KUWE,KULUNGTUFU,TIRENG
+256,Hagen,Kotna,Wali,Emmanuel
+257,Hagen,Kotna,Wali,Emmanuel
+259,Hagen,Ogelbeng,Kelan,Tipuka Memorial
+260,Hagen,Ogelbeng,Kelan,Tipuka Memorial Sios
+261,Yabim,Deka,Deinzerhill,Taemigidu
+262,Yabim,Yabem,Simbang,Kolem
+263,Hagen,Hasimo Block,Kindeng,Hapa Waia
+264,Hagen,Hasimo Block,Kindeng,Hapa Waia
+265,Hagen,Alta,Trinity,Pombol
+266,Hagen,Kogle,Mhak,Amil
+267,Hagen,Kotna,Tepoka,Bungal
+171,x,Bumsol,MAMAK,MIRRO
+251,Kote,Zaka,OGA,NA DIA KOKO
+203,Kote,Qembung,GURAMUTI,MUSAWE
+204,Kote,Qembung,GARAMUTI,MUSAWE
+155,x,Wabi,Lama,Pawayamo
+216,Immanuel,Wabi,Paripia,Yame
+193,Kainantu,Town,Town,Ataru
+175,x,Tagub,MAKEDUI,KUDUK
+176,x,Tagub,MAKEDUI,KUDUK
+177,x,Tagub,x,TULGUI
+178,x,Tagub,KAKADUI,TULGUI
+167,x,Sattelberg,Sasibona,Sosoningko
+187,Kote,Sattelberg,SASIBONA,SOSOINGKO
+188,Kote,Sattelberg,KITAKA,TAREKOWENGUNE
+202,Kote,Sattelberg,BOMAZA,QAQA
+181,x,Bagabag,x,TIBUDHUN
+182,x,Bagabag,x,TUBUDHUN
+258,Hagen,Kalvary,Rugli,Kandapati
+170,x,GABIAI,Buroi,GAMOG
+205,Kote,Kalasa,GEGIBO,SANKOA
+228,Kote,Kalasa,TIGASU,QAMBU
+229,Kainantu,Kambaidam,Ona,Binumarien
+190,Kote,Kalasa,Amugen,KALASA STATION
+269,Hagen,Alkena,Kiipia,Panol
+270,Hagen,Koge,Kombrom,Kombrom
+272,Hagen,Koge,Kombrom,Kombrom
+273,Kainantu,Kambaidam,Uranim,Akuna
+274,Hagen,Ogelbeng,Kelam,Kelam
+275,Immanuel,Mendi,Marimari,Okokari
+277,Hagen,Alkena,Sipulgam,Gia
+278,Karkar,Kambaidam,Ambesiara,Arau
+279,Hagen,Kotna,Teka,Miti
+280,Kainantu,Kambaidam,Ambesiara,Arau two
+281,Kote,x,x,x
+283,Hagen,Kotna,Tipuka,Waika Kaget
+284,Kainantu,Kainantu,Kambaidam,Ambesiara
+285,Hagen,Alkena,Keripia,Palnol
+287,Kainantu,Kambaidam,Ambesiara,Arau two
+288,Hagen,Alta,Kangul,Malke
+289,Hagen,Kolge,Kombrom,Kontpi
+291,x,x,x,x
+292,Immanuel,x,Waia,Wanu
+293,Hagen,Alkena,Zipulam,Marimari
+294,Kainantu,Finintugu,Kzimarena,Namuzaga
+295,Hagen,Ogelbeng,Ogelbeng,Station
+296,Hagen,Alta,Pagas,Kenen
+299,Hagen,Engkal,Keralpong,Keralpong
+300,Kainantu,Kambaidam,Ambesiara,Arau One
+301,Hagen,Kotna,Wali,Emmanuel
+302,Immanuel,Mendi,Okaya,ILO
+303,Hagen,Kogle,Waghi,Baisu Gate
+306,Hagen,Engkal,Rapi,Rapi
+307,Hagen,Kotna,Kotna,Rulna
+308,Yabim,Menyamya,Concordia,Menya
+309,Yabim,Menyamya,Sikong,Jorden
+310,Yabim,Wampar,Sampi,Gabsongkec
+311,Immanuel,x,x,x
+313,Immanuel,Waributi,Uruma,Waributi one
+314,Immanuel,Mendi,Okyea,Omai
+315,Hagen,Kotna,Teka Parish,Rungwa Elemenga
+316,Immanuel,Mendi,Marimari,Ogakari
+319,Hagen,Alkena,Pabrage,Wapnambug
+320,Hagen,Alta,Uka,Uka
+321,Kainantu,Ponampa,Division One,Kawi
+322,Yabim,Laulu,Situm,Senior
+323,Kainantu,Ponampa,Division one,Amaira
+325,Yabim,Laulu,Situm,Senior
+326,Kainantu,Ponampa,Division,Sinkura
+327,Yabim,Sangang,St Pauls,Sangang
+328,Kainantu,Finintugu,Naira,Bungim Han Vitix
+329,Yabim,Buang,Biangkoun,Ayeyok
+330,Kainantu,Raipinka,Jumuna,Babgka
+334,Hagen,Alta,Pombile,Pombile
+335,Kote,Sattelberg,Wemo,Sattelberg
+336,Kainantu,Raipinka,Jomuna,Baviga
+339,Hagen,Alkena,Keripia,Tamal
+350,Immanuel,Tiripini,Kalvari,Koyambu
+353,Hagen,Ogelbeng,Pami,Kanang
+356,Immanuel,Imbongu,Giluwe,Lepora
+358,Immanuel,Imbongu,Kongibul,Kongibul
+359,Kote,SOMBA,BOTONONG,KOIRE
+364,Immanuel,Mendi,Anga,Kalape
+371,Kainantu,Town,Yonki,Kote
+374,Kote,SOMBA,BETENENG,JEVIZANG
+375,Kote,HUBE,DOPI,HARINGKE
+380,Immanuel,Mendi,Anga,Mumi
+383,Immanuel,Ialibu,Yalgo,Marapugl
+384,Immanuel,x,Walla,Wembu
+385,Immanuel,Tiripini,Kalawari,Yamboai
+386,Immanuel,Tiripini,Uyaku,Undiapu
+388,Immanuel,Tiripini,Kalvary,Paria
+389,Immanuel,Tiripini,Kalavari,Kuruyapu
+390,Immanuel,Tiripini,Kalwe,Milike
+391,Immanuel,Tiripini,x,Koyabu
+282,Kote,Qembung,HAMAKA,SUQANG
+337,Kote,Qembung,Guramunty,Siucko
+342,Kote,Qembung,GURAMOTI,WEBBA MEMORIAL
+344,Kote,Qembung,HAMAKAH,HAPOHONDONG
+333,Yabim,Yabem,OBASIGA,ST JOEL
+331,Yabim,Wantoat,BUNGAM,KIKIAM
+297,Immanuel,Wabi,Wagalu,Mabuanda
+338,Immanuel,Wabi,Puru,Yawi
+357,Immanuel,Wabi,Koare,Dawabi
+362,Immanuel,Wabi,Ripuru,Wasa
+381,Immanuel,Wabi,Puru,Kania
+382,Immanuel,Wabi,Paripia,Wanere
+387,Immanuel,Wabi,Paripia,Yame
+298,Ukata,Timbe,MOTU,TAKOP
+286,Kote,Sattelberg,WEMO,TRINITY
+312,Kote,Sattelberg,WEMO,BALANKO
+318,Kote,Sattelberg,KITAKA,TAREKO
+324,Kote,Sattelberg,AGORORO,YUNZAING
+346,Kote,Sattelberg,WAREO,QIMIRIQIC
+349,Kote,Sattelberg,WEMO,FUNGKEWANG
+355,Kote,Sattelberg,KITAKA,HELDSBACH
+393,Kainantu,Raipinka,Jomuna,Futugahu
+347,Kote,Garaina,KIPU,KIPU
+268,Hagen,Hagen City,x,Good Shepherd
+271,Kainantu,Kainantu,x,St Jamec
+304,Hagen,Kalvary,Mara,Meit
+317,Hagen,Kalvary,Pulik,Pulik
+343,Hagen,Kalvary,Kelungha,Kelungha
+351,Hagen,Kalvary,Kelngha,Lelngha
+352,Hagen,Kalvary,Kelengha,Keelngha
+290,Kote,Kalasa,GEGIBOB,ZANKOA
+372,Kote,Kalasa,BUTARA,GITUA
+341,Kote,Qembung,Babuso,SIARANG
+378,Kote,Kalasa,TIGASU,SIALUM
+276,Kainantu,Kambaidam,Uroni,Akuna
+332,Yabim,Lae,ST PETER,GOBADIK
+305,Kainantu,Kmabaidam,Ambesiara,Arau one
+373,Kote,Kalasa,Amugen,KUKUYA
+345,Kote,Qembung,Babuso,ZINKO
+395,Kainantu,Raipinka,Jomuna,Ongrunka
+396,Kainantu,Raipinka,Jomuna,Bobbonave
+397,Kainantu,Raipinka,Jomuna,Bobonave
+398,Kainantu,Tenta,Nanda,Erandora
+399,Kainantu,Raipinka,Mavau,Avina
+402,Kainantu,Raipinka,Zomuna,Bobonave
+403,Jiwika,DAGOB,NAMEL,KAMING
+404,Kainantu,Raipinka,Jomuna,Benaga
+406,Kainantu,Ponampa,Diuvigim,Aimara
+407,Kainantu,Raipinka,Ijorina,Sisimega
+408,Kainantu,Raipinka,Yomuna,Koyokite
+409,Kainantu,Raipinka,Imune,Tiunka
+410,Kainantu,Finintugu,Naila,Vitix
+411,Jiwika,TAPI BUKA,KAULIKOMBO,KAULIKOMBO
+412,Kainantu,Raipinka,Izorina,Konaka
+414,Kainantu,Town,Town,Bundaera
+415,Kainantu,Finintugu,Kizimarcna,Kamuri
+416,Kainantu,Finintugu,Kizimarena,Kamuri
+417,Kainantu,Kainantu,Ona Seket,Kainimpa
+418,Kainantu,Raipinka,Imune,Kuna
+421,Kainantu,Ponampa,Division one,Waisampa
+422,Kainantu,Raipinka,Maboko,Tapo
+423,Kainantu,Raipinka,Jomuna,Panafi Jonorona
+424,Kainantu,Finintugu,Aseu,Avi Kukumo
+427,Kainantu,Lihona,Kizimaro,Betel
+428,Kainantu,Lihona,Bagave,Timereo
+429,Kainantu,Finintugu,Naila,Sky
+430,Kainantu,Kainantu,Finintugu,Skai
+431,Kainantu,Kainantu,Finintugu,Skai
+434,Jiwika,Kup,Morsuil,Dombo
+435,Jiwika,Kup,Djack,Djack
+437,Kainantu,Kainantu,Lihona,Tinteo
+438,Kainantu,Raipinka,Ijorina,Sisimega
+439,Kainantu,Kainantu,Kzimaize,Henganofi
+441,Kainantu,Finintugu,Kafetina,Kinkio
+442,Kainantu,Kambaidam,Uroni,Onanika
+444,Jiwika,TABBI,BAURA,BAURA
+451,Jiwika,KUMA,PIKAMAPE,ZION
+452,Kainantu,Kambaidam,Onna,Kamanda
+454,Kainantu,Tenta,Nanda,Suwaira
+458,Kainantu,Finintugu,Keimarena,Kamuri
+461,Jiwika,KOL,x,x
+462,Kainantu,Finintugu,Kizimarena,Kamuri
+463,Kainantu,Ona,Ese,Moimo
+464,Jiwika,KOL,YAMBAP,BIAL
+465,Kainantu,Ponampa,Division one,Amaira
+466,Kainantu,Ponampa,Division One,Amaira
+467,Jiwika,KOL,YAMBAP,BIAL
+468,Kainantu,Raipinka,Bush,Onenofi
+470,Jiwika,KOL,PAWIKI,JINDUMP
+471,Immanuel,Mendi,Pundia,Liambiale
+472,Immanuel,Mendi,Okayi,Otanda
+475,Immanuel,Tiripini,Wala,Timbari
+476,Immanuel,Tripini,Kaule,Kapele
+477,Immanuel,Tiripini,Kalue,Parupini
+478,Immanuel,Tiripini,Kauwo,Pondia
+479,Immanuel,Tiripini,Kaluwe,Parish
+480,Immanuel,Tiripini,Kalue,Wariko
+481,Immanuel,Mendi,Pundia,Pundia
+483,Immanuel,Tiripini,Kaulo,Poloko
+484,Immanuel,Tiripini,Kauwo,Bua
+485,Immanuel,Mendi,Pundia,Papera
+486,Immanuel,Tripini,Kalvri,Kala
+488,Immanuel,Mendi,Karel,Semera
+489,Immanuel,Mendi,Pundia,Asesa
+490,Immanuel,Tiripini,Kaluwe,Moroa
+491,Immanuel,Tiripini,Kaluwe,Moroa
+492,Immanuel,Imbongu,Papunda,Nakop
+493,Immanuel,Tiripini,Tiyuka,Yungili
+495,Immanuel,Mendi,Okaiya,Apenda
+496,Immanuel,Mendi,Okaiya,Kana
+497,Immanuel,Tiripini,Wamuane,Tarini
+498,Immanuel,Mendi,Karel,Semera
+499,Immanuel,Tiripini,Kauow,Bolona
+500,Immanuel,Tiripini,Kalowari,Kelepini
+501,Immanuel,Mendi,Karel,Karel
+504,Kainantu,Kainantu,Raipinka,Krufinave
+505,Kainantu,Kambaidam,Ona,Binumarian
+506,Kainantu,Kambaidam,Ona,Binumarian
+512,Immanuel,Immanuel,Mamuane,Leripini
+514,Kainantu,Lihona,Yagafonave,Banka
+516,Kainantu,Lihona,Yagafonave,Hoba
+511,Jiwika,Bumsol,x,KAUIL
+473,Immanuel,Wabi,Sumi,Yaware
+440,Jiwika,Trinity,DEMAG,DEMAG
+443,Jiwika,Trinity,NENGEMBIA,NENGEMBIA
+446,Jiwika,Trinity,MOROMA,GARIAYUNGU
+449,Jiwika,Trinity,x,x
+457,Jiwika,Trinity,KEWAMUGL,KEWAMUGL
+447,Kainantu,Kambaidam,Ona,Binu Marie
+400,Kainantu,Finintugu,Naira,Kerevave
+432,Kainantu,Finintugu,Naira,Oyamari
+436,Kainantu,Finintugu,Kzimarena,Kamuri
+394,Jiwika,Dawoo,DANGE,KULKA
+401,Jiwika,Dawoo,DANGE,KULKA
+413,Jiwika,Dawoo,KONDNIL,GUSPA
+420,Jiwika,Dawoo,KONDNIL,GUSPA
+426,Jiwika,Dawoo,NAMEL,KAMING
+433,Jiwika,Dawoo,GAWAI,QMBINTAPI
+445,Jiwika,Dawoo,TARRATOL,TARRATOL
+405,Kainantu,Kainantu,x,Ataru
+448,Kainantu,Kainantu,Aiyura,St Timothy Aiyura
+455,Kainantu,Kainantu,x,Sobima
+453,Jiwika,Kerowagi,KAMAGL,KAMAGL
+456,Jiwika,Kerowagi,MT ZION,GAGLBUNA
+507,Jiwika,Kerowagi,NIGLAPALANGE,x
+509,Jiwika,Kerowagi,ANGOUGOI,ANGOUGOI
+419,Jiwika,Kup,GURUMUK,GURUMUK
+450,Jiwika,Kup,MORISUL,BROMIL
+469,Jiwika,Kup,MORISUL,BORMIL
+425,Kainantu,Lihona,Herave Paris,Kemanave
+517,Immanuel,Tiripini,Kalvari,Kandayapu
+518,Immanuel,Mendi,Anga,Lumbi
+520,Goroka,Bena,Kintinu,Lampo
+521,x,x,x,x
+522,x,x,x,x
+523,x,x,x,x
+524,x,x,x,x
+525,x,x,x,x
+526,x,x,x,x
+527,x,x,x,x
+528,x,x,x,x
+529,x,x,x,x
+530,x,x,x,x
+21,x,Bagiai,buroi,buroi
+42,x,Bagiai,yerr,ST. Benjamin
+515,Jiwika,Banz,BANZA,MANZIA
+173,x,Bumsol,BUMSOL,EBA
+174,x,Bumsol,BUMSOL,HEBA
+78,x,Wampar,saga,Gabensis
+340,Kote,Zaka,DUKA,ST LAMA
+354,Kote,Zaka,KOWABASO,BETEL
+363,Kote,Zaka,ZAIA,ZARAINSE
+365,Kote,Zaka,ZAIA,ZARAINSE
+369,Kote,Zaka,OGA,BOSADI
+370,Kote,Zaka,ST JOHN,AINGSE
+377,Kote,Zaka,AGYIE,SAIGARA
+210,Kote,Qembung,HAMAKA,HAPOHONDONG
+122,x,Wabi,Sumi,Lakira
+138,x,Wabi,Sumi,Yaware
+392,Immanuel,Wabi,Wagalu,Yalumita
+474,Immanuel,Wabi,Sumi,Lakira
+482,Immanuel,Wabi,Puru,Uma Lutheran
+487,Immanuel,Wabi,Sumi,Yawere
+494,Immanuel,Wabi,Puku,USA
+502,Immanuel,Wabi,Puru,Apopq
+519,Immanuel,Wabi,Rami,Mapaita
+459,Jiwika,Trinity,MOROMA,WAKAIMO
+460,Jiwika,Trinity,KEWAMUGL,KEWAMUGL
+180,x,Tagub,MAKADUI,MAKADUI
+212,Kote,Sattelberg,WEMO,SATTELBERG
+213,Kote,Sattelberg,FOSAMA,ZAZANGUO
+217,Kote,Sattelberg,WAREO,URUO
+220,Kote,Sattelberg,WAREO,BAWEHOCKO
+249,Kote,Sattelberg,KITAKA,TARECKO
+253,Kote,Sattelberg,SASIBONA,NANDUO MANGJAUNG
+360,Kote,Sattelberg,OGORORO,YUNZAING
+361,Kote,Sattelberg,WEMO,LUMU
+366,Kote,Sattelberg,SASIBONA,SIRIRIO
+367,Kote,Sattelberg,KITAKA,HELDSBACH
+368,Kote,Sattelberg,WEMO,x
+376,Kote,Sattelberg,BOMAZA,TEMBANG
+379,Kote,Sattelberg,WEMO,SATTELBERG
+503,Jiwika,Dawoo,x,TEPRATOL
+508,Jiwika,Dawoo,KONDUGL,BONGI
+510,Jiwika,Dawoo,x,ONIL
+513,Jiwika,Dawoo,GAWAI,KONDUWIL
+348,Kote,Qembung,Babuso,BEREMUNG
+172,x,Bagiai,Buroi,GAMOG
