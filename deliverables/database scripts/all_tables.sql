@@ -3,110 +3,64 @@
 BEGIN;
 
 
+ALTER TABLE IF EXISTS public.tbl_admin_struc1 DROP CONSTRAINT IF EXISTS tbl_admin_struc1_admin_id_fkey;
+
+ALTER TABLE IF EXISTS public.tbl_banking DROP CONSTRAINT IF EXISTS tbl_banking_ba_pers_id_fkey;
+
+ALTER TABLE IF EXISTS public.tbl_dep_pers_rel DROP CONSTRAINT IF EXISTS tbl_dep_pers_rel_rel_dep_id_fkey;
+
+ALTER TABLE IF EXISTS public.tbl_dep_pers_rel DROP CONSTRAINT IF EXISTS tbl_dep_pers_rel_rel_pers_id_fkey;
+
+ALTER TABLE IF EXISTS public.tbl_elc_struc1 DROP CONSTRAINT IF EXISTS tbl_elc_struc1_es_id_fkey;
+
+ALTER TABLE IF EXISTS public.tbl_emergency_contact DROP CONSTRAINT IF EXISTS tbl_mergency_contact_em_id_fkey;
+
+ALTER TABLE IF EXISTS public.tbl_residence DROP CONSTRAINT IF EXISTS tbl_residence_res_pers_id_fkey;
+
+ALTER TABLE IF EXISTS public.tbl_school DROP CONSTRAINT IF EXISTS tbl_school_school_pers_id_fkey;
+
+
+
+DROP TABLE IF EXISTS public.congregation;
+
 CREATE TABLE IF NOT EXISTS public.congregation
 (
-    cong_id integer NOT NULL DEFAULT nextval('tbl_congregation_cong_id_seq'::regclass),
+    cong_id integer NOT NULL,
     cong_dist_id integer,
     cong_sek_id integer,
     cong_par_id integer,
     cong_code character(4) COLLATE pg_catalog."default",
-    cong_name character varying(40) COLLATE pg_catalog."default"
+    cong_name character varying(40) COLLATE pg_catalog."default",
+    CONSTRAINT congregation_pkey PRIMARY KEY (cong_id)
 );
 
-CREATE TABLE IF NOT EXISTS public.elc_district
-(
-    dis_id integer NOT NULL DEFAULT nextval('tbl_elc_district_dis_id_seq'::regclass),
-    dist_code character(3) COLLATE pg_catalog."default" NOT NULL,
-    dist_name character varying(15) COLLATE pg_catalog."default" NOT NULL,
-    CONSTRAINT tbl_elc_district_pkey PRIMARY KEY (dis_id)
-);
+DROP TABLE IF EXISTS public.elc_seket;
 
 CREATE TABLE IF NOT EXISTS public.elc_seket
 (
-    sek_id integer NOT NULL DEFAULT nextval('tbl_seket_sek_id_seq'::regclass),
+    sek_id integer NOT NULL,
     dist_id integer,
     sek_code character(3) COLLATE pg_catalog."default",
     sek_name character varying(25) COLLATE pg_catalog."default",
     CONSTRAINT pk_tbl_sek PRIMARY KEY (sek_id)
 );
 
-CREATE TABLE IF NOT EXISTS public.hans
+DROP TABLE IF EXISTS public.tbl_admin_struc1;
+
+CREATE TABLE IF NOT EXISTS public.tbl_admin_struc1
 (
-    datum date
+    admin_id integer NOT NULL,
+    admin_province character varying(25) COLLATE pg_catalog."default",
+    admin_district character varying(30) COLLATE pg_catalog."default",
+    admin_llg character varying(35) COLLATE pg_catalog."default",
+    admin_ward character varying(15) COLLATE pg_catalog."default",
+    admin_village character varying(25) COLLATE pg_catalog."default",
+    admin_tribe character varying(25) COLLATE pg_catalog."default",
+    admin_clan character varying(25) COLLATE pg_catalog."default",
+    CONSTRAINT tbl_admin_struc1_pkey PRIMARY KEY (admin_id)
 );
 
-CREATE TABLE IF NOT EXISTS public.pers_school_rel
-(
-    rel_pers_id integer NOT NULL,
-    rel_sch_id integer NOT NULL,
-    rel_order_nr integer NOT NULL,
-    rel_year character varying COLLATE pg_catalog."default",
-    rel_sch_certificate character varying COLLATE pg_catalog."default",
-    CONSTRAINT pers_school_rel_pkey PRIMARY KEY (rel_sch_id, rel_pers_id)
-);
-
-CREATE TABLE IF NOT EXISTS public.person
-(
-    pers_given_name character varying(25) COLLATE pg_catalog."default",
-    pers_baptism_name character varying(25) COLLATE pg_catalog."default",
-    pers_middle_name character varying(65) COLLATE pg_catalog."default",
-    pers_surname character varying(25) COLLATE pg_catalog."default",
-    pers_date_of_birth date,
-    pers_height numeric(3, 0),
-    pers_weight numeric(3, 0),
-    pers_blood character varying(10) COLLATE pg_catalog."default",
-    pers_eye_color character varying(25) COLLATE pg_catalog."default",
-    pers_skincomplexion character varying(25) COLLATE pg_catalog."default",
-    pers_nationality character varying(10) COLLATE pg_catalog."default",
-    pers_marital_status character varying(10) COLLATE pg_catalog."default",
-    pers_id integer NOT NULL DEFAULT nextval('person_pers_id_seq'::regclass),
-    pers_spouse_id integer,
-    pers_created_at date,
-    pers_updates_at date,
-    pers_admin_id integer,
-    speaking_english numeric(1, 0),
-    writing_english numeric(1, 0),
-    speaking_tok_pisin numeric(1, 0),
-    writing_tok_psin numeric(1, 0),
-    speaking_jabem numeric(1, 0),
-    writing_jabem numeric(1, 0),
-    speaking_kotec numeric(1, 0),
-    writing_kotec numeric(1, 0),
-    pers_title character varying(25) COLLATE pg_catalog."default",
-    pers_diabilities character varying(40) COLLATE pg_catalog."default",
-    pers_ward_id integer,
-    pers_disabilitie character varying(25) COLLATE pg_catalog."default",
-    pers_res_id integer,
-    CONSTRAINT person_pkey PRIMARY KEY (pers_id),
-    CONSTRAINT uidx_pes_spouse_id UNIQUE (pers_spouse_id)
-);
-
-CREATE TABLE IF NOT EXISTS public.residence
-(
-    res_address character varying(50) COLLATE pg_catalog."default",
-    res_house character varying(25) COLLATE pg_catalog."default",
-    res_email character varying(35) COLLATE pg_catalog."default",
-    res_digicel character varying(30) COLLATE pg_catalog."default",
-    res_bmobile character varying(30) COLLATE pg_catalog."default",
-    res_vodafone character varying(30) COLLATE pg_catalog."default",
-    res_social_media character varying(60) COLLATE pg_catalog."default",
-    res_id integer NOT NULL DEFAULT nextval('residence_res_id_seq'::regclass),
-    CONSTRAINT residence_pkey PRIMARY KEY (res_id)
-);
-
-CREATE TABLE IF NOT EXISTS public.school
-(
-    sch_name character varying(50) COLLATE pg_catalog."default",
-    sch_id integer NOT NULL DEFAULT nextval('school_sch_id_seq'::regclass),
-    CONSTRAINT "School_pkey" PRIMARY KEY (sch_id)
-);
-
-CREATE TABLE IF NOT EXISTS public.school
-(
-    sch_name character varying(50) COLLATE pg_catalog."default",
-    sch_id integer NOT NULL DEFAULT nextval('school_sch_id_seq'::regclass),
-    CONSTRAINT "School_pkey" PRIMARY KEY (sch_id)
-);
+DROP TABLE IF EXISTS public.tbl_admin_structure;
 
 CREATE TABLE IF NOT EXISTS public.tbl_admin_structure
 (
@@ -117,9 +71,48 @@ CREATE TABLE IF NOT EXISTS public.tbl_admin_structure
     CONSTRAINT admin_structure_pkey PRIMARY KEY (admin_id)
 );
 
+DROP TABLE IF EXISTS public.tbl_banking;
+
+CREATE TABLE IF NOT EXISTS public.tbl_banking
+(
+    ba_pers_id integer NOT NULL,
+    ba_bank character varying(30) COLLATE pg_catalog."default",
+    ba_account_name character varying(30) COLLATE pg_catalog."default",
+    ba_account_nr numeric(15, 0),
+    ba_nas_fund numeric(15, 0),
+    ba_eda_supa numeric(15, 0),
+    ba_other character varying(40) COLLATE pg_catalog."default",
+    CONSTRAINT tbl_banking_pkey PRIMARY KEY (ba_pers_id)
+);
+
+DROP TABLE IF EXISTS public.tbl_dep_pers_rel;
+
+CREATE TABLE IF NOT EXISTS public.tbl_dep_pers_rel
+(
+    rel_pers_id integer NOT NULL,
+    rel_dep_id integer NOT NULL,
+    rel_order integer NOT NULL,
+    CONSTRAINT tbl_dep_pers_rel_pkey PRIMARY KEY (rel_pers_id, rel_dep_id, rel_order)
+);
+
+DROP TABLE IF EXISTS public.tbl_dependants;
+
+CREATE TABLE IF NOT EXISTS public.tbl_dependants
+(
+    dep_id integer NOT NULL,
+    dep_name character varying(25) COLLATE pg_catalog."default",
+    dep_sex character(1) COLLATE pg_catalog."default",
+    dep_dob character varying(15) COLLATE pg_catalog."default",
+    dep_relation character varying(15) COLLATE pg_catalog."default",
+    dep_disability character varying(25) COLLATE pg_catalog."default",
+    CONSTRAINT "Dependants_pkey" PRIMARY KEY (dep_id)
+);
+
+DROP TABLE IF EXISTS public.tbl_elc_cong_codes;
+
 CREATE TABLE IF NOT EXISTS public.tbl_elc_cong_codes
 (
-    cong_id integer NOT NULL DEFAULT nextval('tbl_cong_codes_cong_id_seq'::regclass),
+    cong_id integer NOT NULL,
     cong_dist_code character(3) COLLATE pg_catalog."default",
     cong_dist_name character varying(35) COLLATE pg_catalog."default",
     cong_saket_code character(4) COLLATE pg_catalog."default",
@@ -130,45 +123,47 @@ CREATE TABLE IF NOT EXISTS public.tbl_elc_cong_codes
     cong_name character varying(40) COLLATE pg_catalog."default"
 );
 
-CREATE TABLE IF NOT EXISTS public.tbl_dep_pers_rel
-(
-    rel_pers_id integer NOT NULL,
-    rel_dep_id integer NOT NULL,
-    rel_order integer
-);
-
-CREATE TABLE IF NOT EXISTS public.tbl_dependants
-(
-    dep_id integer NOT NULL DEFAULT nextval('dependants_dep_id_seq'::regclass),
-    dep_name character varying(25) COLLATE pg_catalog."default",
-    dep_sex character(1) COLLATE pg_catalog."default",
-    dep_dob character varying(15) COLLATE pg_catalog."default",
-    dep_relation character varying(15) COLLATE pg_catalog."default",
-    dep_diability character varying(25) COLLATE pg_catalog."default",
-    CONSTRAINT "Dependants_pkey" PRIMARY KEY (dep_id)
-);
+DROP TABLE IF EXISTS public.tbl_elc_struc1;
 
 CREATE TABLE IF NOT EXISTS public.tbl_elc_struc1
 (
-    es_id integer NOT NULL DEFAULT nextval('tbal_elc_struc1_es_id_seq'::regclass),
+    es_id integer NOT NULL,
     es_district character varying(30) COLLATE pg_catalog."default",
     es_circuit character varying(30) COLLATE pg_catalog."default",
     es_parish character varying(30) COLLATE pg_catalog."default",
-    es_congregation character varying(30) COLLATE pg_catalog."default"
+    es_congregation character varying(30) COLLATE pg_catalog."default",
+    CONSTRAINT tbl_elc_struc1_pkey PRIMARY KEY (es_id)
 );
 
-CREATE TABLE IF NOT EXISTS public.tbl_parish
+DROP TABLE IF EXISTS public.tbl_emergency_contact;
+
+CREATE TABLE IF NOT EXISTS public.tbl_emergency_contact
 (
-    par_id integer NOT NULL DEFAULT nextval('tbl_parish_par_id_seq'::regclass),
-    par_dist_id integer,
-    par_sek_id integer,
-    par_code character(4) COLLATE pg_catalog."default",
-    par_name character varying(25) COLLATE pg_catalog."default"
+    em_id integer NOT NULL,
+    em_first_name character varying(30) COLLATE pg_catalog."default",
+    em_surname character varying(30) COLLATE pg_catalog."default",
+    em_ralation character varying(60) COLLATE pg_catalog."default",
+    em_phone character varying(25) COLLATE pg_catalog."default",
+    em_email_address character varying(35) COLLATE pg_catalog."default",
+    em_address character varying(60) COLLATE pg_catalog."default",
+    CONSTRAINT tbl_mergency_contact_pkey PRIMARY KEY (em_id)
 );
+
+DROP TABLE IF EXISTS public.tbl_pers_school_rel;
+
+CREATE TABLE IF NOT EXISTS public.tbl_pers_school_rel
+(
+    rel_pers_id integer NOT NULL,
+    rel_sch_id integer NOT NULL,
+    rel_order_nr integer NOT NULL,
+    CONSTRAINT tbl_pers_school_rel_pkey PRIMARY KEY (rel_pers_id, rel_sch_id, rel_order_nr)
+);
+
+DROP TABLE IF EXISTS public.tbl_person;
 
 CREATE TABLE IF NOT EXISTS public.tbl_person
 (
-    pers_id integer NOT NULL DEFAULT nextval('tbl_person_pers_id_seq'::regclass),
+    pers_id integer NOT NULL,
     pers_title character varying(25) COLLATE pg_catalog."default",
     pers_given_name character varying(25) COLLATE pg_catalog."default",
     pers_baptism_name character varying(25) COLLATE pg_catalog."default",
@@ -180,7 +175,7 @@ CREATE TABLE IF NOT EXISTS public.tbl_person
     pers_blood character varying(10) COLLATE pg_catalog."default",
     pers_eye_color character varying(25) COLLATE pg_catalog."default",
     pers_skincomplexion character varying(25) COLLATE pg_catalog."default",
-    pers_nationality character varying(10) COLLATE pg_catalog."default",
+    pers_nationality character varying(10) COLLATE pg_catalog."default" DEFAULT 'PNG'::character varying,
     pers_disabilitie character varying(25) COLLATE pg_catalog."default",
     pers_marital_status character varying(30) COLLATE pg_catalog."default",
     speaking_english numeric(1, 0),
@@ -194,40 +189,73 @@ CREATE TABLE IF NOT EXISTS public.tbl_person
     speaking_notu numeric(1, 0),
     writing_notu numeric(1, 0),
     pers_spouse_id integer,
-    pers_admin_id integer,
-    pers_ward_id integer,
     pers_res_id integer,
     pers_created_at date DEFAULT now(),
-    pers_updatet_at date DEFAULT now(),
-    pers_elc_struc integer,
-    CONSTRAINT tbl_person_pkey PRIMARY KEY (pers_id)
+    pers_admin_struc1 integer,
+    pers_elc_struc1 integer,
+    pers_school_id integer,
+    CONSTRAINT tbl_person_pkey PRIMARY KEY (pers_id),
+    CONSTRAINT tbl_person_pers_admin_struc1_key UNIQUE (pers_admin_struc1),
+    CONSTRAINT tbl_person_pers_elc_struc1_key UNIQUE (pers_elc_struc1),
+    CONSTRAINT tbl_person_pers_res_id_key UNIQUE (pers_res_id)
 );
+
+DROP TABLE IF EXISTS public.tbl_residence;
+
+CREATE TABLE IF NOT EXISTS public.tbl_residence
+(
+    res_address character varying(50) COLLATE pg_catalog."default",
+    res_house character varying(25) COLLATE pg_catalog."default",
+    res_email character varying(35) COLLATE pg_catalog."default",
+    res_digicel character varying(30) COLLATE pg_catalog."default",
+    res_bmobile character varying(30) COLLATE pg_catalog."default",
+    res_vodafone character varying(30) COLLATE pg_catalog."default",
+    res_social_media character varying(60) COLLATE pg_catalog."default",
+    res_pers_id integer NOT NULL,
+    CONSTRAINT tbl_residence_pkey PRIMARY KEY (res_pers_id)
+);
+
+DROP TABLE IF EXISTS public.tbl_school;
+
+CREATE TABLE IF NOT EXISTS public.tbl_school
+(
+    school_pers_id integer,
+    school_name character varying(60) COLLATE pg_catalog."default",
+    school_level character varying(40) COLLATE pg_catalog."default",
+    school_year character varying(40) COLLATE pg_catalog."default",
+    school_tertiary character varying(120) COLLATE pg_catalog."default",
+    school_course_study character varying(60) COLLATE pg_catalog."default",
+    school_years_study character varying(60) COLLATE pg_catalog."default",
+    school_year_gratuated character varying(80) COLLATE pg_catalog."default",
+    school_attainment character varying(80) COLLATE pg_catalog."default",
+    school_other_training character varying(120) COLLATE pg_catalog."default",
+    school_duration character varying(60) COLLATE pg_catalog."default",
+    school_start_end character varying(60) COLLATE pg_catalog."default",
+    school_institu_trainer character varying(120) COLLATE pg_catalog."default",
+    school_other_attainment character varying(60) COLLATE pg_catalog."default",
+    school_id integer NOT NULL,
+    CONSTRAINT tbl_school_pkey PRIMARY KEY (school_id)
+);
+
+DROP TABLE IF EXISTS public.tbl_service_area;
 
 CREATE TABLE IF NOT EXISTS public.tbl_service_area
 (
-    svc_id integer NOT NULL DEFAULT nextval('service_area_svc_id_seq'::regclass),
+    svc_id integer NOT NULL,
+    svc_order_id integer NOT NULL,
     svc_role character varying(80) COLLATE pg_catalog."default",
     svc_year character varying(20) COLLATE pg_catalog."default",
     svc_district character varying(40) COLLATE pg_catalog."default",
     svc_circuit character varying(40) COLLATE pg_catalog."default",
     svc_par_cong_inst character varying(60) COLLATE pg_catalog."default",
-    CONSTRAINT service_area_pkey PRIMARY KEY (svc_id)
+    CONSTRAINT tbl_service_area_pkey PRIMARY KEY (svc_id, svc_order_id)
 );
 
-CREATE TABLE IF NOT EXISTS public.tbl_service_area
-(
-    svc_id integer NOT NULL DEFAULT nextval('service_area_svc_id_seq'::regclass),
-    svc_role character varying(80) COLLATE pg_catalog."default",
-    svc_year character varying(20) COLLATE pg_catalog."default",
-    svc_district character varying(40) COLLATE pg_catalog."default",
-    svc_circuit character varying(40) COLLATE pg_catalog."default",
-    svc_par_cong_inst character varying(60) COLLATE pg_catalog."default",
-    CONSTRAINT service_area_pkey PRIMARY KEY (svc_id)
-);
+DROP TABLE IF EXISTS public.tbl_spouse;
 
 CREATE TABLE IF NOT EXISTS public.tbl_spouse
 (
-    sp_id integer NOT NULL DEFAULT nextval('tbl_spouse_sp_id_seq'::regclass),
+    sp_id integer NOT NULL,
     sp_given_name character varying(25) COLLATE pg_catalog."default",
     sp_full_name character varying(25) COLLATE pg_catalog."default",
     sp_maiden_name character varying(25) COLLATE pg_catalog."default",
@@ -237,39 +265,83 @@ CREATE TABLE IF NOT EXISTS public.tbl_spouse
     CONSTRAINT tbl_spouse_pkey PRIMARY KEY (sp_id)
 );
 
-CREATE TABLE IF NOT EXISTS public.tbl_svc_pers_rel
+DROP TABLE IF EXISTS public.test;
+
+CREATE TABLE IF NOT EXISTS public.test
 (
-    rel_svc_id integer,
-    rel_pers_id integer,
-    rel_order integer
+    name character varying(50) COLLATE pg_catalog."default"
 );
 
-CREATE TABLE IF NOT EXISTS public.tbl_spouse
-(
-    sp_id integer NOT NULL DEFAULT nextval('tbl_spouse_sp_id_seq'::regclass),
-    sp_given_name character varying(25) COLLATE pg_catalog."default",
-    sp_full_name character varying(25) COLLATE pg_catalog."default",
-    sp_maiden_name character varying(25) COLLATE pg_catalog."default",
-    sp_gender character varying(15) COLLATE pg_catalog."default",
-    sp_birthdate date,
-    sp_national character varying(15) COLLATE pg_catalog."default",
-    CONSTRAINT tbl_spouse_pkey PRIMARY KEY (sp_id)
-);
+ALTER TABLE IF EXISTS public.tbl_admin_struc1
+    ADD CONSTRAINT tbl_admin_struc1_admin_id_fkey FOREIGN KEY (admin_id)
+    REFERENCES public.tbl_person (pers_admin_struc1) MATCH SIMPLE
+    ON UPDATE NO ACTION
+    ON DELETE NO ACTION
+    NOT VALID;
+CREATE INDEX IF NOT EXISTS tbl_admin_struc1_pkey
+    ON public.tbl_admin_struc1(admin_id);
 
-CREATE TABLE IF NOT EXISTS public.tbl_svc_pers_rel
-(
-    rel_svc_id integer,
-    rel_pers_id integer,
-    rel_order integer
-);
 
-CREATE TABLE IF NOT EXISTS public.ward
-(
-    wa_ward character varying(22) COLLATE pg_catalog."default",
-    wa_village character varying(25) COLLATE pg_catalog."default",
-    wa_tribe character varying(25) COLLATE pg_catalog."default",
-    wa_clan character varying(25) COLLATE pg_catalog."default",
-    wa_id integer NOT NULL DEFAULT nextval('ward_wa_id_seq1'::regclass),
-    CONSTRAINT ward_pkey PRIMARY KEY (wa_id)
-);
+ALTER TABLE IF EXISTS public.tbl_banking
+    ADD CONSTRAINT tbl_banking_ba_pers_id_fkey FOREIGN KEY (ba_pers_id)
+    REFERENCES public.tbl_person (pers_id) MATCH SIMPLE
+    ON UPDATE NO ACTION
+    ON DELETE NO ACTION
+    NOT VALID;
+CREATE INDEX IF NOT EXISTS tbl_banking_pkey
+    ON public.tbl_banking(ba_pers_id);
+
+
+ALTER TABLE IF EXISTS public.tbl_dep_pers_rel
+    ADD CONSTRAINT tbl_dep_pers_rel_rel_dep_id_fkey FOREIGN KEY (rel_dep_id)
+    REFERENCES public.tbl_dependants (dep_id) MATCH SIMPLE
+    ON UPDATE NO ACTION
+    ON DELETE CASCADE
+    NOT VALID;
+
+
+ALTER TABLE IF EXISTS public.tbl_dep_pers_rel
+    ADD CONSTRAINT tbl_dep_pers_rel_rel_pers_id_fkey FOREIGN KEY (rel_pers_id)
+    REFERENCES public.tbl_person (pers_id) MATCH SIMPLE
+    ON UPDATE NO ACTION
+    ON DELETE NO ACTION
+    NOT VALID;
+
+
+ALTER TABLE IF EXISTS public.tbl_elc_struc1
+    ADD CONSTRAINT tbl_elc_struc1_es_id_fkey FOREIGN KEY (es_id)
+    REFERENCES public.tbl_person (pers_id) MATCH SIMPLE
+    ON UPDATE NO ACTION
+    ON DELETE NO ACTION
+    NOT VALID;
+CREATE INDEX IF NOT EXISTS tbl_elc_struc1_pkey
+    ON public.tbl_elc_struc1(es_id);
+
+
+ALTER TABLE IF EXISTS public.tbl_emergency_contact
+    ADD CONSTRAINT tbl_mergency_contact_em_id_fkey FOREIGN KEY (em_id)
+    REFERENCES public.tbl_person (pers_id) MATCH SIMPLE
+    ON UPDATE NO ACTION
+    ON DELETE NO ACTION;
+CREATE INDEX IF NOT EXISTS tbl_mergency_contact_pkey
+    ON public.tbl_emergency_contact(em_id);
+
+
+ALTER TABLE IF EXISTS public.tbl_residence
+    ADD CONSTRAINT tbl_residence_res_pers_id_fkey FOREIGN KEY (res_pers_id)
+    REFERENCES public.tbl_person (pers_id) MATCH SIMPLE
+    ON UPDATE NO ACTION
+    ON DELETE NO ACTION
+    NOT VALID;
+CREATE INDEX IF NOT EXISTS tbl_residence_pkey
+    ON public.tbl_residence(res_pers_id);
+
+
+ALTER TABLE IF EXISTS public.tbl_school
+    ADD CONSTRAINT tbl_school_school_pers_id_fkey FOREIGN KEY (school_pers_id)
+    REFERENCES public.tbl_person (pers_id) MATCH SIMPLE
+    ON UPDATE NO ACTION
+    ON DELETE NO ACTION
+    NOT VALID;
+
 END;
