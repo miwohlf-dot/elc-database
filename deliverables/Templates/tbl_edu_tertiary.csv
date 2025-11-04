@@ -8,19 +8,19 @@ et_id,et_order,et_institution,et_course,et_years,et_year_graduated,et_attainment
 7,1,,,,,
 8,1,NETG Amron,,2008-2010,2008,
 9,1,,,,2022,
-10,1,ELCPNG Evangelism Dept,Short Course - Evangelism Dept,2years,,Certificate
+10,1,ELCPNG Evangelism Dept,Short Course - Evangelism Dept,,,Certificate
 11,1,Evangelist,Theology,1990-1991,1992,
 12,1,Evangelist,Theology,1990-1991,1998,Cert
-13,1,Mission Sch ,Bible Study ,2 years ,2001,Evengelism Study 
+13,1,Mission Sch ,Bible Study ,,2001,Evengelism Study 
 14,1,,,,2008,
 15,1,,,,2016,
 16,1,Senior Flierl,Theology,2014-2019,2006,Cert
 17,1,St Joseph Tech ,Motor ,2003-2004,2014,certificate 
-18,1,Seminary,theology,6 yrs,2010,Diploma
+18,1,Seminary,theology,,2010,Diploma
 19,1,Logioweng ,Tio Losgi,2005-2009,,certificate 
 20,1,,,,1981,
 21,1,ETC amron,,1993-2000,2020,Cert
-22,1,Police Collage Bomana,Police Study ,Six Month ,2008,Police man
+22,1,Police Collage Bomana,Police Study ,,2008,Police man
 23,1,,,,2021,
 24,1,NETC amron,theology,2010-2012,,
 25,1,Pom Tech ,Pet Printing ,1986,2008,certificate 
@@ -32,16 +32,16 @@ et_id,et_order,et_institution,et_course,et_years,et_year_graduated,et_attainment
 31,1,,,,,
 32,1,Short course ,leadership,"2013, 2022",2003,Cert
 33,1,,,,,
-34,1,Logaweng Seminary,theology,5 yrs,,Cert
-35,1,Lutheran H/Semi,Theology ,5 years ,,certificate 
+34,1,Logaweng Seminary,theology,,,Cert
+35,1,Lutheran H/Semi,Theology ,,,certificate 
 36,1,Lutheran Highlands seminary,Theology,1984-1988,,Cert
 37,1,,,,,
 38,1,Evangelism,Theology,,2006,Cert
-39,1,snr Friel Seminary,Theology ,5 years ,,Diploma 
+39,1,snr Friel Seminary,Theology ,,,Diploma 
 40,1,,,,,
 41,1,Seminary (Ogelbeng),Theology ,1997-2002,1986,certificate 
 42,1,,,,,
-43,1,ETC Amron,Rot igat laif,3,,
+43,1,ETC Amron,Rot igat laif,,,
 44,1,,,,,
 45,1,,,,2020,
 46,1,Karkar High School,"English, Maths",1986-1989,1993,Cert. Gr.10
@@ -49,37 +49,37 @@ et_id,et_order,et_institution,et_course,et_years,et_year_graduated,et_attainment
 48,1,Amron NETC,Home- Lectic,2017-2020,,certificate 
 49,1,Ameron NECT,Home- Lectic ,2019-2021,,
 50,1,Lutheran Highlands Seminary,Theology,2012,,Cert
-51,1,Martin Luther Semi,Theology ,3 years ,1975,Advance Diploma
+51,1,Martin Luther Semi,Theology ,,1975,Advance Diploma
 52,1,MLS,Theology,2013-2018,2008,Diploma
-53,1,Amron ,Theology ,3,,certificate 
-54,1,Lutheran Church Collage,evangelist Teacher,3 yrs,2005,Cert
+53,1,Amron ,Theology ,,,certificate 
+54,1,Lutheran Church Collage,evangelist Teacher,,2005,Cert
 55,1,,,,,
-56,1,Amron,Church History,1 yr,,Cert
+56,1,Amron,Church History,,,Cert
 57,1,Short Course,Leadership training,2020/2023,1983,
-58,1,Snr Friel Seminary,Theology ,5 years ,,certificate 
-59,1,NATC Amron,Theology,3 yrs,,Cert
+58,1,Snr Friel Seminary,Theology ,,,certificate 
+59,1,NATC Amron,Theology,,,Cert
 60,1,NETC Amron,Evangelist ,2003-5,,
-61,1,NETC Amron ,Theology ,3 years ,,Certificate 
+61,1,NETC Amron ,Theology ,,,Certificate 
 62,1,,,,,
-63,1,TVET,Welding,1yr,2001,Cert
+63,1,TVET,Welding,,2001,Cert
 64,1,,,,2001,
-65,1,Amron,Theology,3 yrs,2010,Cert
-66,1,NETC Amron ,Theology ,3,1999,Certificate 
-67,1,SENIOR Flierl,Theology,5 yrs,1991,Cert
+65,1,Amron,Theology,,2010,Cert
+66,1,NETC Amron ,Theology ,,1999,Certificate 
+67,1,SENIOR Flierl,Theology,,1991,Cert
 68,1,Logaweng Sem,Theology ,1986-1990,1986,certificate 
 69,1,,,,,
-70,1,,Evn Training ,1 month,1997,Cert
-71,1,Evangelist Tra Center,"Homilitik/ Bible Study, Youth/VHV/Litrisi",3,,
+70,1,,Evn Training ,,1997,Cert
+71,1,Evangelist Tra Center,"Homilitik/ Bible Study, Youth/VHV/Litrisi",,,
 72,1,,,,2017,
-73,1,Martin Luther Sem,Theology ,6,,Diploma 
+73,1,Martin Luther Sem,Theology ,,,Diploma 
 74,1,,,,1988,
 75,1,,,,,
 76,1,Lutheran Highlands Seminary,Theology,2005-2009,,Cert
-77,1,Langa Sales Institute,Sales & Marketing,one year ,,certificate 
+77,1,Langa Sales Institute,Sales & Marketing,,,certificate 
 78,1,,,,2008,
-79,1,NETC amron,Theology,3 yrs,,Cert
-80,1,Ogelbeng ,Theology ,5 years ,,
-81,1,NETC Amron,Theology,3 yrs,,
+79,1,NETC amron,Theology,,,Cert
+80,1,Ogelbeng ,Theology ,,,
+81,1,NETC Amron,Theology,,,
 82,1,Snr Friel Seminary,Ministry ,1989-1993,,
 83,1,,,,,
 84,1,,,,2017,
@@ -87,39 +87,39 @@ et_id,et_order,et_institution,et_course,et_years,et_year_graduated,et_attainment
 86,1,,,,,
 87,1,,,,,
 88,1,,,,,
-89,1,Amron Evengelist Training Center,Evangelism,3 years ,,Certificate 
+89,1,Amron Evengelist Training Center,Evangelism,,,Certificate 
 90,1,,,,,
 91,1,,,,,
 92,1,,,,,
-93,1,N/A,N/A,N/A,,N/A
-94,1,Kamariki Voc,Plumbing,1 year ,,Certificate
+93,1,,,,,
+94,1,Kamariki Voc,Plumbing,,,Certificate
 95,1,,,,,
 96,1,,,,,
-97,1,Lutheran H\Seminary,Theology ,5 years ,,Certificate
+97,1,Lutheran H\Seminary,Theology ,,,Certificate
 98,1,Logweng Seminary,Pastor Training,2008-2012,,Certificate
-99,1,Snr Friel Seminary ,Theology,5 years,,Certificate
+99,1,Snr Friel Seminary ,Theology,,,Certificate
 100,1,,,,,
-101,1,AMORON,EVANGELISM,2,,CERTIFICATE
+101,1,AMORON,EVANGELISM,,,CERTIFICATE
 102,1,,,,,
-103,1,Marthin Luth Sem,Theology,6 years ,,Diploma 
-104,1,Ogelbeng Seminary,Evangelis short course,6 weeks,,Certificate
-105,1,Lutheran H\Seminary,Theology,5 years,,Certificate
-106,1,Amoron Evangelist Training Centre,Evangelism,3 years,,Certificate in Evangelism
-107,1,Snr Friel Seminary,Theology,5 years,,Certificate
+103,1,Marthin Luth Sem,Theology,,,Diploma 
+104,1,Ogelbeng Seminary,Evangelis short course,,,Certificate
+105,1,Lutheran H\Seminary,Theology,,,Certificate
+106,1,Amoron Evangelist Training Centre,Evangelism,,,Certificate in Evangelism
+107,1,Snr Friel Seminary,Theology,,,Certificate
 108,1,,,,,
-109,1,Highlands Luth Sem,Theology,5 years,,Certificate
+109,1,Highlands Luth Sem,Theology,,,Certificate
 110,1,LUTHERAN CHURCH COLLEGE ,ADMINISTRATION,1988-1990,,CERTIFICATE
 111,1,,,,,
-112,1,Snr Friel Seminary,Theology,5 years,,Diploma
+112,1,Snr Friel Seminary,Theology,,,Diploma
 113,1,,,,,
 114,1,,,,,
-115,1,ogelbang Semnriay,Theology,5 yrs,,cert
+115,1,ogelbang Semnriay,Theology,,,cert
 116,1,,,,,
-117,1,Highlands Luth Sem,Theology ,5 years ,,Certificate
+117,1,Highlands Luth Sem,Theology ,,,Certificate
 118,1,Logaweng Seminary,Pastoral Training,1999-2003,,Certificate
 119,1,,,,,
-120,1,Martin Luth Sem,Theology,6 years ,,Diploma 
-121,1,Snr Friel Sem,Theology,5 years ,,Certificate
+120,1,Martin Luth Sem,Theology,,,Diploma 
+121,1,Snr Friel Sem,Theology,,,Certificate
 122,1,Kentagl ETC,Evangelist Training,2001-2003,,Certificate 
 123,1,,,,,
 124,1,Ogelbeng Seminary,Pastor Training,2008-2012,,Certificate
@@ -132,30 +132,30 @@ et_id,et_order,et_institution,et_course,et_years,et_year_graduated,et_attainment
 131,1,,,,,
 132,1,Ogelbeng Seminary,Pastor Training,2016-2020,,
 133,1,,,,,
-134,1,ETC Amron,Theology,2013-2015 (3 yrs),,Certificate
+134,1,ETC Amron,Theology,2013-2015,,Certificate
 135,1,Ogelbeng Seminary,Pastor Training,1994-1998,,Certificate
 136,1,,,,,
 137,1,,,,,
 138,1,Goroka School of Nursing,Nursing,1986-1988,,Nursing Certificate
 139,1,Logaweng Seminary,Theology,2015-2019,,Certificate
-140,1,Snr Friel Sem,Theology,5 years,,Certificate
+140,1,Snr Friel Sem,Theology,,,Certificate
 141,1,Kambaidam Evangelist School,Evangelist,1998-1999,,Certificate
 142,1,Ogelbeng Seminary,Pastor Training,2010-2014,,Certificate
 143,1,,,,,
 144,1,Ogelbeng Seminary,Theology,1987-1991,,Certificate
-145,1,Highlands Luth Sem,Theology,5 years,,Certificate
+145,1,Highlands Luth Sem,Theology,,,Certificate
 146,1,Ogelbeng Seminary,Pastor Training,1980-1984,,Certificate
 147,1,,,,,
 148,1,,,,,
 149,1,Ogelbeng Seminary,Pastor Training,2004-2008,,Certificate
-150,1,Martin Luth Sem,Theology,6 years ,,Bach
+150,1,Martin Luth Sem,Theology,,,Bach
 151,1,Senior Flierl Seminary,Theology,2013-2017,,Certificate
 152,1,,,,,
 153,1,Senior Flioerl Seminary,Theology,2013-2017,,Certificate
-154,1,Highlands Luth Sem,Theology,5 years,,Certificate
+154,1,Highlands Luth Sem,Theology,,,Certificate
 155,1,,,,,
-156,1,Highlands Luth Sem,Theology,5 years,,Diploma
-157,1,Highlands Luth Sem,Theology,5 years,,Certificate
+156,1,Highlands Luth Sem,Theology,,,Diploma
+157,1,Highlands Luth Sem,Theology,,,Certificate
 158,1,Ogelbeng Seminary,Pastor Training,2011-2015,,Certificate
 159,1,Kagua Vocational ,Motor Mechanic ,1990-92,,Certificate
 160,1,Martin Luther Seminary,Pastor Training ,2019-2023,,Diploma
@@ -163,10 +163,10 @@ et_id,et_order,et_institution,et_course,et_years,et_year_graduated,et_attainment
 162,1,,,,,
 163,1,,,,,
 164,1,Martin Luther Seminary,Pastor Training,2009-2014,,
-165,1,Ogolbeng Seminary,Certificate,5 years,,Certificate in Theology
+165,1,Ogolbeng Seminary,Certificate,,,Certificate in Theology
 166,1,Ogelbeng Seminary,Pastor Training,1995-1998,,Certificate
-167,1,Ogolbang Seminary,Certificate of Theology,5 years,,Certificate
-168,1,Hagen Technically College,Fitter Mechinist ,1994-mid 1995,,Incomplete 
+167,1,Ogolbang Seminary,Certificate of Theology,,,Certificate
+168,1,Hagen Technically College,Fitter Mechinist ,1994 - 1995,,Incomplete 
 169,1,Amron Evangelist School,Theology ,2007-2009,,Certificate 
 170,1,NETC AMRON,,2008-2010,,CERTIFICATE
 171,1,NETC AMRON,OT 1,3 YEARS,,CERTIFICATE
@@ -181,14 +181,14 @@ et_id,et_order,et_institution,et_course,et_years,et_year_graduated,et_attainment
 180,1,,,,,
 181,1,AMRON ETC,"HOMLISTIC, CHURCH HISTORY, BIBLE STUDY",3 YEAR,,CERTIFICATE
 182,1,AMRON ETC,THEOLOGY,3 YEARS,,CERTIFICATE
-183,1,MARTIN LUTHER SERMINARY,THEOLOGY,SIX,,DIPLOMA
+183,1,MARTIN LUTHER SERMINARY,THEOLOGY,,,DIPLOMA
 184,1,Ogolbeng Seminary,,1991-1995,,
 185,1,Short Courses-Rintebe,Autlain Lidasip Wokmark,2020,,
-186,1,Lutheran Church College -Banze,Evangelist Teacher,3 years 1998-2000,,
-187,1,SENIOR FLIERLSERMINARY,,FIVE YEARS,,CERTIFICATE
+186,1,Lutheran Church College -Banze,Evangelist Teacher,1998 - 2000,,
+187,1,SENIOR FLIERLSERMINARY,,,,CERTIFICATE
 188,1,,,,,
 189,1,,,,,
-190,1,SENIOR FLIERL SEMINARY,THEOLOGY,FIVE YEARS,,CERTIFICATE
+190,1,SENIOR FLIERL SEMINARY,THEOLOGY,,,CERTIFICATE
 191,1,Ogelbeng Seminary,,2008 - 2013,,
 192,1,,,,,
 193,1,,Short Course Training,1995,,
@@ -200,24 +200,24 @@ et_id,et_order,et_institution,et_course,et_years,et_year_graduated,et_attainment
 199,1,SENIOR FLIERL SRMINARY,THEOLOGY,1988-1992,,CERTIFICATE
 200,1,Madang Taun Evengelish Trening School,,1969,,Certificate
 201,1,SENIOR FLIERL SERMINARY,THEOLOGY,,,CERTIFICATE
-202,1,LOGAWENG SERMINARY,THEOLOGY,FIVE YEARS,,CERTIFICATE
+202,1,LOGAWENG SERMINARY,THEOLOGY,,,CERTIFICATE
 203,1,,,,,
-204,1,LOGAWENG SERMINARY,THEOLOGY,5 YEARS,,DIPLOMA CERTIFICATE
-205,1,SERNIOR FLIERL SERMINARY,THEOLOGY,5 YEARS,,DIPLOMA CERTIFICATE
-206,1,Highlands Lutheran Seminary,Theology,5 years,,Certificate
+204,1,LOGAWENG SERMINARY,THEOLOGY,,,DIPLOMA CERTIFICATE
+205,1,SERNIOR FLIERL SERMINARY,THEOLOGY,,,DIPLOMA CERTIFICATE
+206,1,Highlands Lutheran Seminary,Theology,,,Certificate
 207,1,,,,,
 208,1,,,,,
-209,1,Onerika Bible School,Tok Pisin,1977 (1 year),,Certificate
-210,1,LOGAWENG SERMINARY,THEOLOGY,FIVE YEARS,,CERTIFICATE
+209,1,Onerika Bible School,Tok Pisin,1977,,Certificate
+210,1,LOGAWENG SERMINARY,THEOLOGY,,,CERTIFICATE
 211,1,1984,,,,
 212,1,MARTIN LUTHER SERMINARY,THEOLOGY,1984-1989,,BACHELOR OF THOLOGY
 213,1,LOGAWENG SERMINARY,THEOLOGY,2013,,CERTIFICATE
-214,1,,ETC Kambaidam,Evagelism,,2005
+214,1,ETC Kambaidam,Evagelism,2005,,
 215,1,LOGAWENG SERMINARY,,,,
-216,1,Martin Luther Seminary,Theology,6,,Certificate/Deploma
-217,1,SENIOR FLIERL SERMINARY,THEOLOGY,FIVE,,CERTIFICATE
+216,1,Martin Luther Seminary,Theology,,,Certificate/Deploma
+217,1,SENIOR FLIERL SERMINARY,THEOLOGY,,,CERTIFICATE
 218,1,,,,,
-219,1,Martin Luther Seminary,Theology,6,,Deploma
+219,1,Martin Luther Seminary,Theology,,,Deploma
 220,1,SNIOR FLIERL SERMINARY,THEOLOGY,2005-2009,,DIPLOMA CERTIFICATE
 221,1,,,,,
 222,1,Logaweng (SFS),Theology,2006,,Diploma
@@ -225,28 +225,28 @@ et_id,et_order,et_institution,et_course,et_years,et_year_graduated,et_attainment
 224,1,Amron,Evangelism,2006-2008,,Certificate
 225,1,,,,,
 226,1,,,,,
-227,1,Serminary,theology,five,,certificate
-228,1,senior flierl serminary,theology,five 5,,certificate
-229,1,Onaruka Tisa Training,"Theology, Maths, Science, Social Science",Six,,Teaching
+227,1,Serminary,theology,,,certificate
+228,1,senior flierl serminary,theology,,,certificate
+229,1,Onaruka Tisa Training,"Theology, Maths, Science, Social Science",,,Teaching
 230,1,,,,,
-231,1,Ogolbeg Seminary,Theology,6,,Certificate/Deploma
+231,1,Ogolbeg Seminary,Theology,,,Certificate/Deploma
 232,1,,,,,
 233,1,,,,,
-234,1,ANHS,,2,,Certificate
+234,1,ANHS,,,,Certificate
 235,1,Evangelist Traning Kentagl,,,,
 236,1,Carrier Development School,Computing,2001-2002,,Certificate in Computing
 237,1,LOGAWENG SERMINARY,THEOLOGY,,,
 238,1,Multi Skills Training Centre,Mining Engeering,2010-2012,,No Attainment Certyificate
 239,1,,,,,
-240,1,LOGAWENG SERMINARY,THEOLOGY,5 YEARS,,CERTIFICATE
+240,1,LOGAWENG SERMINARY,THEOLOGY,,,CERTIFICATE
 241,1,,,,,
-242,1,Short Courses,Outline & Homeletics Courses,6 weeks,,Certificate
-243,1,senior flierl serminary,theology,five,,certificate
+242,1,Short Courses,Outline & Homeletics Courses,,,Certificate
+243,1,senior flierl serminary,theology,,,certificate
 244,1,,,,,
 245,1,Evangelist Course,,2014 to 2015,,
 246,1,,,,,
-247,1,MARTIN LUTHER SERMINARY,THEOLOGY,SIX YEARS,,BTH CERTIFICATE
-248,1,Nil,I month Evangelist Course,Nil,,Short Course Evangelist
+247,1,MARTIN LUTHER SERMINARY,THEOLOGY,,,BTH CERTIFICATE
+248,1,Nil,I month Evangelist Course,,,Short Course Evangelist
 249,1,SENIOR FLIERL SERMINARY,THEOLOGY,2001-2006,,CERTIFICATE
 250,1,,,,,
 251,1,POLYTECH,MEAT SICIENCE,2015,,CERTIFICATE
@@ -254,85 +254,85 @@ et_id,et_order,et_institution,et_course,et_years,et_year_graduated,et_attainment
 253,1,SENIOR FLIERL SERMINARY,THEOLOGY,2003-2007,,CERTIFICATE
 254,1,Martin Luther Seminary,Theology,1985-1990,,Diploma
 255,1,,,,,
-256,1,Lutheran Highlands Seminary,Theology,Five years,,Certificate
+256,1,Lutheran Highlands Seminary,Theology,,,Certificate
 257,1,,,,,
-258,1,Martin Luther Seminary,Theology,Six Years,,Diploma
+258,1,Martin Luther Seminary,Theology,,,Diploma
 259,1,,,,,
-260,1,Lutheran Highlands Seminary,Theology,Five Years,,Diploma
+260,1,Lutheran Highlands Seminary,Theology,,,Diploma
 261,1,Logaweng (SFS),Theology,1987-1981,,Certificate
 262,1,,,,,
 263,1,,,,,
-264,1,Lutheran Highlands Seminary,Theology,Five Years,,Certificate
-265,1,Lutheran Highlands Seminary,Theology,Five Years,,Diploma
-266,1,Lutheran Highlands Seminary,Theology,Five Years,,Certificate
+264,1,Lutheran Highlands Seminary,Theology,,,Certificate
+265,1,Lutheran Highlands Seminary,Theology,,,Diploma
+266,1,Lutheran Highlands Seminary,Theology,,,Certificate
 267,1,,,,,
 268,1,,,,,
-269,1,Lutheran Highlands Seminary,Theology,Five Years,,
+269,1,Lutheran Highlands Seminary,Theology,,,
 270,1,,,,,
 271,1,Kambaidam Evangelist Training,Evangelist,1999-2000,,
-272,1,Lutheran Highlands Seminary,Theology,Five Years,,Certificate
+272,1,Lutheran Highlands Seminary,Theology,,,Certificate
 273,1,,,,,
 274,1,,,,,
-275,1,Highlands Seminary,Theology,3,,Certificate
+275,1,Highlands Seminary,Theology,,,Certificate
 276,1,Kambaidam ETC,Bible (Autim Tok),1990,,Certificate
-277,1,Lutheran Highlands Seminary,Theology,Five Years,,Certificate
+277,1,Lutheran Highlands Seminary,Theology,,,Certificate
 278,1,,,,,
-279,1,Lutheran Highlands Seminary,Theology,Five Years,,Certificate
+279,1,Lutheran Highlands Seminary,Theology,,,Certificate
 280,1,,,,,
-281,1,LOGAWENG SERMINARY,THEOLOGY,4 YEARS,,CERTIFICATE
+281,1,LOGAWENG SERMINARY,THEOLOGY,,,CERTIFICATE
 282,1,MARTIN LUTHER SERMINARY,THEOLOGY,2018-2022,,BACHELOR OF THEOLOGY
-283,1,Lutheran Highlands Seminary,Theology,Five Years,,Certificate
+283,1,Lutheran Highlands Seminary,Theology,,,Certificate
 284,1,,,,,
-285,1,Lutheran Highlands Seminary,Theology,Five Years,,
+285,1,Lutheran Highlands Seminary,Theology,,,
 286,1,LOGAWENG SERMINARY,THEOLOGY,,,
 287,1,,,,,
-288,1,Amron NETC,Theology,Three Years,,
-289,1,Lutheran Highlands Seminary,Theology,Five Years,,
+288,1,Amron NETC,Theology,,,
+289,1,Lutheran Highlands Seminary,Theology,,,
 290,1,SENIOR FLIER SERMINARY,THEOLOGY,1998-2002,,
 291,1,,,,,
 292,1,,,,,
-293,1,Lutheran Highlands Seminary,Theology,Five Years,,Certificate
+293,1,Lutheran Highlands Seminary,Theology,,,Certificate
 294,1,,,,,
 295,1,,,,,
-296,1,Lutheran Highlands Seminary,Theology,Five Years,,
+296,1,Lutheran Highlands Seminary,Theology,,,
 297,1,,,,,
-298,1,LOGAWENG SERMINARY,THEOLOGY,FIVE YEARS,,
-299,1,Senior Flierl Seminary,Theology,Five Years,,Certificate
+298,1,LOGAWENG SERMINARY,THEOLOGY,,,
+299,1,Senior Flierl Seminary,Theology,,,Certificate
 300,1,,,,,
-301,1,Lutheran Highlands Seminary,Theology,Five Years,,
+301,1,Lutheran Highlands Seminary,Theology,,,
 302,1,,,,,
-303,1,Lutheran Highlands Seminary,Theology,Five Years,,Diploma
-304,1,Lutheran Highlands Seminary,Theology,Five Years,,
+303,1,Lutheran Highlands Seminary,Theology,,,Diploma
+304,1,Lutheran Highlands Seminary,Theology,,,
 305,1,,,,,
 306,1,,,,,
-307,1,Lutheran Highlands Seminary,Theology,Five Years,,Cerfificate
+307,1,Lutheran Highlands Seminary,Theology,,,Cerfificate
 308,1,Menyamya Evangelist Training School,Theology,,,Certificate
-309,1,Ogelbeng,Theology,5 years,,
+309,1,Ogelbeng,Theology,,,
 310,1,,,,,
 311,1,,,,,
-312,1,SENIOR FLIERL SERMINARY,THEOLOGY,5 YEARS,,CERTIFICATE
+312,1,SENIOR FLIERL SERMINARY,THEOLOGY,,,CERTIFICATE
 313,1,,,,,
 314,1,,,,,
-315,1,Lutheran Highlands Seminary,Theology,Five Years,,Certificate
+315,1,Lutheran Highlands Seminary,Theology,,,Certificate
 316,1,,,,,
 317,1,,,,,
-318,1,OGELBENG SERMINARY,THEOLOGY,FIVE YEARS,,CERTIFICATE
-319,1,Senior Flierl Seminary,Theology,Five Years,,
-320,1,Lutheran Highlands Seminary,Theology,Five Years,,Certificate
+318,1,OGELBENG SERMINARY,THEOLOGY,,,CERTIFICATE
+319,1,Senior Flierl Seminary,Theology,,,
+320,1,Lutheran Highlands Seminary,Theology,,,Certificate
 321,1,,,,,
 322,1,,,,,
 323,1,,,,,
-324,1,LOGAWENG SERMINARY,THEOLOGY,5 YEARS,,
-325,1,Senior Flierl Seminary,Theology,Five years,,Diploma
+324,1,LOGAWENG SERMINARY,THEOLOGY,,,
+325,1,Senior Flierl Seminary,Theology,,,Diploma
 326,1,,,,,
 327,1,,,,,
 328,1,,,,,
-329,1,OGELBENG SEMINARY,DIPLOMA IN THEOLOGY,5 YEARS,,DIPLOMA
-330,1,"NETC, Anron Madang",Theology,3,,Certificate
-331,1,SENOIR FLIERL SEMINARY,THEOLOGY,5 YEARS,,PASTOR CERTIFICATE
+329,1,OGELBENG SEMINARY,DIPLOMA IN THEOLOGY,,,DIPLOMA
+330,1,"NETC, Anron Madang",Theology,,,Certificate
+331,1,SENOIR FLIERL SEMINARY,THEOLOGY,,,PASTOR CERTIFICATE
 332,1,SENOIR FLIERL SEMINARY,THEOLOGY,2009-2023,,DIPLOMA
-333,1,SFS LOGAWENG,THEOLOGY,5 YEARS,,
-334,1,Martin Luther Seminary,Theology,Six Years,,Bachelor
+333,1,SFS LOGAWENG,THEOLOGY,,,
+334,1,Martin Luther Seminary,Theology,,,Bachelor
 335,1,,,,,
 336,1,,,,,Evangelist short cours
 337,1,SENIOR FLIERL SERMINARY,THEOLOGY,2003-2007,,DIPLOMA
@@ -344,23 +344,23 @@ et_id,et_order,et_institution,et_course,et_years,et_year_graduated,et_attainment
 343,1,,,,,
 344,1,SENIOR FLIERL SERMINARY,THEOLOGY,1998,,
 345,1,LOGAWENG SERMINARY,THEOLOGY,1996-2001,,CERTIFICATE
-346,1,MARTIN LUTHER SERMINARY,THEOLOGY,6 YEARS,,
+346,1,MARTIN LUTHER SERMINARY,THEOLOGY,,,
 347,1,logaweng serminary,theology,2005-2010,,diploma
-348,1,LOGAWENG SERMINARY,THEOLOGY,5 YEARS,,CERTIFICATE
-349,1,SENIOR FLIERL SERMINARY LOGAWENG,THEOLOGY,5 YEARS,,DIPLOMA
-350,1,Seminary,Theology,4,,Diploma
+348,1,LOGAWENG SERMINARY,THEOLOGY,,,CERTIFICATE
+349,1,SENIOR FLIERL SERMINARY LOGAWENG,THEOLOGY,,,DIPLOMA
+350,1,Seminary,Theology,,,Diploma
 351,1,,,,,
-352,1,Lutheran Highlands Seminary,Theology,Five Years,,Certificate
+352,1,Lutheran Highlands Seminary,Theology,,,Certificate
 353,1,,,,,
 354,1,LOGAENG SERMINARY,THEOLOGY,,,
 355,1,SENIOR FLIERL SERMINARY,THEOLOGY,2014-2018,,CERTIFICATE
-356,1,,Theology,5,,
-357,1,Ogelbeng Seminary,Theology,5,,Deploma
-358,1,Highlands Seminary,,5,,Certificate
+356,1,,Theology,,,
+357,1,Ogelbeng Seminary,Theology,,,Deploma
+358,1,Highlands Seminary,,,,Certificate
 359,1,NETC AMRON,,3 YEARS,,CERTIFICATE
-360,1,LOGAWENG SERMINARY,THEOLOGY,5,,
+360,1,LOGAWENG SERMINARY,THEOLOGY,,,
 361,1,AMRON EVANGELIST TRAINING SCHOOL,,1990-1991,,
-362,1,Ogelbeng Seminary,Theology,5,,certificate
+362,1,Ogelbeng Seminary,Theology,,,certificate
 363,1,,,,,
 364,1,,,,,
 365,1,,,,,
@@ -375,13 +375,13 @@ et_id,et_order,et_institution,et_course,et_years,et_year_graduated,et_attainment
 374,1,LOGAWENG SERMINARY,THEOLOGY,2002-2005,,
 375,1,LOGAWENG SERMINARY,THEOLOGY,1986-1990,,CERTIFICATE
 376,1,MARTIN LUTHER SERMINARY,THEOLOGY,1985-1990,,
-377,1,LOGAWENG SERMINARY,THEOLOGY,5 YEARS,,
+377,1,LOGAWENG SERMINARY,THEOLOGY,,,
 378,1,SERMINARY,,1990,,
 379,1,MARTIN LUTHER SERMINARY,THEOLOGY,1995-2000,,
 380,1,,,,,
 381,1,,,,,
 382,1,Lae Technical College,Catering and Hotel Management,1974-1975,,
-383,1,LHSO,Theology,5,,Diploma
+383,1,LHSO,Theology,,,Diploma
 384,1,,,,,
 385,1,,,,,
 386,1,,,,,
@@ -395,7 +395,7 @@ et_id,et_order,et_institution,et_course,et_years,et_year_graduated,et_attainment
 394,1,,,,,
 395,1,Kambaidam Evegelical School,6 moths of Study- Left due to tribal fight,1990,,
 396,1,,,,,
-397,1,Mont Hagen Technical College,Heavy Equipment Fitting,One Year,,Certificate
+397,1,Mont Hagen Technical College,Heavy Equipment Fitting,,,Certificate
 398,1,,,,,
 399,1,Kambaidam,Theology,2008-2010,,
 400,1,Raipinka Evangelist Training Centre,Evangelsm Training,2002-Full Year,,Certificate
@@ -407,12 +407,12 @@ et_id,et_order,et_institution,et_course,et_years,et_year_graduated,et_attainment
 406,1,,,,,
 407,1,Kambaidam Evangelist Training Centre,Evangelist,1991-1992,,Certificate
 408,1,"Lutheran Bible Institute, California USA",Christian Education,1981-1983,,Diploma
-409,1,Banz Church Colledge,Church Administration,1 year,,Short Course Training
+409,1,Banz Church Colledge,Church Administration,,,Short Course Training
 410,1,,,,,
 411,1,AMRON EVANGELIST TRAINING SCHOOL,THEOLOGY,1999-2004,,CERTIFICATE
 412,1,Yasi Evengalist School,Homoletics,2012-2015,,Certificate
 413,1,,,,,
-414,1,Asaroka High School,,4 Years,,Certificate
+414,1,Asaroka High School,,,,Certificate
 415,1,not formally,,,,
 416,1,not formally,,,,
 417,1,IT & Church Administration,2016-2017,2017,,Salt Method Counselling Course
@@ -420,17 +420,17 @@ et_id,et_order,et_institution,et_course,et_years,et_year_graduated,et_attainment
 419,1,LUTHERAN HIGHLANDS SERMINARY,THEOLOGY,2014,,CERTIFICATE
 420,1,MARTIN LUTHER SERMINARY,THEOLOGY,2010-2016,,
 421,1,Raipinka Circuit,Short courses Evangelist,1996,,Evangelist
-422,1,Kambaidam Evangelism Training Centre,Evangelism,2000 -1 year,,Ceretificate
+422,1,Kambaidam Evangelism Training Centre,Evangelism,2000,,Ceretificate
 423,1,Kambaidam Evangelist Training Centre,2000-1 Year,2000,,
-424,1,Bible Training Course-Henganofi Station,1998,3 months,,
+424,1,Bible Training Course-Henganofi Station,1998,,,
 425,1,,,,,
-426,1,OGELBENG SERMINARY,THEOLOGY,5 YEARS,,CERTIFICATE
+426,1,OGELBENG SERMINARY,THEOLOGY,,,CERTIFICATE
 427,1,Seminary-Gogelbeng,Theology,1997-2022,,Certificate
-428,1,District Bible School Kentangl,,Four Years,,Certificate
+428,1,District Bible School Kentangl,,,,Certificate
 429,1,Ogelbeng Seminary,"History, Homiletic, Ethics, Counselling and Education",1995,,Theology Certificate
 430,1,Lutheran Highlands Seminary Ogelbeng,"Bible Study, Counselling, Church History",2005-2009,,Ps Certitificate/Diploma
 431,1,Lutheran Highlands Seminary Ogelbeng,"Bible Study, Counselling, Church History",2005-2009,,Ps Certitificate/Diploma
-432,1,Lutheran Highlands Seminary Ogelbeng,"NT, OT, Church History, Counselling and Bible study",5 years,,Certificate
+432,1,Lutheran Highlands Seminary Ogelbeng,"NT, OT, Church History, Counselling and Bible study",,,Certificate
 433,1,OGELBENG SERMINARY,THEOLOGY,2000-2004,,CERTIFICATE
 434,1,,,,,
 435,1,,,,,
@@ -438,63 +438,63 @@ et_id,et_order,et_institution,et_course,et_years,et_year_graduated,et_attainment
 437,1,Short Course,"Out Line, Wokmark, Lidaship, Stuasip",2013-2022,,District Kainantu & Circuit
 438,1,LHS ULGPENG,Thoelogy,1997-2001,,Certificate in Theology(Diploma-Incomplete)
 439,1,Highlands Seminary Ogulbeng,Theology,2000-2004,,Diploma
-440,1,MARTIN LUTHER SERMINARY,THEOLOGY,4 YEARS,,
+440,1,MARTIN LUTHER SERMINARY,THEOLOGY,,,
 441,1,Goroka Technical College,Campentry and Plumping,1971-1972,,
 442,1,LHS Ogelbeng,Theology,2016-2020,,Certificate in Theology
 443,1,,,,,
 444,1,,,,,
 445,1,OGELBENG SERMINARY,THEOLOGY,2008,,DIPLOMA
-446,1,MARTIN LUTHER SERMINARY,THEOLOGY,6 YEARS,,DIPLOMA IN THEOLOGY
+446,1,MARTIN LUTHER SERMINARY,THEOLOGY,,,DIPLOMA IN THEOLOGY
 447,1,,,,,
 448,1,Martin Luther Seminary,Diploma In Theology,2007-2012,,Diploma
 449,1,OGELBENG SERMINARY,,2010-2014,,
-450,1,OGELBENG SERMINARY,THEOLOGY,5 YEARS,,DIPLOMA
+450,1,OGELBENG SERMINARY,THEOLOGY,,,DIPLOMA
 451,1,OGELBENG SERMINARY,THEOLOGY,2018,,DIPLOMA
 452,1,,,,,
 453,1,MARTIN LUTHER SERMINARY,THEOLOGY,1987-1992,,
 454,1,Lutheran/High/Seminary Ogelbeng,Theology,1994,,Certificate in Theology
 455,1,Oglebeng,Pastor,91997-2000,,Certificate
-456,1,OGELBENG SERMINARY,THEOLOGY,FIVE YEARS,,CERTIFICATE
+456,1,OGELBENG SERMINARY,THEOLOGY,,,CERTIFICATE
 457,1,MARTIN LUTHER SERMINARY,THEOLOGY,,,
 458,1,NETC-Armron,,2004-2006,,Certificate
 459,1,OGELBENG SERMINARY,THEOLOGY,2010,,DIPLOMA IN THEOLOGY
-460,1,OGELBENG SERMINARY,THEOLOGY,5 YEARS,,DIPLOMA
+460,1,OGELBENG SERMINARY,THEOLOGY,,,DIPLOMA
 461,1,,,,,
-462,1,ANHS,,2,,Grade 12 certificate
+462,1,ANHS,,,,Grade 12 certificate
 463,1,Martin Luther Seminary,Theology course,2016-2020,,Diploma
-464,1,OGELBENG SERMINARY,THEOLOGY,5 YEARS,,DIPLOMA
-465,1,Ogulberg Seminary,Theology,Five years,,Certificate
+464,1,OGELBENG SERMINARY,THEOLOGY,,,DIPLOMA
+465,1,Ogulberg Seminary,Theology,,,Certificate
 466,1,,,,,
-467,1,OGELBENG SERMINARY,THEOLOGY,5 YEARS,,DIPLOMA
+467,1,OGELBENG SERMINARY,THEOLOGY,,,DIPLOMA
 468,1,,,,,
 469,1,OGELBENG SERMINARY,THEOLOGY,1981-1984,,
-470,1,OGELBENG SERMINARY,THEOLOGY,5 YEARS,,
+470,1,OGELBENG SERMINARY,THEOLOGY,,,
 471,1,,,,,
 472,1,,,,,
 473,1,,,,,
-474,1,Kentagl Bible School,Theology,3,,certificate
+474,1,Kentagl Bible School,Theology,,,certificate
 475,1,,,,,
 476,1,,,,,
 477,1,,,,,
 478,1,,,,,
 479,1,,,,,
-480,1,Evangelist School,Theology,2,,Certificate
+480,1,Evangelist School,Theology,,,Certificate
 481,1,,,,,
 482,1,,,,,
-483,1,Kentagl (WHP),Evangelist,3,,
+483,1,Kentagl (WHP),Evangelist,,,
 484,1,,,,,
 485,1,,,,,
 486,1,,,,,
-487,1,Ogelbeng Lutheran Seminary,Deploma in Theology,5 Years 2016-2020,,Deploma
+487,1,Ogelbeng Lutheran Seminary,Deploma in Theology,2016 -2020,,Deploma
 488,1,Ogelbeng Seminary (LHS),,1989,,
 489,1,,,,,Bible Tokples Training
 490,1,District short,Evangelistim,,,Certificate
 491,1,District short,Evangelistim,,,Certificate
 492,1,,,,,
-493,1,Amron ETC,Theology,1,,Certificate
+493,1,Amron ETC,Theology,,,Certificate
 494,1,,Evencilis training,2006,,
 495,1,,Short course (6 weeks) Iliabu Immanuel District,,,
-496,1,Christian Education,Sotkos,1 month,,Certificate
+496,1,Christian Education,Sotkos,,,Certificate
 497,1,,,,,
 498,1,,,,,
 499,1,,Gutnius,3 years,,Certificate
@@ -505,9 +505,9 @@ et_id,et_order,et_institution,et_course,et_years,et_year_graduated,et_attainment
 504,1,,,,,
 505,1,Christian L/Ship Technical College,Bachelor of Theology,1997-2001,,Bachelor Certificate
 506,1,Christian L/Ship Technical College,Bachelor of Theology,1997-2001,,Bachelor Certificate
-507,1,MARTIN LUTHER SERMINARY,THEOLOGY,SIX YEARS,,
+507,1,MARTIN LUTHER SERMINARY,THEOLOGY,,,
 508,1,TIMOTHY LUTHERAN SERMINARY,THEOLOGY,1994-1999,,CERTIFICATE
-509,1,TIMOTHY LUTHERAN SERMINARY,PASTORAL MINISTRY,4 YEARS,,
+509,1,TIMOTHY LUTHERAN SERMINARY,PASTORAL MINISTRY,,,
 510,1,OGELBENG SERMINARY,,1982-1986,,
 511,1,LUTHERAN CHURCH COLLEGE BANZ,1991-1994,1994,,
 512,1,Kentagl Bible School,,1996-1997,,Certificate
@@ -525,7 +525,7 @@ et_id,et_order,et_institution,et_course,et_years,et_year_graduated,et_attainment
 524,1,HOMELITIES SHORT COURSE,THEOLOGY,,,
 525,1,,,,,
 526,1,LUTHERAN CHURCH COLLEGE BANZ,MINISTRY,2015-2017,,
-527,1,Kentagl Evangelist Training,,2,,Certificate
+527,1,Kentagl Evangelist Training,,,,Certificate
 528,1,ONERUNGKA,,1981-1982,,
 529,1,CTC,,,,
 530,1,Hetman / Evangelist,,,,
@@ -579,7 +579,7 @@ et_id,et_order,et_institution,et_course,et_years,et_year_graduated,et_attainment
 48,2,,,,,
 49,2,,,,,
 50,2,,,,,
-51,2,Theology ,,5 Years ,2006,Diploma of Theology 
+51,2,Theology ,,,2006,Diploma of Theology 
 52,2,,,,,
 53,2,,,,,
 54,2,,,,,
@@ -631,7 +631,7 @@ et_id,et_order,et_institution,et_course,et_years,et_year_graduated,et_attainment
 100,2,,,,,
 101,2,,,,,
 102,2,,,,,
-103,2,Dip Teaching ,,1 year,2005,Diploma 
+103,2,Dip Teaching ,,,2005,Diploma 
 104,2,Evangelist course,,1986-1987,1987,Certificate
 105,2,,,,,
 106,2,,,,,
@@ -711,7 +711,7 @@ et_id,et_order,et_institution,et_course,et_years,et_year_graduated,et_attainment
 180,2,,,,,
 181,2,,,,,
 182,2,,,,,
-183,2,CHRISTIAN LIFE STUDIES,,ONE,2008,CERTIFICATE
+183,2,CHRISTIAN LIFE STUDIES,,,2008,CERTIFICATE
 184,2,,,,,
 185,2,,,,,
 186,2,,,,,
@@ -747,7 +747,7 @@ et_id,et_order,et_institution,et_course,et_years,et_year_graduated,et_attainment
 216,2,,,,,
 217,2,,,,,
 218,2,,,,,
-219,2,Guidance Councillor/ Applied Phycology,,2,2020,Deploma
+219,2,Guidance Councillor/ Applied Phycology,,,2020,Deploma
 220,2,,,,,
 221,2,,,,,
 222,2,Certificate,,,,
@@ -763,7 +763,7 @@ et_id,et_order,et_institution,et_course,et_years,et_year_graduated,et_attainment
 232,2,,,,,
 233,2,,,,,
 234,2,,,,,
-235,2,Theology,,5,1993,
+235,2,Theology,,,1993,
 236,2,,,,,
 237,2,,,,,
 238,2,,,,,
@@ -816,7 +816,7 @@ et_id,et_order,et_institution,et_course,et_years,et_year_graduated,et_attainment
 285,2,,,,,
 286,2,,,,,
 287,2,,,,,
-288,2,Theology,,Five Years,2009,
+288,2,Theology,,,2009,
 289,2,,,,,
 290,2,,,,,
 291,2,,,,,
@@ -1441,7 +1441,7 @@ et_id,et_order,et_institution,et_course,et_years,et_year_graduated,et_attainment
 380,3,,,,,
 381,3,,,,,
 382,3,,,,,
-383,3,DWU,,MLD,,Pursuing
+383,3,DWU,,,,Pursuing
 384,3,,,,,
 385,3,,,,,
 386,3,,,,,
