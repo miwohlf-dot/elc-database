@@ -3,25 +3,16 @@
 BEGIN;
 
 
-ALTER TABLE IF EXISTS public.tbl_admin_struc1 DROP CONSTRAINT IF EXISTS tbl_admin_struc1_admin_id_fkey;
+CREATE TABLE IF NOT EXISTS public.a123
+(
+    name character varying(50) COLLATE pg_catalog."default"
+);
 
-ALTER TABLE IF EXISTS public.tbl_banking DROP CONSTRAINT IF EXISTS tbl_banking_ba_pers_id_fkey;
-
-ALTER TABLE IF EXISTS public.tbl_dep_pers_rel DROP CONSTRAINT IF EXISTS tbl_dep_pers_rel_rel_dep_id_fkey;
-
-ALTER TABLE IF EXISTS public.tbl_dep_pers_rel DROP CONSTRAINT IF EXISTS tbl_dep_pers_rel_rel_pers_id_fkey;
-
-ALTER TABLE IF EXISTS public.tbl_elc_struc1 DROP CONSTRAINT IF EXISTS tbl_elc_struc1_es_id_fkey;
-
-ALTER TABLE IF EXISTS public.tbl_emergency_contact DROP CONSTRAINT IF EXISTS tbl_mergency_contact_em_id_fkey;
-
-ALTER TABLE IF EXISTS public.tbl_residence DROP CONSTRAINT IF EXISTS tbl_residence_res_pers_id_fkey;
-
-ALTER TABLE IF EXISTS public.tbl_school DROP CONSTRAINT IF EXISTS tbl_school_school_pers_id_fkey;
-
-
-
-DROP TABLE IF EXISTS public.congregation;
+CREATE TABLE IF NOT EXISTS public.b234
+(
+    name1 character varying(55) COLLATE pg_catalog."default",
+    name2 character varying(50) COLLATE pg_catalog."default"
+);
 
 CREATE TABLE IF NOT EXISTS public.congregation
 (
@@ -34,8 +25,6 @@ CREATE TABLE IF NOT EXISTS public.congregation
     CONSTRAINT congregation_pkey PRIMARY KEY (cong_id)
 );
 
-DROP TABLE IF EXISTS public.elc_seket;
-
 CREATE TABLE IF NOT EXISTS public.elc_seket
 (
     sek_id integer NOT NULL,
@@ -45,7 +34,16 @@ CREATE TABLE IF NOT EXISTS public.elc_seket
     CONSTRAINT pk_tbl_sek PRIMARY KEY (sek_id)
 );
 
-DROP TABLE IF EXISTS public.tbl_admin_struc1;
+CREATE TABLE IF NOT EXISTS public.my_names
+(
+    order_id integer,
+    title character varying(40) COLLATE pg_catalog."default",
+    name character varying(60) COLLATE pg_catalog."default",
+    surname character varying(45) COLLATE pg_catalog."default",
+    status numeric(3, 0),
+    surname2 character varying(25) COLLATE pg_catalog."default",
+    number2 numeric(3, 0)
+);
 
 CREATE TABLE IF NOT EXISTS public.tbl_admin_struc1
 (
@@ -60,8 +58,6 @@ CREATE TABLE IF NOT EXISTS public.tbl_admin_struc1
     CONSTRAINT tbl_admin_struc1_pkey PRIMARY KEY (admin_id)
 );
 
-DROP TABLE IF EXISTS public.tbl_admin_structure;
-
 CREATE TABLE IF NOT EXISTS public.tbl_admin_structure
 (
     admin_province character varying(40) COLLATE pg_catalog."default" NOT NULL,
@@ -70,8 +66,6 @@ CREATE TABLE IF NOT EXISTS public.tbl_admin_structure
     admin_id integer NOT NULL GENERATED ALWAYS AS IDENTITY ( INCREMENT 1 START 1 MINVALUE 1 MAXVALUE 2147483647 CACHE 1 ),
     CONSTRAINT admin_structure_pkey PRIMARY KEY (admin_id)
 );
-
-DROP TABLE IF EXISTS public.tbl_banking;
 
 CREATE TABLE IF NOT EXISTS public.tbl_banking
 (
@@ -85,8 +79,6 @@ CREATE TABLE IF NOT EXISTS public.tbl_banking
     CONSTRAINT tbl_banking_pkey PRIMARY KEY (ba_pers_id)
 );
 
-DROP TABLE IF EXISTS public.tbl_dep_pers_rel;
-
 CREATE TABLE IF NOT EXISTS public.tbl_dep_pers_rel
 (
     rel_pers_id integer NOT NULL,
@@ -94,8 +86,6 @@ CREATE TABLE IF NOT EXISTS public.tbl_dep_pers_rel
     rel_order integer NOT NULL,
     CONSTRAINT tbl_dep_pers_rel_pkey PRIMARY KEY (rel_pers_id, rel_dep_id, rel_order)
 );
-
-DROP TABLE IF EXISTS public.tbl_dependants;
 
 CREATE TABLE IF NOT EXISTS public.tbl_dependants
 (
@@ -108,7 +98,39 @@ CREATE TABLE IF NOT EXISTS public.tbl_dependants
     CONSTRAINT "Dependants_pkey" PRIMARY KEY (dep_id)
 );
 
-DROP TABLE IF EXISTS public.tbl_elc_cong_codes;
+CREATE TABLE IF NOT EXISTS public.tbl_edu_other
+(
+    eo_id integer NOT NULL,
+    eo_order integer NOT NULL,
+    eo_name character varying(110) COLLATE pg_catalog."default",
+    eo_duration character varying(15) COLLATE pg_catalog."default",
+    eo_start_end character varying(20) COLLATE pg_catalog."default",
+    eo_trainer_institution character varying(110) COLLATE pg_catalog."default",
+    eo_sttainment character varying(45) COLLATE pg_catalog."default",
+    CONSTRAINT tbl_edu_other_pkey PRIMARY KEY (eo_order, eo_id)
+);
+
+CREATE TABLE IF NOT EXISTS public.tbl_edu_school
+(
+    es_id integer NOT NULL,
+    es_order integer NOT NULL,
+    es_school_name character varying(40) COLLATE pg_catalog."default",
+    es_level character varying(30) COLLATE pg_catalog."default",
+    es_year_graduated character varying(20) COLLATE pg_catalog."default",
+    CONSTRAINT tbl_edu_school_pkey PRIMARY KEY (es_id, es_order)
+);
+
+CREATE TABLE IF NOT EXISTS public.tbl_edu_tertiary
+(
+    et_id integer NOT NULL,
+    et_order integer NOT NULL,
+    et_institution character varying(40) COLLATE pg_catalog."default",
+    et_course character varying(80) COLLATE pg_catalog."default",
+    et_years character varying(20) COLLATE pg_catalog."default",
+    et_year_graduated numeric(4, 0),
+    et_attainment character varying(80) COLLATE pg_catalog."default",
+    CONSTRAINT tbl_edu_tertiary_pkey PRIMARY KEY (et_order, et_id)
+);
 
 CREATE TABLE IF NOT EXISTS public.tbl_elc_cong_codes
 (
@@ -123,8 +145,6 @@ CREATE TABLE IF NOT EXISTS public.tbl_elc_cong_codes
     cong_name character varying(40) COLLATE pg_catalog."default"
 );
 
-DROP TABLE IF EXISTS public.tbl_elc_struc1;
-
 CREATE TABLE IF NOT EXISTS public.tbl_elc_struc1
 (
     es_id integer NOT NULL,
@@ -135,31 +155,37 @@ CREATE TABLE IF NOT EXISTS public.tbl_elc_struc1
     CONSTRAINT tbl_elc_struc1_pkey PRIMARY KEY (es_id)
 );
 
-DROP TABLE IF EXISTS public.tbl_emergency_contact;
-
 CREATE TABLE IF NOT EXISTS public.tbl_emergency_contact
 (
     em_id integer NOT NULL,
     em_first_name character varying(30) COLLATE pg_catalog."default",
     em_surname character varying(30) COLLATE pg_catalog."default",
-    em_ralation character varying(60) COLLATE pg_catalog."default",
     em_phone character varying(25) COLLATE pg_catalog."default",
     em_email_address character varying(35) COLLATE pg_catalog."default",
     em_address character varying(60) COLLATE pg_catalog."default",
+    em_ralation character varying(60) COLLATE pg_catalog."default",
     CONSTRAINT tbl_mergency_contact_pkey PRIMARY KEY (em_id)
 );
 
-DROP TABLE IF EXISTS public.tbl_pers_school_rel;
-
-CREATE TABLE IF NOT EXISTS public.tbl_pers_school_rel
+CREATE TABLE IF NOT EXISTS public.tbl_pers_documents
 (
-    rel_pers_id integer NOT NULL,
-    rel_sch_id integer NOT NULL,
-    rel_order_nr integer NOT NULL,
-    CONSTRAINT tbl_pers_school_rel_pkey PRIMARY KEY (rel_pers_id, rel_sch_id, rel_order_nr)
+    persdoc_id integer NOT NULL,
+    persdoc_district boolean,
+    persdoc_ordination boolean,
+    persdoc_baprism boolean,
+    persdoc_confirmation boolean,
+    persdoc_marriage boolean,
+    persdoc_divorce boolean,
+    persdoc_police boolean,
+    persdoc_nid boolean,
+    persdoc_birth boolean,
+    persdoc_passport boolean,
+    persdoc_workpermit boolean,
+    persdoc_diability boolean,
+    persdoc_education boolean,
+    persdoc_others character varying(50) COLLATE pg_catalog."default",
+    CONSTRAINT tbl_pers_documents_pkey PRIMARY KEY (persdoc_id)
 );
-
-DROP TABLE IF EXISTS public.tbl_person;
 
 CREATE TABLE IF NOT EXISTS public.tbl_person
 (
@@ -194,13 +220,52 @@ CREATE TABLE IF NOT EXISTS public.tbl_person
     pers_admin_struc1 integer,
     pers_elc_struc1 integer,
     pers_school_id integer,
+    pers_updated_at timestamp with time zone,
+    per_marriage_regis numeric(4, 0),
     CONSTRAINT tbl_person_pkey PRIMARY KEY (pers_id),
     CONSTRAINT tbl_person_pers_admin_struc1_key UNIQUE (pers_admin_struc1),
     CONSTRAINT tbl_person_pers_elc_struc1_key UNIQUE (pers_elc_struc1),
     CONSTRAINT tbl_person_pers_res_id_key UNIQUE (pers_res_id)
 );
 
-DROP TABLE IF EXISTS public.tbl_residence;
+CREATE TABLE IF NOT EXISTS public.tbl_person_a
+(
+    ordnum integer NOT NULL,
+    title character varying(25) COLLATE pg_catalog."default",
+    first_nnme character varying(50) COLLATE pg_catalog."default",
+    surnnme character varying(50) COLLATE pg_catalog."default",
+    congregation character varying(50) COLLATE pg_catalog."default",
+    theaddress character varying(65) COLLATE pg_catalog."default",
+    city character varying(50) COLLATE pg_catalog."default",
+    province character varying(25) COLLATE pg_catalog."default",
+    phonenum numeric(13, 0),
+    currdistrict character varying(50) COLLATE pg_catalog."default",
+    pstatus numeric(1, 0),
+    birthdate date,
+    sex numeric(1, 0),
+    asples character varying(25) COLLATE pg_catalog."default",
+    asdistrict character varying(50) COLLATE pg_catalog."default",
+    regnum numeric(5, 0),
+    niugini_lutheran boolean,
+    nasnum numeric(10, 0),
+    edasuper numeric(10, 0),
+    ord_y_n boolean,
+    orddate date,
+    ordplace character varying(50) COLLATE pg_catalog."default",
+    mstatus numeric(1, 0),
+    yrmarried numeric(4, 0),
+    spouse_name character varying(30) COLLATE pg_catalog."default",
+    spouse_work character varying(55) COLLATE pg_catalog."default",
+    children character varying(50) COLLATE pg_catalog."default",
+    hsname character varying(40) COLLATE pg_catalog."default",
+    hs_date numeric(9, 0),
+    seminary character varying(30) COLLATE pg_catalog."default",
+    seminary_date numeric(9, 0),
+    degree numeric(1, 0),
+    created_at date DEFAULT now(),
+    updated_at timestamp with time zone,
+    CONSTRAINT tbl_person_a_pkey PRIMARY KEY (ordnum)
+);
 
 CREATE TABLE IF NOT EXISTS public.tbl_residence
 (
@@ -215,43 +280,18 @@ CREATE TABLE IF NOT EXISTS public.tbl_residence
     CONSTRAINT tbl_residence_pkey PRIMARY KEY (res_pers_id)
 );
 
-DROP TABLE IF EXISTS public.tbl_school;
-
-CREATE TABLE IF NOT EXISTS public.tbl_school
-(
-    school_pers_id integer,
-    school_name character varying(60) COLLATE pg_catalog."default",
-    school_level character varying(40) COLLATE pg_catalog."default",
-    school_year character varying(40) COLLATE pg_catalog."default",
-    school_tertiary character varying(120) COLLATE pg_catalog."default",
-    school_course_study character varying(60) COLLATE pg_catalog."default",
-    school_years_study character varying(60) COLLATE pg_catalog."default",
-    school_year_gratuated character varying(80) COLLATE pg_catalog."default",
-    school_attainment character varying(80) COLLATE pg_catalog."default",
-    school_other_training character varying(120) COLLATE pg_catalog."default",
-    school_duration character varying(60) COLLATE pg_catalog."default",
-    school_start_end character varying(60) COLLATE pg_catalog."default",
-    school_institu_trainer character varying(120) COLLATE pg_catalog."default",
-    school_other_attainment character varying(60) COLLATE pg_catalog."default",
-    school_id integer NOT NULL,
-    CONSTRAINT tbl_school_pkey PRIMARY KEY (school_id)
-);
-
-DROP TABLE IF EXISTS public.tbl_service_area;
-
 CREATE TABLE IF NOT EXISTS public.tbl_service_area
 (
     svc_id integer NOT NULL,
     svc_order_id integer NOT NULL,
     svc_role character varying(80) COLLATE pg_catalog."default",
-    svc_year character varying(20) COLLATE pg_catalog."default",
+    svc_year_from numeric(4, 0),
+    svc_year_to numeric(4, 0),
     svc_district character varying(40) COLLATE pg_catalog."default",
     svc_circuit character varying(40) COLLATE pg_catalog."default",
     svc_par_cong_inst character varying(60) COLLATE pg_catalog."default",
     CONSTRAINT tbl_service_area_pkey PRIMARY KEY (svc_id, svc_order_id)
 );
-
-DROP TABLE IF EXISTS public.tbl_spouse;
 
 CREATE TABLE IF NOT EXISTS public.tbl_spouse
 (
@@ -262,14 +302,16 @@ CREATE TABLE IF NOT EXISTS public.tbl_spouse
     sp_gender character varying(15) COLLATE pg_catalog."default",
     sp_birthdate date,
     sp_national character varying(15) COLLATE pg_catalog."default",
+    sp_religion character varying(25) COLLATE pg_catalog."default",
+    sp_denomination character varying(25) COLLATE pg_catalog."default",
     CONSTRAINT tbl_spouse_pkey PRIMARY KEY (sp_id)
 );
 
-DROP TABLE IF EXISTS public.test;
-
 CREATE TABLE IF NOT EXISTS public.test
 (
-    name character varying(50) COLLATE pg_catalog."default"
+    name character varying(50) COLLATE pg_catalog."default",
+    docu character varying(250)[] COLLATE pg_catalog."default",
+    zahl numeric(4, 0)
 );
 
 ALTER TABLE IF EXISTS public.tbl_admin_struc1
@@ -308,6 +350,22 @@ ALTER TABLE IF EXISTS public.tbl_dep_pers_rel
     NOT VALID;
 
 
+ALTER TABLE IF EXISTS public.tbl_edu_other
+    ADD CONSTRAINT tbl_edu_other_eo_id_fkey FOREIGN KEY (eo_id)
+    REFERENCES public.tbl_person (pers_id) MATCH SIMPLE
+    ON UPDATE NO ACTION
+    ON DELETE NO ACTION
+    NOT VALID;
+
+
+ALTER TABLE IF EXISTS public.tbl_edu_school
+    ADD CONSTRAINT tbl_edu_school_es_id_fkey FOREIGN KEY (es_id)
+    REFERENCES public.tbl_person (pers_id) MATCH SIMPLE
+    ON UPDATE NO ACTION
+    ON DELETE NO ACTION
+    NOT VALID;
+
+
 ALTER TABLE IF EXISTS public.tbl_elc_struc1
     ADD CONSTRAINT tbl_elc_struc1_es_id_fkey FOREIGN KEY (es_id)
     REFERENCES public.tbl_person (pers_id) MATCH SIMPLE
@@ -335,13 +393,5 @@ ALTER TABLE IF EXISTS public.tbl_residence
     NOT VALID;
 CREATE INDEX IF NOT EXISTS tbl_residence_pkey
     ON public.tbl_residence(res_pers_id);
-
-
-ALTER TABLE IF EXISTS public.tbl_school
-    ADD CONSTRAINT tbl_school_school_pers_id_fkey FOREIGN KEY (school_pers_id)
-    REFERENCES public.tbl_person (pers_id) MATCH SIMPLE
-    ON UPDATE NO ACTION
-    ON DELETE NO ACTION
-    NOT VALID;
 
 END;
